@@ -1,0 +1,445 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: TypePlaceholder,Arial,19,&H00200960,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,4,1,8,0010,0010,0020,1
+Style: Epititel,Comic Sans MS,25,&H00FFFFFF,&H000000FF,&H00222222,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0000,0000,0020,1
+Style: Internal Top,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.92,0:00:16.62,Internal,Lola,0000,0000,0000,,Um diese Uhrzeit …
+Dialogue: 0,0:00:16.92,0:00:18.58,Internal,Lola,0000,0000,0000,,sollte sie im Tempel sein.
+Dialogue: 0,0:00:20.72,0:00:22.87,Default,Einweiser,0000,0000,0000,,Bitte hier anstellen\Nfür die Heilige Jungfrau.
+Dialogue: 0,0:00:23.24,0:00:25.19,Default,Einweiser,0000,0000,0000,,Bitte ziehen Sie sich eine Nummer.
+Dialogue: 0,0:00:28.17,0:00:30.64,Default,Patient1,0000,0000,0000,,Ah! Ich fühl mich so befreit!
+Dialogue: 0,0:00:30.64,0:00:32.76,Default,Patientin1,0000,0000,0000,,Mein ganzer Körper fühlt sich leichter an.
+Dialogue: 0,0:00:35.16,0:00:37.21,Internal,Lola,0000,0000,0000,,Sie scheint auch heute\Nwieder alles zu geben.
+Dialogue: 0,0:00:37.63,0:00:39.78,Internal,Lola,0000,0000,0000,,Solange sie sich\Ndabei nicht verausgabt …
+Dialogue: 0,0:00:43.10,0:00:45.13,Flashback,Lola,0000,0000,0000,,Ich denke, jemand kann etwas tun.
+Dialogue: 0,0:00:45.13,0:00:47.35,Flashback,Lola,0000,0000,0000,,Eine heilige Jungfrau,\Ndie das Böse austreiben kann.
+Dialogue: 0,0:00:47.62,0:00:52.11,Flashback,Lola,0000,0000,0000,,Aber sie nimmt nur selten Aufträge\Nbezüglich Flüchen an.
+Dialogue: 0,0:00:52.65,0:00:55.84,Flashback,Lola,0000,0000,0000,,Das weiß ich nicht.\NVielleicht gibt es damit irgendein Problem.
+Dialogue: 0,0:00:55.84,0:00:58.98,Flashback,Lola,0000,0000,0000,,Aber sie sagt es selbst mir,\Nihrer besten Freundin, nicht.
+Dialogue: 0,0:01:07.43,0:01:08.33,Default,Einweiser2,0000,0000,0000,,Werte Heilige Jungfrau?
+Dialogue: 0,0:01:08.33,0:01:09.88,Default,Luna,0000,0000,0000,,Ich mache eine kurze Pause.
+Dialogue: 0,0:01:10.34,0:01:12.74,Default,Luna,0000,0000,0000,,Entschuldigen Sie,\Naber bitten warten Sie kurz.
+Dialogue: 0,0:01:12.74,0:01:13.76,Default,Einweiser2,0000,0000,0000,,Verstanden.
+Dialogue: 0,0:01:24.95,0:01:26.02,Default,Luna,0000,0000,0000,,Ah, ich bin eingeschlafen.
+Dialogue: 0,0:01:27.91,0:01:29.93,Default,Luna,0000,0000,0000,,Ich hab keine Kraft mehr.
+Dialogue: 0,0:01:29.93,0:01:33.40,Default,Lola,0000,0000,0000,,Haben Sie sich etwa überanstrengt,\Nwerte Heilige Jungfrau?
+Dialogue: 0,0:01:33.85,0:01:35.63,Default,Luna,0000,0000,0000,,Ach, du bist es, Lola.
+Dialogue: 0,0:01:35.63,0:01:38.84,Default,Lola,0000,0000,0000,,„Ach“, sagt sie.\NDabei mach ich mir doch Sorgen.
+Dialogue: 0,0:01:41.24,0:01:42.40,Default,Luna,0000,0000,0000,,Entschuldige.
+Dialogue: 0,0:01:45.21,0:01:50.00,Default,Luna,0000,0000,0000,,Was möchte die tüchtige Empfangsdame\Nder Gilde heute von mir?
+Dialogue: 0,0:01:50.84,0:01:53.24,Default,Lola,0000,0000,0000,,Es tut mir leid, dich zu stören,\Nwenn du erschöpft bist,
+Dialogue: 0,0:01:53.24,0:01:55.97,Default,Lola,0000,0000,0000,,aber ich habe ein wichtiges Anliegen.
+Dialogue: 0,0:01:56.32,0:01:57.18,Default,Luna,0000,0000,0000,,Hm?
+Dialogue: 0,0:03:29.88,0:03:33.79,Internal,Nor,0000,0000,0000,,Heute wird mich Lola\Nder Heiligen Jungfrau vorstellen.
+Dialogue: 0,0:03:34.94,0:03:37.10,Internal,Nor,0000,0000,0000,,Bis wir uns treffen, ist noch etwas Zeit.
+Dialogue: 0,0:03:37.10,0:03:39.52,Internal,Nor,0000,0000,0000,,Also möchte ich meine Meisterin\Num Rat fragen.
+Dialogue: 0,0:03:40.90,0:03:42.91,Default,Nor,0000,0000,0000,,Das versteckte Dungeon,\Ndas nur ich betreten kann!
+Dialogue: 0,0:03:43.13,0:03:45.28,Default,Nor,0000,0000,0000,,Trainiere mich zum\Nmächtigsten Mann der Welt!
+Dialogue: 0,0:03:54.86,0:03:56.17,Internal,Olivia,0000,0000,0000,,Püh.
+Dialogue: 0,0:03:56.67,0:04:01.67,Epititel,type,0000,0000,0000,,{\an1\fad(600,500)\blur1.2\pos(37,303)}„Die unbefleckte heilige Jungfrau“
+Dialogue: 0,0:03:56.82,0:03:59.05,Internal,Olivia,0000,0000,0000,,Püh. Püüüüh!
+Dialogue: 0,0:03:59.23,0:04:02.51,Default,Nor,0000,0000,0000,,M-Meisterin? Sind Sie irgendwie sauer?
+Dialogue: 0,0:04:02.51,0:04:07.10,Internal,Olivia,0000,0000,0000,,Na ja, du kommst\Nmich ja auch nie besuchen.
+Dialogue: 0,0:04:07.10,0:04:10.07,Internal,Olivia,0000,0000,0000,,Du warst sicher schon\Nzwei Wochen nicht hier.
+Dialogue: 0,0:04:10.63,0:04:14.56,Default,Nor,0000,0000,0000,,E-Entschuldigen Sie. Ich hatte vor,\Nfrüher vorbeizukommen.
+Dialogue: 0,0:04:15.16,0:04:17.44,Default,Nor,0000,0000,0000,,Doch dann gab es ein paar Probleme.
+Dialogue: 0,0:04:17.67,0:04:18.91,Internal,Olivia,0000,0000,0000,,Oha?
+Dialogue: 0,0:04:20.79,0:04:24.66,Internal,Olivia,0000,0000,0000,,Hm. Eine Herzogstochter wurde verflucht?
+Dialogue: 0,0:04:24.66,0:04:25.32,Default,Nor,0000,0000,0000,,Ja.
+Dialogue: 0,0:04:25.80,0:04:29.81,Internal,Olivia,0000,0000,0000,,Der Grund für den Fluch könnte\Nmit ihrer Familie zusammenhängen.
+Dialogue: 0,0:04:29.81,0:04:33.32,Default,Nor,0000,0000,0000,,Mit ihrer Familie?\NEtwa mit ihren Vorfahren?
+Dialogue: 0,0:04:33.32,0:04:35.74,Internal,Olivia,0000,0000,0000,,Genau. So was gibt’s.
+Dialogue: 0,0:04:35.74,0:04:38.23,Internal,Olivia,0000,0000,0000,,Flüche, die auf die Nachfahren\Ndes Ziels wirken.
+Dialogue: 0,0:04:38.72,0:04:40.09,Default,Nor,0000,0000,0000,,Wie gemein.
+Dialogue: 0,0:04:40.80,0:04:43.06,Internal,Olivia,0000,0000,0000,,Um einen Skill zu erschaffen,\Nder den Fluch auslöschen kann,
+Dialogue: 0,0:04:43.06,0:04:46.42,Internal,Olivia,0000,0000,0000,,werden sicher mehr als 10.000 LP benötigt.
+Dialogue: 0,0:04:46.42,0:04:50.76,Internal,Olivia,0000,0000,0000,,Ich glaube, es dieser Heiligen Jungfrau\Nzu überlassen, wäre die richtige Wahl.
+Dialogue: 0,0:04:50.76,0:04:53.23,Default,Nor,0000,0000,0000,,Ja. Das hatte ich vor.
+Dialogue: 0,0:04:53.45,0:04:56.20,Default,Olivia,0000,0000,0000,,Aber was ist die Heilige Jungfrau\Nwohl für eine Person?
+Dialogue: 0,0:04:56.20,0:05:00.15,Internal,Olivia,0000,0000,0000,,Wenn sie Flüche austreiben kann,\Nist sie womöglich ein Elf.
+Dialogue: 0,0:05:00.64,0:05:01.82,Default,Nor,0000,0000,0000,,Ein Elf?
+Dialogue: 0,0:05:02.24,0:05:03.86,Default,Nor,0000,0000,0000,,Die sieht man nicht oft.
+Dialogue: 0,0:05:04.35,0:05:07.80,Internal,Olivia,0000,0000,0000,,Mit anderen Spezies deine Begierden\Nzu befriedigen, ist nicht schlecht!
+Dialogue: 0,0:05:07.80,0:05:10.03,Internal,Olivia,0000,0000,0000,,Du wirst eine Menge LP generieren!
+Dialogue: 0,0:05:10.31,0:05:11.24,Default,Nor,0000,0000,0000,,Wie bitte?!
+Dialogue: 0,0:05:12.55,0:05:15.71,Internal,Olivia,0000,0000,0000,,Du wirst dich auf sie stürzen müssen.
+Dialogue: 0,0:05:15.71,0:05:17.00,Default,Nor,0000,0000,0000,,W-Was …
+Dialogue: 0,0:05:18.38,0:05:23.26,Default,Nor,0000,0000,0000,,Übrigens, Meisterin, wie würde ich es schaffen,\Nin kürzester Zeit 10.000 LP zu generieren?
+Dialogue: 0,0:05:23.61,0:05:27.03,Internal,Olivia,0000,0000,0000,,Ich würde … Leih mir mal dein Ohr.
+Dialogue: 0,0:05:32.20,0:05:33.22,Internal,Olivia,0000,0000,0000,,Zuerst …
+Dialogue: 0,0:05:34.23,0:05:37.10,Internal,Olivia,0000,0000,0000,,musst du ihre Körper empfindlicher machen, …
+Dialogue: 0,0:05:37.31,0:05:39.20,Internal,Olivia,0000,0000,0000,,dann fesselst du sie …
+Dialogue: 0,0:05:39.77,0:05:42.75,Internal,Olivia,0000,0000,0000,,und während sie da liegen …
+Dialogue: 0,0:05:44.10,0:05:46.95,Internal,Olivia,0000,0000,0000,,Wenn du das tust,\Nhast du sie schnell zusammen.
+Dialogue: 0,0:05:49.30,0:05:52.81,Internal,Olivia,0000,0000,0000,,Das war ein Scherz.\NAch, was bist du niedlich, Nor.
+Dialogue: 0,0:05:53.47,0:05:56.25,Internal,Nor,0000,0000,0000,,S-Sie treibt einfach ihr Spielchen mit mir.
+Dialogue: 0,0:05:56.84,0:05:59.38,Internal,Olivia,0000,0000,0000,,Sofort 10.000 zu generieren,\Nmag nicht möglich sein,
+Dialogue: 0,0:05:59.38,0:06:03.20,Internal,Olivia,0000,0000,0000,,aber ich kann dir einen guten Skill\Nzur LP-Generierung verraten.
+Dialogue: 0,0:06:03.20,0:06:04.81,Default,Nor,0000,0000,0000,,Wirklich?!
+Dialogue: 0,0:06:04.81,0:06:05.96,Default,Nor,0000,0000,0000,,Ich bitte darum!
+Dialogue: 0,0:06:05.96,0:06:11.62,Internal,Olivia,0000,0000,0000,,Okay! Deine große Meisterin Olivia\Nwird dich einweihen!
+Dialogue: 0,0:06:16.58,0:06:18.73,Internal,Olivia,0000,0000,0000,,Und dieses Wissen wird nun …
+Dialogue: 0,0:06:18.73,0:06:21.48,Internal,Olivia,0000,0000,0000,,Wenig Einsatz, großer Gewinn …\NDer Skill heißt:
+Dialogue: 0,0:06:23.27,0:06:23.40,TypePlaceholder,type,0000,0000,0000,,{\fnComic Sans MS\b1\move(320,-10,320,115,0,115)\bord2\shad1.8\fs62\an2\c&HA855DD&\4c&H9B6CA8&}Lucky Schlingel
+Dialogue: 0,0:06:23.40,0:06:32.37,TypePlaceholder,type,0000,0000,0000,,{\fnComic Sans MS\b1\move(320,115,320,85,2250,2527)\bord2\shad1.8\fs62\t(2250,2527,\fscx87\fscy87)\an2\c&HA855DD&\4c&H9B6CA8&}Lucky Schlingel
+Dialogue: 0,0:06:25.22,0:06:29.69,Internal,Olivia,0000,0000,0000,,Er benötigt nur 300 LP,\Naber der Erfolg ist gesichert!
+Dialogue: 0,0:06:25.65,0:06:32.37,TypePlaceholder,type,0000,0000,0000,,{\b1\fs32\bord2.5\an2\b1\shad2.5\c&HFFFFFF&\fad(250,0)\3c&H1B1B1B&\4c&H1B1B1B&\move(447,300,320,285,0,250)}Kostet nur 300 LP!
+Dialogue: 0,0:06:29.69,0:06:32.37,Internal,Olivia,0000,0000,0000,,Du wirst unglaubliche Erfahrungen machen!
+Dialogue: 0,0:06:33.99,0:06:35.95,Default,Nor,0000,0000,0000,,„Lucky Schlingel“\Nwird mit „Erschaffung“ erstellt.
+Dialogue: 2,0:06:35.79,0:06:36.29,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\fad(175,0)\alpha&HFF&}LP {\fs22\bord1.2\alpha&H00&}2270
+Dialogue: 0,0:06:35.79,0:06:37.25,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(125,35)\fad(175,0)}m 0 0 l 220 0 220 150 0 150{\p0}
+Dialogue: 1,0:06:35.79,0:06:37.25,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(125,35)\fad(175,0)}m 0 0 l 220 0 220 150 0 150{\p0}
+Dialogue: 2,0:06:35.79,0:06:37.25,TypePlaceholder,type,0000,0000,0000,,{\b1\fs16\bord1.2\an5\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(66,34)\fad(175,0)}Nor Stalgia
+Dialogue: 2,0:06:35.79,0:06:37.25,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\fad(175,0)}LP {\fs22\bord1.2\alpha&HFF&}1970\N{\alpha&H00&\fs13\b0\bord0\shad1}Skills\N\N„Großer Weiser“\N{\fscx95}„Erschaffung“ „Bearbeitung“ „Zuteilung“\N{\fscx100}„LP-Umwandlung“ „Steingeschoss“\N„Expertenblick“ „Kopfschmerzresistenz“\N„Dimensionaufbewahrung C“\N„Backstep“ „verbessert Abrollen“\N„Schultermassage“ {\alpha&HFF&\t(750,856,\alpha&H00&)\t(1022,1023,\alpha&H5D&)\t(1105,1106,\alpha&H00&)\t(1188,1189,\alpha&H5D&)\t(1272,1273,\alpha&H00&)}„Lucky Schlingel“
+Dialogue: 2,0:06:36.29,0:06:36.33,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\alpha&HFF&}LP {\fs22\bord1.2\alpha&H00&}2194
+Dialogue: 2,0:06:36.33,0:06:36.37,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\alpha&HFF&}LP {\fs22\bord1.2\alpha&H00&}2115
+Dialogue: 2,0:06:36.37,0:06:36.41,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\alpha&HFF&}LP {\fs22\bord1.2\alpha&H00&}2046
+Dialogue: 2,0:06:36.41,0:06:36.45,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\alpha&HFF&}LP {\fs22\bord1.2\alpha&H00&}1993
+Dialogue: 2,0:06:36.45,0:06:37.25,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(25,46)\alpha&HFF&}LP {\fs22\bord1.2\alpha&H00&}1970
+Dialogue: 0,0:06:46.82,0:06:49.28,Default,Ema,0000,0000,0000,,Nor! Du bist spät dran!
+Dialogue: 0,0:06:49.28,0:06:49.63,Default,Nor,0000,0000,0000,,Hm?
+Dialogue: 0,0:06:50.18,0:06:52.72,Default,Ema,0000,0000,0000,,Die Heilige Jungfrau und Lola kommen gleich!
+Dialogue: 0,0:06:52.72,0:06:53.64,Default,Nor,0000,0000,0000,,Was?
+Dialogue: 0,0:06:57.39,0:06:58.46,Default,Nor,0000,0000,0000,,Entschuldige!
+Dialogue: 0,0:07:10.42,0:07:14.28,Internal,Nor,0000,0000,0000,,M-Mein Sturz zwischen die Schleimbrüste.
+Dialogue: 0,0:07:30.01,0:07:32.59,Internal,Nor,0000,0000,0000,,Ich bin gerade viel zu „lucky“.
+Dialogue: 0,0:07:33.47,0:07:37.11,Internal,Nor,0000,0000,0000,,Ist das etwa der Effekt\Nvon „Lucky Schlingel“?
+Dialogue: 0,0:07:38.72,0:07:41.82,Internal Top,Olivia,0000,0000,0000,,Täterätä!
+Dialogue: 0,0:07:39.04,0:07:41.30,Internal,Nor,0000,0000,0000,,Der Skill ist ja mal heftig.
+Dialogue: 0,0:07:41.84,0:07:43.85,Internal,Nor,0000,0000,0000,,Wie zu erwarten von meiner Meisterin.
+Dialogue: 0,0:07:43.03,0:07:45.92,Internal Top,Olivia,0000,0000,0000,,Täterätä!
+Dialogue: 0,0:07:44.38,0:07:47.21,Internal,Nor,0000,0000,0000,,Aber das hätte auf mein tägliches\NLeben einen ziemlichen Einfluss.
+Dialogue: 0,0:07:49.93,0:07:51.86,Internal,Nor,0000,0000,0000,,Das sollte ich mit „Bearbeiten“ anpassen.
+Dialogue: 2,0:07:51.86,0:07:59.16,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2960
+Dialogue: 0,0:07:51.86,0:08:08.63,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(506,31)\fad(0,500)\t(7600,7900,\fscy120)\t(11300,11600,\fscy155)}m 0 0 l 220 0 220 83 0 83{\p0}
+Dialogue: 1,0:07:51.86,0:08:08.63,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H86636B&\pos(506,31)\fad(0,500)\t(7600,7900,\fscy120)\t(11300,11600,\fscy155)}m 0 0 l 220 0 220 83 0 83{\p0}
+Dialogue: 2,0:07:51.86,0:08:08.63,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\fad(0,500)}LP {\fs22\bord2\alpha&HFF}2800
+Dialogue: 2,0:07:51.86,0:08:08.63,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\fad(1250,500)\pos(415,45)}Lucky Schlingel
+Dialogue: 0,0:07:52.22,0:07:53.82,Internal,Nor,0000,0000,0000,,„Lucky Schlingel“.
+Dialogue: 2,0:07:53.32,0:07:59.66,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\alpha&HFF\t(0,1696,\alpha&H00)\pos(415,64.5)}Wenn das andere Geschlecht\Nin der Nähe ist, geschehen\N{\t(1900,3700,\alpha&H00&)}schlüpfrige Dinge.
+Dialogue: 0,0:07:53.82,0:07:58.70,Internal,Nor,0000,0000,0000,,In „Wenn das andere Geschlecht ihn der Nähe ist,\Ngeschehen schlüpfrige Dinge“ ein „manchmal“ einfügen.
+Dialogue: 2,0:07:58.70,0:07:59.33,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\fad(175,175)\move(478,17,478,10,0,200)}10 LP verbraucht
+Dialogue: 2,0:07:59.16,0:07:59.20,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2958
+Dialogue: 2,0:07:59.20,0:07:59.24,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2956
+Dialogue: 2,0:07:59.24,0:07:59.29,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2954
+Dialogue: 2,0:07:59.29,0:07:59.33,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2952
+Dialogue: 2,0:07:59.33,0:07:59.37,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2951
+Dialogue: 2,0:07:59.37,0:08:03.50,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2950
+Dialogue: 2,0:07:59.66,0:08:08.63,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(415,64.5)\fad(0,500)}Wenn das andere Geschlecht\Nin der Nähe ist, geschehen\N{\alpha&HFF\t(125,725,\alpha&H00&)}„manchmal“\N{\alpha&H00&}schlüpfrige Dinge.\N{\alpha&HFF&\t(3900,5533,\alpha&H00&)}„Außer es geschehen\Ngerade ernsthafte Dinge“
+Dialogue: 0,0:08:00.62,0:08:03.32,Internal,Nor,0000,0000,0000,,Und „Außer es geschehen\Ngerade ernsthafte Dinge“.
+Dialogue: 2,0:08:03.08,0:08:03.71,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\fad(175,175)\move(482,17,482,10,0,200)}150 LP verbraucht
+Dialogue: 2,0:08:03.50,0:08:03.54,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2919
+Dialogue: 2,0:08:03.54,0:08:03.58,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2885
+Dialogue: 2,0:08:03.58,0:08:03.62,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2854
+Dialogue: 2,0:08:03.62,0:08:03.67,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2828
+Dialogue: 2,0:08:03.67,0:08:03.71,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2808
+Dialogue: 2,0:08:03.71,0:08:08.63,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord1.5\b1\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\pos(409,18)\fad(0,500)\alpha&HFF}LP {\fs22\bord2\alpha&H00}2800
+Dialogue: 0,0:08:05.94,0:08:08.48,Internal,Nor,0000,0000,0000,,Ich muss sicherstellen,\Ndass er nicht zur falschen Zeit auslöst.
+Dialogue: 0,0:08:11.76,0:08:14.26,Default,Ema,0000,0000,0000,,Was grinst du gerade so komisch?!
+Dialogue: 0,0:08:14.26,0:08:16.18,Default,Nor,0000,0000,0000,,A-Ach, mach ich doch gar nicht.
+Dialogue: 0,0:08:16.18,0:08:19.28,Top,Ema,0000,0000,0000,,Du hast gerade auch anderen Frauen\Nunter den Rock geschaut!
+Dialogue: 0,0:08:17.20,0:08:19.79,Default,Luna,0000,0000,0000,,Das ist also Nor. Aha.
+Dialogue: 0,0:08:19.28,0:08:21.21,Top,Ema,0000,0000,0000,,Du bist blöd, Nor!
+Dialogue: 0,0:08:20.58,0:08:24.38,Default,Luna,0000,0000,0000,,Hm. Niedlich ist er schon.
+Dialogue: 0,0:08:24.38,0:08:25.76,Default,Luna,0000,0000,0000,,Er ist mein Typ.
+Dialogue: 0,0:08:25.76,0:08:28.52,Default,Lola,0000,0000,0000,,Luna! Was soll das bedeuten?!
+Dialogue: 0,0:08:28.88,0:08:30.56,Default,Ema,0000,0000,0000,,Oh, Fräulein Lola.
+Dialogue: 0,0:08:30.56,0:08:31.61,Default,Nor,0000,0000,0000,,Und …
+Dialogue: 0,0:08:33.03,0:08:34.49,Default,Nor,0000,0000,0000,,die Heilige Jungfrau?
+Dialogue: 0,0:08:37.82,0:08:40.45,Default,Lola,0000,0000,0000,,Entschuldigt die Verspätung\Nihr beiden. Sie ist …
+Dialogue: 0,0:08:41.13,0:08:44.21,Default,Luna,0000,0000,0000,,Mein Name ist Luna Heela.\NSchön euch kennenzulernen.
+Dialogue: 0,0:08:44.44,0:08:46.05,Default,Ema,0000,0000,0000,,E-Ebenso.
+Dialogue: 0,0:08:46.05,0:08:48.42,Default,Nor,0000,0000,0000,,A-Auf gute Zusammenarbeit.
+Dialogue: 0,0:08:48.42,0:08:49.50,Default,Ema,0000,0000,0000,,Genau.
+Dialogue: 0,0:08:49.50,0:08:52.22,Default,Luna,0000,0000,0000,,Ich habe einen Tisch reserviert.\NDort können wir uns unterhalten.
+Dialogue: 0,0:08:55.32,0:08:57.48,Internal,Ema,0000,0000,0000,,Feines, blondes Haar.
+Dialogue: 0,0:08:57.48,0:08:59.66,Internal,Ema,0000,0000,0000,,Eine schöne Silhouette.
+Dialogue: 0,0:08:59.66,0:09:01.70,Internal,Ema,0000,0000,0000,,Ein straffer Po.
+Dialogue: 0,0:09:01.70,0:09:04.02,Internal,Ema,0000,0000,0000,,Und diese langen Beine.
+Dialogue: 0,0:09:05.93,0:09:07.65,Default,Ema,0000,0000,0000,,Ich gewinne nur bei der Oberweite!
+Dialogue: 0,0:09:08.20,0:09:10.89,Internal,Ema,0000,0000,0000,,Sie ist jemand,\Nden Nor nicht hätte treffen dürfen.
+Dialogue: 0,0:09:10.89,0:09:12.86,Default,Nor,0000,0000,0000,,Ema? Komm schon.
+Dialogue: 0,0:09:20.33,0:09:22.79,Default,Luna,0000,0000,0000,,Lola hat mir schon einen Teil erzählt.
+Dialogue: 0,0:09:23.13,0:09:25.71,Default,Luna,0000,0000,0000,,Die Freundin, die ich behandeln soll, ist …
+Dialogue: 0,0:09:25.71,0:09:27.94,Default,Nor,0000,0000,0000,,Maria, die Tochter des Herzogs.
+Dialogue: 0,0:09:32.60,0:09:33.90,Default,Luna,0000,0000,0000,,Sie also …
+Dialogue: 0,0:09:34.60,0:09:36.75,Default,Luna,0000,0000,0000,,Ich habe sie schon mal untersucht, …
+Dialogue: 0,0:09:37.75,0:09:39.68,Default,Luna,0000,0000,0000,,aber dann eine Behandlung abgelehnt.
+Dialogue: 0,0:09:39.88,0:09:41.26,Default,Nor,0000,0000,0000,,Warum denn das?
+Dialogue: 0,0:09:41.26,0:09:44.31,Default,Nor,0000,0000,0000,,Ich hatte gehört,\Ndass Sie den Skill Fluchaufhebung besäßen.
+Dialogue: 0,0:09:44.51,0:09:47.25,Default,Luna,0000,0000,0000,,Ja, ich kann den Skill benutzen.
+Dialogue: 0,0:09:47.25,0:09:48.43,Default,Luna,0000,0000,0000,,Ist ganz einfach.
+Dialogue: 0,0:09:48.91,0:09:49.81,Default,Luna,0000,0000,0000,,Aber …
+Dialogue: 0,0:09:57.64,0:10:00.74,Default,Luna,0000,0000,0000,,Den 16-Jahre-Todesfluch\Nkann ich nicht aufheben.
+Dialogue: 0,0:10:00.74,0:10:02.83,Default,Luna,0000,0000,0000,,Ich kann sie nicht retten.
+Dialogue: 0,0:10:07.72,0:10:10.25,Default,Luna,0000,0000,0000,,Wie geht es Prinzessin Maria derzeit?
+Dialogue: 0,0:10:10.63,0:10:12.82,Default,Nor,0000,0000,0000,,Ihr bleibt noch eine Woche.
+Dialogue: 0,0:10:14.15,0:10:16.42,Default,Nor,0000,0000,0000,,Sie hat schlimme Anfälle.
+Dialogue: 0,0:10:16.95,0:10:20.47,Default,Nor,0000,0000,0000,,Und diese sollen in einem\Nimmer kürzer werdenden Intervall auftreten.
+Dialogue: 0,0:10:20.81,0:10:23.92,Default,Luna,0000,0000,0000,,Ihr Fluch ist also doch\Nschon so weit fortgeschritten.
+Dialogue: 0,0:10:24.56,0:10:28.56,Default,Lola,0000,0000,0000,,Luna, das musst du dir nicht anlasten.
+Dialogue: 0,0:10:28.56,0:10:31.81,Default,Lola,0000,0000,0000,,Du rettest jeden Tag unzählige Menschen.
+Dialogue: 0,0:10:31.81,0:10:34.55,Default,Lola,0000,0000,0000,,Das allein ist schon\Neine beeindruckende Leistung.
+Dialogue: 0,0:10:35.80,0:10:39.46,Internal,Nor,0000,0000,0000,,Luna lastet es sich ziemlich selbst an.
+Dialogue: 0,0:10:40.06,0:10:42.44,Internal,Nor,0000,0000,0000,,Ob sie vielleicht irgendein Geheimnis hat?
+Dialogue: 0,0:10:44.22,0:10:45.38,Internal,Nor,0000,0000,0000,,„Expertenblick“.
+Dialogue: 2,0:10:45.74,0:10:48.91,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\move(42,48,47,48,2825,3158)\fad(0,300)}Rasse: {\fs16}Halbelfe{\fs13}\NAlter: {\fs16}17{\fs13}\NBeruf: {\fs16}Heilige Jungfrau, Abenteurerin{\fs13}\NSkills:{\fs16} „Magie B“ „Energy Shot“\N„Heal Shot“ „Feigheit“ „Fluchaufhebung“
+Dialogue: 1,0:10:45.74,0:10:56.38,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(172,35)}m 0 0 l 278 0 277 100 0 100{\p0}
+Dialogue: 1,0:10:45.74,0:10:56.38,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(172,35)}m 0 0 l 278 0 277 100 0 100{\p0}
+Dialogue: 2,0:10:45.74,0:10:56.38,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.2\an5\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(89,33)}Luna Heela
+Dialogue: 2,0:10:45.74,0:10:56.38,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord1.2\an6\b1\shad1\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\pos(295,30)}Lv.{\fs28\bord1.5\shad1.4}35
+Dialogue: 0,0:10:46.01,0:10:49.79,Internal,Nor,0000,0000,0000,,Ja. Sie hat den Skill „Fluchaufhebung“.
+Dialogue: 2,0:10:49.04,0:10:56.38,TypePlaceholder,type,0000,0000,0000,,{\b1\fs13\bord0\b0\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an7\move(37,48,42,48,0,300)\fad(300,0)}Skill: {\fs16}Fluchaufhebung\N\h\h\h\h\h\h\hHebt die Wirkung von Fluchskills auf.\N\h\h\h\h\h\h\hJe nach Stärke des Fluchs\N\h\h\h\h\h\h\hverringert sich die\N\h\h\h\h\h\h\hLebensdauer des Nutzers
+Dialogue: 0,0:10:49.79,0:10:51.99,Internal,Nor,0000,0000,0000,,Hebt die Wirkung von Fluchskills auf.
+Dialogue: 0,0:10:52.50,0:10:56.38,Internal,Nor,0000,0000,0000,,Je nach Stärke des Fluchs verringert sich die Lebensdauer des Nutzers?!
+Dialogue: 0,0:10:57.60,0:11:01.64,Internal,Nor,0000,0000,0000,,Das heißt, dass Lunas Lebensdauer\Nbei der Aufhebung von Flüchen …
+Dialogue: 0,0:11:13.87,0:11:17.10,Default,Arbeiter,0000,0000,0000,,Weiter so!\NDie Ladung kommt langsam hoch!
+Dialogue: 0,0:11:19.39,0:11:22.49,Internal,Nor,0000,0000,0000,,Elfen leben deutlich länger als Menschen.
+Dialogue: 0,0:11:22.78,0:11:25.41,Internal,Nor,0000,0000,0000,,Aber es geht also noch darüber hinaus?
+Dialogue: 0,0:11:25.63,0:11:27.75,Internal,Nor,0000,0000,0000,,Marias Fluch muss sehr stark sein.
+Dialogue: 0,0:11:31.28,0:11:32.30,Default,Luna,0000,0000,0000,,Herr Nor.
+Dialogue: 0,0:11:34.20,0:11:36.41,Default,Luna,0000,0000,0000,,Bitte bringen Sie mich zu Fräulein Maria.
+Dialogue: 0,0:11:37.28,0:11:39.34,Default,Luna,0000,0000,0000,,Wir werden ihren Fluch aufheben.
+Dialogue: 0,0:11:39.34,0:11:43.03,Default,Ema,0000,0000,0000,,A-Aber du hast doch gerade gesagt,\Ndass du den Fluch nicht aufheben kannst.
+Dialogue: 0,0:11:44.06,0:11:45.18,Default,Luna,0000,0000,0000,,Na ja …
+Dialogue: 0,0:11:45.88,0:11:47.52,Default,Nor,0000,0000,0000,,Ema, Frau Lola?
+Dialogue: 0,0:11:47.99,0:11:49.85,Default,Nor,0000,0000,0000,,Könntet ihr mich mit ihr allein lassen?
+Dialogue: 0,0:11:49.85,0:11:50.76,Default,Lola,0000,0000,0000,,Äh …
+Dialogue: 0,0:11:51.88,0:11:54.26,Default,Nor,0000,0000,0000,,Ich möchte mich mit ihr\Nunter vier Augen unterhalten.
+Dialogue: 0,0:11:54.91,0:11:55.75,Default,Luna,0000,0000,0000,,Hm …
+Dialogue: 0,0:11:58.79,0:12:00.32,Default,Nor,0000,0000,0000,,Entschuldigen Sie mir das bitte.
+Dialogue: 0,0:12:00.58,0:12:04.19,Default,Nor,0000,0000,0000,,Ich habe Ihren Status\Nmit meinem Skill angeschaut.
+Dialogue: 0,0:12:05.74,0:12:09.28,Default,Nor,0000,0000,0000,,Wenn Sie Fräulein Maria helfen,\Nwürden Sie im Gegenzug …
+Dialogue: 0,0:12:09.28,0:12:11.12,Default,Luna,0000,0000,0000,,Das reicht. Sprechen Sie nicht weiter.
+Dialogue: 0,0:12:11.12,0:12:12.09,Default,Nor,0000,0000,0000,,Aber …
+Dialogue: 0,0:12:12.09,0:12:15.42,Default,Luna,0000,0000,0000,,Sie wird bald sterben, oder?
+Dialogue: 0,0:12:16.73,0:12:19.17,Default,Luna,0000,0000,0000,,Wenn ein Leben auf dem Spiel steht,
+Dialogue: 0,0:12:19.17,0:12:21.17,Default,Luna,0000,0000,0000,,kann ich das nicht ignorieren.
+Dialogue: 0,0:12:26.18,0:12:28.68,Default,Luna,0000,0000,0000,,Ich will sie retten.
+Dialogue: 0,0:12:29.99,0:12:31.89,Default,Luna,0000,0000,0000,,Genau wie meine Mutter es getan hätte.
+Dialogue: 0,0:12:35.51,0:12:38.27,Default,Luna,0000,0000,0000,,Meine Mutter war auch\Neine Heilige Jungfrau.
+Dialogue: 0,0:12:40.06,0:12:44.20,Default,Luna,0000,0000,0000,,Sie hat immer weiter Flüche aufgehoben,\Nobwohl es ihre Lebensdauer verkürzte.
+Dialogue: 0,0:12:45.64,0:12:49.60,Default,Luna,0000,0000,0000,,Sie hat ihr Leben verkürzt,\Num leidenden Menschen zu helfen.
+Dialogue: 0,0:12:50.17,0:12:53.10,Default,Luna,0000,0000,0000,,Und deshalb ist sie bereits verstorben.
+Dialogue: 0,0:12:53.68,0:12:54.57,Default,Luna,0000,0000,0000,,Aber …
+Dialogue: 0,0:12:56.56,0:12:59.80,Default,Luna,0000,0000,0000,,ich bin stolz auf meine Mutter.
+Dialogue: 0,0:13:04.72,0:13:05.66,Default,Nor,0000,0000,0000,,Fräulein Luna …
+Dialogue: 0,0:13:06.12,0:13:09.02,Default,Luna,0000,0000,0000,,Ich, als ihre Erbin,
+Dialogue: 0,0:13:09.02,0:13:10.18,Default,Luna,0000,0000,0000,,muss auch für andere
+Dialogue: 0,0:13:10.18,0:13:11.52,Default,Luna,0000,0000,0000,,diese Kraft …
+Dialogue: 0,0:13:20.09,0:13:22.32,Default,Luna,0000,0000,0000,,The Hidden Dungeon Only I Can Enter.
+Dialogue: 0,0:13:28.67,0:13:30.22,Default,Arbeiter,0000,0000,0000,,Es ist furchtbar!
+Dialogue: 0,0:13:30.22,0:13:32.87,Default,Arbeiter2,0000,0000,0000,,Die Wand ist eingestürzt! Wir brauchen Hilfe!
+Dialogue: 0,0:13:32.87,0:13:34.67,Default,Arbeiter2,0000,0000,0000,,Ein Kind wurde verschüttet!
+Dialogue: 0,0:13:34.67,0:13:36.00,Default,Arbeiter3,0000,0000,0000,,Es ist schwer verletzt.
+Dialogue: 0,0:13:37.43,0:13:39.23,Default,Lola,0000,0000,0000,,Geht es dir gut?
+Dialogue: 0,0:13:43.82,0:13:45.09,Default,Ema,0000,0000,0000,,Bleib wach!
+Dialogue: 0,0:13:45.09,0:13:47.05,Default,Lola,0000,0000,0000,,Schnell, du musst ihn heilen!
+Dialogue: 0,0:13:48.57,0:13:50.70,Default,Luna,0000,0000,0000,,Ich frage mich manchmal, …
+Dialogue: 0,0:13:51.67,0:13:54.42,Default,Luna,0000,0000,0000,,warum Menschen geboren werden.
+Dialogue: 0,0:13:55.50,0:13:59.10,Default,Nor,0000,0000,0000,,Ich habe darauf noch keine Antwort gefunden.
+Dialogue: 0,0:13:59.34,0:14:00.47,Default,Luna,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:14:01.55,0:14:04.07,Default,Luna,0000,0000,0000,,Du wirst die Antwort sicher bald finden.
+Dialogue: 0,0:14:04.39,0:14:07.57,Default,Nor,0000,0000,0000,,Sie haben Ihre Antwort schon gefunden, oder?
+Dialogue: 0,0:14:08.36,0:14:09.14,Default,Luna,0000,0000,0000,,Ja.
+Dialogue: 0,0:14:09.91,0:14:13.13,Default,Luna,0000,0000,0000,,Menschen zu retten und ein Lächeln\Nauf ihre Gesichter zu zaubern.
+Dialogue: 0,0:14:13.71,0:14:15.50,Default,Luna,0000,0000,0000,,Das ist meine Bestimmung.
+Dialogue: 0,0:14:21.80,0:14:23.30,Default,Luna,0000,0000,0000,,„Heal Shot“!
+Dialogue: 0,0:14:32.34,0:14:33.64,Default,Ema,0000,0000,0000,,Was ein Glück.
+Dialogue: 0,0:14:33.64,0:14:34.31,Default,Lola,0000,0000,0000,,Luna …
+Dialogue: 0,0:14:34.31,0:14:38.90,Default,Nor,0000,0000,0000,,U-Unglaublich.\NDer Name „Heilige Jungfrau“ ist nicht nur Zierde.
+Dialogue: 0,0:14:42.27,0:14:43.28,Default,Nor,0000,0000,0000,,Fräulein Luna …
+Dialogue: 0,0:14:46.23,0:14:47.52,Default,Nor,0000,0000,0000,,Hä?!
+Dialogue: 0,0:14:48.58,0:14:49.61,Default,Nor,0000,0000,0000,,Fräulein Luna!
+Dialogue: 0,0:14:50.70,0:14:51.79,Default,Nor,0000,0000,0000,,Ist alles in Ordnu…
+Dialogue: 0,0:14:52.23,0:14:53.03,Default,Nor,0000,0000,0000,,Hä?!
+Dialogue: 0,0:14:56.08,0:14:58.96,Default,Luna,0000,0000,0000,,I-Ich will nicht sterben!
+Dialogue: 0,0:15:00.57,0:15:03.32,Default,Luna,0000,0000,0000,,Ich hab Angst vor Flüchen!
+Dialogue: 0,0:15:03.32,0:15:05.46,Default,Nor,0000,0000,0000,,Wo ist Ihre Entschlossenheit hin?!
+Dialogue: 0,0:15:05.71,0:15:07.53,Internal,Nor,0000,0000,0000,,Ist das etwa …
+Dialogue: 0,0:15:08.51,0:15:09.67,TypePlaceholder,type,0000,0000,0000,,{\b1\fs62\bord3\an5\b1\shad3\3a&H1D&\4a&H3A&\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(225,200)\move(475,58,483,58,0,225)}Skill
+Dialogue: 0,0:15:08.51,0:15:09.67,TypePlaceholder,type,0000,0000,0000,,{\b1\fs42\bord3\an5\b1\shad3\c&HFFFFFF&\3a&H1D&\4a&H3A&\3c&H1B1B1B&\4c&H1B1B1B&\fad(225,200)\move(312,114,320,114,0,225)}„Feigheit“
+Dialogue: 0,0:15:09.76,0:15:15.97,TypePlaceholder,type,0000,0000,0000,,{\b1\fs52\bord3\an5\b1\3a&H1D&\4a&H3A&\shad3\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(225,0)\move(447,58,455,58,0,225)}Feigheit
+Dialogue: 0,0:15:10.09,0:15:15.97,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\an5\b1\3a&H1D&\4a&H3A&\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(3350,0)\pos(459,123)}Je mehr magische Kraft\Nder Nutzer verbraucht,\Ndesto feiger wird er.
+Dialogue: 0,0:15:13.30,0:15:15.97,Internal,Nor,0000,0000,0000,,Das klingt kontraproduktiv …
+Dialogue: 0,0:15:20.81,0:15:21.80,Default,Lola,0000,0000,0000,,Luna?!
+Dialogue: 0,0:15:22.28,0:15:24.11,Default,Lola,0000,0000,0000,,Ah, also doch …
+Dialogue: 0,0:15:24.99,0:15:27.58,Default,Lola,0000,0000,0000,,Das passiert Luna jedes Mal.
+Dialogue: 0,0:15:27.58,0:15:30.47,Default,Lola,0000,0000,0000,,Keine Sorge.\NSie wird gleich wieder aufwachen.
+Dialogue: 0,0:15:34.08,0:15:35.46,Default,Luna,0000,0000,0000,,Mama …
+Dialogue: 0,0:15:35.46,0:15:37.65,Default,Lola,0000,0000,0000,,Ja, Mama ist da.
+Dialogue: 0,0:15:37.65,0:15:39.95,Default,Lola,0000,0000,0000,,Du darfst wieder aufwachen.
+Dialogue: 0,0:15:42.14,0:15:44.01,Default,Luna,0000,0000,0000,,Entschuldigt, dass ihr mich so sehen musstet.
+Dialogue: 0,0:15:44.01,0:15:45.84,Default,Luna,0000,0000,0000,,Bitte vergesst, was passiert ist.
+Dialogue: 0,0:15:45.84,0:15:50.06,Default,Luna,0000,0000,0000,,Ich bitte euch! Ich bitte euch!\NIch bitte euch!
+Dialogue: 0,0:15:50.06,0:15:51.41,Default,Ema,0000,0000,0000,,A-Ah, Sie müssen doch nicht …
+Dialogue: 0,0:15:51.41,0:15:52.30,Default,Nor,0000,0000,0000,,Ja.
+Dialogue: 0,0:15:52.73,0:15:56.99,Default,Luna,0000,0000,0000,,Lasst uns die werte Maria besuchen,\Ndie unsere Hilfe benötigt!
+Dialogue: 0,0:15:56.99,0:15:57.68,Default,Luna,0000,0000,0000,,Vorwärts!
+Dialogue: 0,0:16:00.80,0:16:02.17,Default,Nor,0000,0000,0000,,Ja, aber …
+Dialogue: 0,0:16:02.17,0:16:04.54,Default,Luna,0000,0000,0000,,U-Um mich müsst ihr\Neuch keine Sorgen machen …
+Dialogue: 0,0:16:04.54,0:16:08.04,Default,Luna,0000,0000,0000,,I-Ich hab vor … nichts Angst.
+Dialogue: 0,0:16:08.04,0:16:10.88,Default,Nor,0000,0000,0000,,Fräulein Luna. Wir sollten über\Neine andere Lösung nachdenken.
+Dialogue: 0,0:16:10.88,0:16:11.53,Default,Luna,0000,0000,0000,,Huch?!
+Dialogue: 0,0:16:12.31,0:16:14.18,Default,Luna,0000,0000,0000,,W-Warum denn?
+Dialogue: 0,0:16:14.18,0:16:15.19,Default,Nor,0000,0000,0000,,Ihre Beine …
+Dialogue: 0,0:16:17.40,0:16:19.47,Default,Luna,0000,0000,0000,,I-Ich bin nur aufgeregt!
+Dialogue: 0,0:16:19.47,0:16:21.94,Default,Nor,0000,0000,0000,,Aber Sie sagten,\Ndass Sie Angst vor Flüchen hätten.
+Dialogue: 0,0:16:21.94,0:16:24.25,Default,Luna,0000,0000,0000,,W-Was? Echt? Hab ich das?
+Dialogue: 0,0:16:25.70,0:16:27.02,Default,Lola,0000,0000,0000,,Luna. Schau mich an.
+Dialogue: 0,0:16:27.02,0:16:27.95,Default,Luna,0000,0000,0000,,Ja …
+Dialogue: 0,0:16:27.95,0:16:30.25,Default,Lola,0000,0000,0000,,Jetzt sag ihm endlich die Wahrheit.
+Dialogue: 0,0:16:30.81,0:16:33.63,Default,Lola,0000,0000,0000,,Eigentlich hast du doch Angst, oder?
+Dialogue: 0,0:16:34.66,0:16:36.83,Default,Luna,0000,0000,0000,,Wenn ich Prinzessin Maria rette,
+Dialogue: 0,0:16:36.83,0:16:39.51,Default,Luna,0000,0000,0000,,werde ich im Gegenzug wahrscheinlich …
+Dialogue: 0,0:16:40.20,0:16:41.26,Default,Luna,0000,0000,0000,,sterben.
+Dialogue: 0,0:16:44.06,0:16:47.84,Default,Luna,0000,0000,0000,,Wenn ich daran denke,\Nübermannt mich die Angst.
+Dialogue: 0,0:16:48.60,0:16:51.57,Default,Luna,0000,0000,0000,,Ich bin als Heilige Jungfrau durchgefallen.
+Dialogue: 0,0:16:56.87,0:16:58.64,Default,Lola,0000,0000,0000,,Wenn du den Fluch aufhebst, stirbst du.
+Dialogue: 0,0:16:59.36,0:17:00.99,Default,Lola,0000,0000,0000,,Das höre ich gerade zum ersten Mal.
+Dialogue: 0,0:17:00.99,0:17:03.06,Default,Luna,0000,0000,0000,,Entschuldige,\Ndass ich das verschwiegen habe.
+Dialogue: 0,0:17:03.06,0:17:04.54,Default,Luna,0000,0000,0000,,Aber ich …
+Dialogue: 0,0:17:05.51,0:17:09.61,Default,Lola,0000,0000,0000,,Hm. Ich hab so etwas\NWichtiges nicht bemerkt,
+Dialogue: 0,0:17:09.61,0:17:12.32,Default,Lola,0000,0000,0000,,während ich lustig\NZeit mit dir verbracht habe.
+Dialogue: 0,0:17:12.32,0:17:13.88,Default,Luna,0000,0000,0000,,S-So ist das nicht!
+Dialogue: 0,0:17:14.22,0:17:16.92,Default,Lola,0000,0000,0000,,Von wegen beste Freundin! Ich bin sauer!
+Dialogue: 0,0:17:20.16,0:17:22.67,Default,Lola,0000,0000,0000,,Ich bin sauer auf mich selbst,\Nweil ich das nie bemerkt habe.
+Dialogue: 0,0:17:22.67,0:17:23.47,Default,Luna,0000,0000,0000,,Huch?!
+Dialogue: 0,0:17:24.23,0:17:27.93,Default,Lola,0000,0000,0000,,Entschuldige, dass ich deine\NSorgen nicht bemerkt habe.
+Dialogue: 0,0:17:27.93,0:17:28.62,Default,Luna,0000,0000,0000,,Ah …
+Dialogue: 0,0:17:30.12,0:17:33.72,Default,Lola,0000,0000,0000,,Du machst das immer so!\NImmer sind die anderen wichtiger!
+Dialogue: 0,0:17:33.72,0:17:35.97,Default,Lola,0000,0000,0000,,Du stellst dein eigenes Wohl immer zurück.
+Dialogue: 0,0:17:35.97,0:17:36.99,Default,Luna,0000,0000,0000,,Lola?
+Dialogue: 0,0:17:37.36,0:17:39.83,Default,Lola,0000,0000,0000,,Vetrau dich mir an.
+Dialogue: 0,0:17:41.16,0:17:42.39,Default,Lola,0000,0000,0000,,Blöde Luna.
+Dialogue: 0,0:17:44.07,0:17:44.87,Default,Luna,0000,0000,0000,,Ja …
+Dialogue: 0,0:17:49.76,0:17:52.00,Internal,Nor,0000,0000,0000,,Lola und Luna …
+Dialogue: 0,0:17:53.94,0:17:56.92,Internal,Nor,0000,0000,0000,,Irgendwie gefällt mir das mit den beiden.
+Dialogue: 0,0:18:03.38,0:18:05.61,Default,Luna,0000,0000,0000,,Entschuldigt das von vorhin.
+Dialogue: 0,0:18:05.61,0:18:08.90,Default,Luna,0000,0000,0000,,Da habe ich euch eine\Nziemlich peinliche Szene geliefert.
+Dialogue: 0,0:18:09.15,0:18:12.67,Default,Nor,0000,0000,0000,,Ach was. Es war eine Augenweide …
+Dialogue: 0,0:18:12.67,0:18:15.78,Default,Nor,0000,0000,0000,,Ah, nein, ich war einfach nur\Nerfreut darüber, welch gute Freunde ihr seid.
+Dialogue: 0,0:18:16.01,0:18:17.84,Default,Lola,0000,0000,0000,,Aber was machen wir jetzt?
+Dialogue: 0,0:18:17.84,0:18:21.07,Default,Ema,0000,0000,0000,,Wenn wir Maria retten, wird Luna …
+Dialogue: 0,0:18:24.92,0:18:26.12,Default,Nor,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:18:26.66,0:18:27.29,Default,LolaLuna,0000,0000,0000,,Huch?
+Dialogue: 0,0:18:27.29,0:18:29.40,Default,Nor,0000,0000,0000,,Die Lage ist nicht aussichtslos.
+Dialogue: 0,0:18:31.13,0:18:35.13,Default,Nor,0000,0000,0000,,Ich werde dafür sorgen,\Ndass niemand sterben wird.
+Dialogue: 0,0:18:37.23,0:18:40.01,Internal,Nor,0000,0000,0000,,Ich habe mir gerade mal Lunas Skill …
+Dialogue: 0,0:18:40.01,0:18:40.68,TypePlaceholder,type,0000,0000,0000,,{\b1\fs42\bord3\an5\b1\shad3\c&HFFFFFF&\3a&H1D&\4a&H3A&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,200)\pos(312,91)}„Fluchaufhebung“
+Dialogue: 0,0:18:40.35,0:18:43.05,Default,Nor,0000,0000,0000,,„Fluchaufhebung“ angeschaut.
+Dialogue: 0,0:18:41.09,0:18:50.52,TypePlaceholder,type,0000,0000,0000,,{\b1\fs38\bord3\an5\b1\shad3\c&HFFFFFF&\3a&H1D&\4a&H3A&\3c&H1B1B1B&\4c&H1B1B1B&\pos(434,49)}„Fluchaufhebung“
+Dialogue: 0,0:18:41.59,0:18:48.02,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\an4\b1\3a&H1D&\4a&H3A&\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(250,200)\move(305,94,312,94,0,280)}Hebt die Wirkung von Fluchskills auf.\NJe nach Stärke des Fluchs verringert\Nsich die Lebensdauer des Nutzers
+Dialogue: 0,0:18:43.78,0:18:46.99,Internal,Nor,0000,0000,0000,,Ich habe versucht, den Part zu löschen,\Nder die Lebenszeit verkürzt, …
+Dialogue: 0,0:18:45.81,0:18:48.02,TypePlaceholder,type,0000,0000,0000,,{\fnComic Sans MS\b1\fs42\bord0\an4\b1\shad0\c&H1B1CA9&\move(305,91,240,91,0,523)\t(0,523,\fscx2100)\fad(0,200)}-
+Dialogue: 0,0:18:46.31,0:18:48.02,TypePlaceholder,type,0000,0000,0000,,{\fnComic Sans MS\b1\fs42\bord0\an4\b1\shad0\c&H1B1CA9&\move(305,106,246,106,0,600)\t(0,600,\fscx1900)\fad(0,200)}-
+Dialogue: 0,0:18:48.02,0:18:50.52,TypePlaceholder,type,0000,0000,0000,,{\b1\fs52\bord3\an4\b1\3a&H1D&\4a&H3A&\shad2.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\move(189,152,189,145,0,405)}10.000 {\fs28}LP benötigt
+Dialogue: 0,0:18:50.52,0:18:53.27,Internal,Nor,0000,0000,0000,,aber ich kann mir die 10.000 LP nicht leisten.
+Dialogue: 0,0:18:50.52,0:18:54.98,TypePlaceholder,type,0000,0000,0000,,{\b1\fs28\bord2.5\an4\b1\3a&H1D&\4a&H3A&\shad2.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,850)\pos(113,35)}Lebensdauer
+Dialogue: 0,0:18:50.52,0:18:54.98,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\fscx90\bord2.5\an4\b1\3a&H1D&\4a&H3A&\shad2.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,850)\pos(545,30)}Reichtum
+Dialogue: 0,0:18:50.52,0:18:54.98,TypePlaceholder,type,0000,0000,0000,,{\b0\fs14\bord0\an4\b1\shad0\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,850)\pos(585,60)}Lire
+Dialogue: 0,0:18:50.52,0:18:54.98,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(541,192)\fad(0,850)}m 0 0 l 158 0 158 70 0 70{\p0}
+Dialogue: 1,0:18:50.52,0:18:54.98,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(541,192)\fad(0,850)}m 0 0 l 158 0 158 70 0 70{\p0}
+Dialogue: 2,0:18:50.52,0:18:54.98,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\b1\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an8\fad(0,350)\pos(541,200)}Die Lebensdauer\Ndes Nutzers\Nwird verringert
+Dialogue: 0,0:18:55.03,0:18:56.73,Internal,Nor,0000,0000,0000,,Aber wenn ich das so mache
+Dialogue: 0,0:18:55.69,0:19:00.86,TypePlaceholder,type,0000,0000,0000,,{\b1\fs38\bord3\an5\b1\shad3\c&HFFFFFF&\3a&H1D&\4a&H3A&\3c&H1B1B1B&\4c&H1B1B1B&\pos(434,49)}„Fluchaufhebung“
+Dialogue: 0,0:18:56.19,0:18:59.61,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\an4\b1\3a&H1D&\4a&H3A&\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(250,200)\move(305,94,312,94,0,280)}Hebt die Wirkung von Fluchskills auf.\NJe nach Stärke des Fluchs verringert\Nsich {\t(1237,3114,\alpha&HFF&)}die Lebensdauer des Nutzers
+Dialogue: 0,0:18:56.73,0:18:59.06,Internal,Nor,0000,0000,0000,,und den Part mit der Gegenleistung bearbeite …
+Dialogue: 0,0:18:57.40,0:18:59.61,TypePlaceholder,type,0000,0000,0000,,{\b1\fs15\bord0\an4\b1\alpha&HFF\shad1.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(250,200)\move(305,94,312,94,0,280)}Hebt die Wirkung von Fluchskills auf.\NJe nach Stärke des Fluchs verringert\Nsich {\t(0,1904,\1a&H00&\3a&H1D&\4a&H3A&)}der Reichtum des Nutzers
+Dialogue: 0,0:18:59.40,0:19:00.86,TypePlaceholder,type,0000,0000,0000,,{\b1\fs52\bord3\an4\b1\3a&H1D&\4a&H3A&\shad2.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\move(195,152,195,145,0,375)\fad(350,0)}4.000 {\fs28}LP benötigt
+Dialogue: 0,0:19:00.86,0:19:02.95,TypePlaceholder,type,0000,0000,0000,,{\b1\fs28\bord2.5\an4\b1\3a&H1D&\4a&H3A&\shad2.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,400)\pos(113,35)}Lebensdauer
+Dialogue: 0,0:19:00.86,0:19:02.95,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\fscx90\bord2.5\an4\b1\3a&H1D&\4a&H3A&\shad2.8\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,400)\pos(545,30)}Reichtum
+Dialogue: 0,0:19:00.86,0:19:02.95,TypePlaceholder,type,0000,0000,0000,,{\b0\fs14\bord0\an4\b1\shad0\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\fad(0,400)\pos(585,60)}Lire
+Dialogue: 0,0:19:00.86,0:19:02.95,TypePlaceholder,type,0000,0000,0000,,{\p1\bord3.8\3c&H000000&\1a&HFF&\shad0\an8\c&H4D3824&\pos(541,192)\fad(0,400)}m 0 0 l 158 0 158 70 0 70{\p0}
+Dialogue: 1,0:19:00.86,0:19:02.95,TypePlaceholder,type,0000,0000,0000,,{\p1\bord2.5\3c&HFFFFFF&\1a&H6C&\shad0\an8\c&H4D3824&\pos(541,192)\fad(0,400)}m 0 0 l 158 0 158 70 0 70{\p0}
+Dialogue: 2,0:19:00.86,0:19:02.95,TypePlaceholder,type,0000,0000,0000,,{\b1\fs18\bord0\b1\shad1.2\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an8\fad(0,400)\pos(541,200)}Der Reichtum\Ndes Nutzers\Nwird verringert
+Dialogue: 0,0:19:01.06,0:19:02.54,Internal,Nor,0000,0000,0000,,So, das sollte passen!
+Dialogue: 0,0:19:06.54,0:19:08.67,Default,Nor,0000,0000,0000,,Wir könnten Maria nun retten,
+Dialogue: 0,0:19:08.67,0:19:10.36,Default,Nor,0000,0000,0000,,ohne dass sich Fräulein Luna opfern muss.
+Dialogue: 0,0:19:12.17,0:19:13.93,Default,Ema,0000,0000,0000,,Ist das dein Ernst, Nor?!
+Dialogue: 0,0:19:13.93,0:19:14.60,Default,Nor,0000,0000,0000,,Ja.
+Dialogue: 0,0:19:15.44,0:19:19.64,Default,Nor,0000,0000,0000,,Aber mir fehlen noch LP,\Num die Änderungen durchzuführen.
+Dialogue: 0,0:19:20.56,0:19:21.80,Default,LolaLuna,0000,0000,0000,,LP?
+Dialogue: 0,0:19:25.10,0:19:25.81,TypePlaceholder,Luna,0000,0000,0000,,{\b1\fs15\bord0\b0\shad1.5\c&HFFFFFF&\3c&H1B1B1B&\4c&H1B1B1B&\an2\move(439,311,442.2,311,0,200)\fad(200,0)}Fehlen
+Dialogue: 0,0:19:27.16,0:19:28.74,Default,Luna,0000,0000,0000,,Leckere Dinge …
+Dialogue: 0,0:19:29.54,0:19:31.81,Default,Lola,0000,0000,0000,,Geld verdienen …
+Dialogue: 0,0:19:32.11,0:19:35.80,Default,Ema,0000,0000,0000,,Und Erregung durch hübsche Damen …
+Dialogue: 0,0:19:36.27,0:19:37.71,Default,Nor,0000,0000,0000,,J-Ja …
+Dialogue: 0,0:19:38.24,0:19:42.94,Default,Nor,0000,0000,0000,,Ohne LP kann ich meine Skills „Erschaffung“\Nund „Bearbeitung“ nicht benutzen.
+Dialogue: 0,0:19:42.94,0:19:45.58,Default,Nor,0000,0000,0000,,Man muss erst mal den Ochsen\Nvor den Karren spannen oder so …
+Dialogue: 0,0:19:49.01,0:19:54.21,Default,Nor,0000,0000,0000,,F-Fällt euch vielleicht eine Möglichkeit ein,\Nwie ich noch 2.000 LP verdienen könnte?
+Dialogue: 0,0:19:54.42,0:19:57.52,Default,Nor,0000,0000,0000,,Und vielleicht etwas,\Nmit dem Fräulein Luna mehr Geld verdienen kann?
+Dialogue: 0,0:19:58.73,0:20:00.59,Default,Ema,0000,0000,0000,,Auch wenn du mich fragst …
+Dialogue: 0,0:20:00.59,0:20:02.92,Default,Luna,0000,0000,0000,,Wenn das so einfach wäre.
+Dialogue: 0,0:20:02.92,0:20:03.93,Default,Lola,0000,0000,0000,,Doch ist es.
+Dialogue: 0,0:20:03.93,0:20:04.68,Default,EmaLuna,0000,0000,0000,,Huch?!
+Dialogue: 0,0:20:05.90,0:20:10.78,Default,Lola,0000,0000,0000,,Ein gewisser Adliger hält\Nwöchentlich ein passendes Event ab.
+Dialogue: 0,0:20:11.38,0:20:13.61,Default,Lola,0000,0000,0000,,Das nächste wird\Ndieses Wochenende stattfinden.
+Dialogue: 0,0:20:13.61,0:20:16.40,Default,Lola,0000,0000,0000,,Das wäre auch noch,\Nbevor der Fluch final wird.
+Dialogue: 0,0:20:16.70,0:20:19.10,Default,Nor,0000,0000,0000,,Und was wäre das für ein Event?
+Dialogue: 0,0:20:19.92,0:20:21.13,Default,Lola,0000,0000,0000,,Es heißt …
+Dialogue: 0,0:20:21.13,0:20:22.11,Default,EmaLunaNor,0000,0000,0000,,Es heißt?!
+Dialogue: 0,0:20:22.50,0:20:24.40,Default,Lola,0000,0000,0000,,Das Harem-Angeber-Turnier!
+Dialogue: 0,0:20:27.55,0:20:30.26,Default,Ausrichter,0000,0000,0000,,Ich weiß, dass ihr drauf gewartet habt,\Nmeine Kerls!
+Dialogue: 0,0:20:31.33,0:20:34.25,Default,Ausrichter,0000,0000,0000,,Auch heute haben sich zehn Mann versammelt,
+Dialogue: 0,0:20:34.25,0:20:36.05,Default,Ausrichter,0000,0000,0000,,auf die ich neidisch … Ähm …
+Dialogue: 0,0:20:36.05,0:20:38.61,Default,Ausrichter,0000,0000,0000,,die ihr Leben aufs Spiel setzen werden!
+Dialogue: 0,0:20:38.61,0:20:42.84,Default,Ausrichter,0000,0000,0000,,Diese verdammten Dreckschweine\Nwerden uns ihre heißen Freundinnen zeigen,
+Dialogue: 0,0:20:42.84,0:20:44.72,Default,Ausrichter,0000,0000,0000,,um 1 Million Lire zu gewinnen!
+Dialogue: 0,0:20:44.95,0:20:46.20,Default,Maske1,0000,0000,0000,,Unverzeihlich!
+Dialogue: 0,0:20:46.20,0:20:47.47,Default,Maske2,0000,0000,0000,,Buh!
+Dialogue: 0,0:20:47.47,0:20:49.53,Default,Maske3,0000,0000,0000,,Diese Dreckschweine!
+Dialogue: 0,0:20:49.53,0:20:51.04,Default,Maske4,0000,0000,0000,,Am Arsch!
+Dialogue: 0,0:20:51.04,0:20:54.28,Default,Ausrichter,0000,0000,0000,,Werdet im Angesicht dieser\Nverschissenen Lichtgestalten
+Dialogue: 0,0:20:54.28,0:20:58.22,Default,Ausrichter,0000,0000,0000,,euren gesamten Stress los!
+Dialogue: 0,0:21:00.43,0:21:05.15,Default,Lola,0000,0000,0000,,Anscheinend wurde der Ausrichter\Ndieses Events mehrere Male von Frauen betrogen.
+Dialogue: 0,0:21:05.39,0:21:10.89,Default,Lola,0000,0000,0000,,Und die anderen hier versammelten\NMänner hat Ähnliches ereilt.
+Dialogue: 0,0:21:10.89,0:21:13.87,Default,Lola,0000,0000,0000,,Die meisten von ihnen\Nhaben wohl keine Partnerin.
+Dialogue: 0,0:21:14.49,0:21:16.73,Default,Ausrichter,0000,0000,0000,,Nieder mit den beliebten Kerlen!
+Dialogue: 0,0:21:16.73,0:21:18.84,Default,Maske5,0000,0000,0000,,Harems müssen vernichtet werden!
+Dialogue: 0,0:21:18.84,0:21:20.63,Default,Masken,0000,0000,0000,,Keine Gnade für Harems!
+Dialogue: 0,0:21:20.81,0:21:24.05,Internal,Nor,0000,0000,0000,,Hier geht’s nicht ums Angeben,
+Dialogue: 0,0:21:24.05,0:21:26.63,Internal,Nor,0000,0000,0000,,sondern ums Rufmorden!
+Dialogue: 0,0:21:26.63,0:21:29.47,Default,Ausrichter,0000,0000,0000,,Seid ihr bereit, meine Kerls?!
+Dialogue: 0,0:21:30.23,0:21:32.23,Default,Ausrichter,0000,0000,0000,,Das Harem-Angeber-Turnier …
+Dialogue: 0,0:21:32.68,0:21:34.31,Default,Ausrichter,0000,0000,0000,,beginnt!
+Dialogue: 0,0:21:43.96,0:21:47.46,Default,Nor,0000,0000,0000,,I-Ich würd am liebsten wieder heimgehen.
+Dialogue: 0,0:23:22.00,0:23:26.00,TypePlaceholder,type,0000,0000,0000,,{\fnTimes New Roman\b1\fs48\bord1.5\shad0\c&H8FD6E8&\3c&H184058&\pos(320,85)}Alices Theater
+Dialogue: 0,0:23:23.06,0:23:24.99,Default,Alice,0000,0000,0000,,Alices Theater!
+Dialogue: 0,0:23:27.88,0:23:30.18,Default,Alice,0000,0000,0000,,Lieber Bruder …
+Dialogue: 0,0:23:31.12,0:23:34.19,Default,Alice,0000,0000,0000,,Wah! D-Du bist ja schon wieder daheim.
+Dialogue: 0,0:23:34.19,0:23:36.10,Default,Nor,0000,0000,0000,,Was machst du da, Alice?
+Dialogue: 0,0:23:36.46,0:23:38.64,Default,Alice,0000,0000,0000,,I-Ich … Äh …
+Dialogue: 0,0:23:38.89,0:23:41.47,Default,Alice,0000,0000,0000,,wollte die Falten aus\Ndeinem Bettlaken ziehen.
+Dialogue: 0,0:23:41.47,0:23:42.98,Default,Nor,0000,0000,0000,,Ist es jetzt nicht faltiger als zuvor?
+Dialogue: 0,0:23:45.21,0:23:47.52,Default,Nor,0000,0000,0000,,Schon gut. Ich werd einfach so schlafen.
+Dialogue: 0,0:23:48.19,0:23:48.57,Default,Alice,0000,0000,0000,,Huch?
+Dialogue: 0,0:23:48.80,0:23:50.19,Default,Alice,0000,0000,0000,,Lieber Bruder?
+Dialogue: 0,0:23:50.51,0:23:53.30,Default,Nor,0000,0000,0000,,Wir sind Bruder und Schwester.
+Dialogue: 0,0:23:53.67,0:23:56.78,Default,Nor,0000,0000,0000,,Wir haben auch schon früher\Noft im selben Bett geschlafen.
+Dialogue: 0,0:23:56.96,0:23:59.46,Default,Nor,0000,0000,0000,,S-Stimmt.
+Dialogue: 0,0:24:04.16,0:24:06.96,Internal,Nor,0000,0000,0000,,A-Alice ist meine kleine Schwester.
+Dialogue: 0,0:24:07.15,0:24:10.42,Internal,Nor,0000,0000,0000,,Als ob da LP generiert werden würden.
+Dialogue: 0,0:24:13.00,0:24:14.02,Internal,Nor,0000,0000,0000,,Warum?!
+Dialogue: 0,0:24:17.80,0:24:20.46,Default,Luna,0000,0000,0000,,Nächstes Mal: „Das Schicksal des Harems“.
+Dialogue: 0,0:24:18.31,0:24:21.98,Epititel,type,0000,0000,0000,,{\an3\fad(600,0)\blur0.6\pos(605,303)}„Das Schicksal des Harems“
+Dialogue: 0,0:24:21.98,0:24:26.98,Default,type,0000,0000,0000,,{\fnVerdana\b1\bord3\1a&HFF&\shad0\an3\fs20\b0\c&H5C4143&\3c&H5C4143&\pos(215,312)}Fuumi
+Dialogue: 0,0:24:21.98,0:24:26.98,Default,type,0000,0000,0000,,{\fnVerdana\b1\bord1.5\shad0\an3\fs20\b0\c&H5C4143&\3c&HFFFFFF&\pos(215,312)}Fuumi

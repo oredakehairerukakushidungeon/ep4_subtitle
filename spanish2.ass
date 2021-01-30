@@ -1,0 +1,419 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,18,&H00ECF6FF,&H000000FF,&H001500BA,&H2C090A5E,-1,0,0,0,100,100,0,0,1,2,1,9,0020,0045,0020,1
+Style: Cart_TitleSerie,Arial,30,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,3,2,8,0010,0010,0080,1
+Style: Cart_Avance,Trebuchet MS,20,&H000E6FE8,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0025,0020,0010,1
+Style: Cart_Ventana,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H002B302D,&H002B302D,-1,0,0,0,100,100,0,0,1,2,2,5,0020,0020,0020,1
+Style: Cart_Descripciones,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00393939,&H00363636,-1,0,0,0,100,100,0,0,1,1,1,5,0020,0020,0020,1
+Style: Cart_A_Tre,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleNext,Trebuchet MS,22,&H00FDF6F7,&H000000FF,&H00000000,&H007F7F7F,0,0,0,0,100,100,2,0,1,2,0,1,0020,0020,0100,1
+Style: Cart_C_TreNo,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_Ilus,Trebuchet MS,20,&H00DE60E6,&H000000FF,&H00FFFFFF,&H00DE60E6,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0020,1
+Style: Cart_C_TreNoShad,Trebuchet MS,22,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: Next_Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,2,0,1,0040,0010,0055,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+Style: Cart_TextBox,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,1,1,0203,0213,0075,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: Illustration,Trebuchet MS,20,&H00E166E7,&H000000FF,&H00FFFFFF,&H00D683DB,0,0,0,0,100,100,0,0,1,1,1,3,0036,0040,0045,1
+Style: sign_3576_25_Aristocratic_Soc,Times New Roman,34,&H0059A7BA,&H000000FF,&H00FFFFFF,&H00376179,-1,0,0,0,100,100,0,0,1,2,3,8,0158,0158,0080,1
+Style: sign_3704_34_Baron,Arial,16,&H00131D2B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0132,0455,0263,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: sign_7206_94_Q__What_s_tomorr,Comic Sans MS,24,&H00DD7E60,&H000000FF,&H00C0705B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0010,0390,0000,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.86,0:00:18.50,Gen_Italics,Lola,0000,0000,0000,,A esta hora debería estar en el templo.
+Dialogue: 0,0:00:20.66,0:00:22.87,Gen_Main,Monk,0000,0000,0000,,Esta es la cola para ver\Na la señora clériga.
+Dialogue: 0,0:00:23.04,0:00:25.01,Gen_Main,Monk,0000,0000,0000,,Tengan su boleto a mano.
+Dialogue: 0,0:00:28.00,0:00:30.51,Gen_Main,People walla,0000,0000,0000,,¡Me siento como nuevo!
+Dialogue: 0,0:00:30.67,0:00:32.76,Gen_Main,People walla,0000,0000,0000,,Me siento mucho más ligera.
+Dialogue: 0,0:00:35.09,0:00:39.79,Gen_Italics,Lola,0000,0000,0000,,Hoy también parece estar esforzándose.\NEspero que no en exceso.
+Dialogue: 0,0:00:43.10,0:00:44.92,Gen_Main,Lola,0000,0000,0000,,Podría haber un método.
+Dialogue: 0,0:00:45.10,0:00:47.35,Gen_Main,Lola,0000,0000,0000,,Con una clériga que expulse el mal…
+Dialogue: 0,0:00:47.52,0:00:52.11,Gen_Main,Lola,0000,0000,0000,,Pero no suele aceptar trabajos\Npara eliminar habilidades malditas.
+Dialogue: 0,0:00:52.61,0:00:55.70,Gen_Main,Lola,0000,0000,0000,,Es probable que tenga sus motivos,
+Dialogue: 0,0:00:55.86,0:00:58.88,Gen_Main,Lola,0000,0000,0000,,pero no me los ha dicho\Naunque sea su mejor amiga.
+Dialogue: 0,0:01:07.33,0:01:08.27,Gen_Main,Monk 2,0000,0000,0000,,Clériga.
+Dialogue: 0,0:01:08.42,0:01:09.88,Gen_Main,Luna,0000,0000,0000,,Estoy descansando.
+Dialogue: 0,0:01:10.34,0:01:12.55,Gen_Main,Luna,0000,0000,0000,,Lo siento, espera un poco.
+Dialogue: 0,0:01:12.71,0:01:13.71,Gen_Main,Monk 2,0000,0000,0000,,Comprendo.
+Dialogue: 0,0:01:24.56,0:01:26.02,Gen_Main,Luna,0000,0000,0000,,Oh, cielos…
+Dialogue: 0,0:01:27.85,0:01:29.80,Gen_Main,Luna,0000,0000,0000,,Parece que me quedé sin energías.
+Dialogue: 0,0:01:29.98,0:01:33.40,Gen_Main,Lola,0000,0000,0000,,Como pensé, esforzándose de más,\Nseñora clériga.
+Dialogue: 0,0:01:33.82,0:01:35.47,Gen_Main,Luna,0000,0000,0000,,Pero si eres tú, Lola.
+Dialogue: 0,0:01:35.61,0:01:38.86,Gen_Main,Lola,0000,0000,0000,,¿Así recibes a quien se preocupa por ti?
+Dialogue: 0,0:01:41.16,0:01:42.30,Gen_Main,Luna,0000,0000,0000,,Discúlpame.
+Dialogue: 0,0:01:45.25,0:01:50.02,Gen_Main,Luna,0000,0000,0000,,¿A qué vino la hábil\Nrecepcionista del gremio?
+Dialogue: 0,0:01:50.79,0:01:53.09,Gen_Main,Lola,0000,0000,0000,,Siento pedirte esto\Ncuando estás agotada,
+Dialogue: 0,0:01:53.25,0:01:55.99,Gen_Main,Lola,0000,0000,0000,,pero debo hablarte\Nde un tema importante.
+Dialogue: 0,0:03:29.81,0:03:33.67,Gen_Italics,Noir,0000,0000,0000,,Hoy Lola nos presentará a esa clériga.
+Dialogue: 0,0:03:34.90,0:03:36.95,Gen_Italics,Noir,0000,0000,0000,,Tenía tiempo antes del encuentro,
+Dialogue: 0,0:03:37.11,0:03:39.51,Gen_Italics,Noir,0000,0000,0000,,así que fui a pedir\Nconsejo a mi maestra.
+Dialogue: 0,0:03:40.73,0:03:42.91,Gen_Main,Noir,0000,0000,0000,,¡Mazmorra oculta\Na la que solo yo puedo entrar,
+Dialogue: 0,0:03:43.07,0:03:45.49,Gen_Main,Noir,0000,0000,0000,,quiero entrenar en secreto\Npara ser el más fuerte!
+Dialogue: 0,0:03:54.75,0:03:56.14,Gen_Italics,Olivia,0000,0000,0000,,Vaya.
+Dialogue: 0,0:03:56.67,0:04:01.72,Cart_TitleNext,Sign,0000,0000,0000,,{\fad(525,563)\an1\blur1\bord2\pos(40,305)}#04 {\fscx90}"La clériga pura"
+Dialogue: 0,0:03:56.88,0:03:59.05,Gen_Italics,Olivia,0000,0000,0000,,Vaya, vaya.
+Dialogue: 0,0:03:59.21,0:04:00.75,Gen_Main,Noir,0000,0000,0000,,¿Maestra?
+Dialogue: 0,0:04:00.92,0:04:02.51,Gen_Main,Noir,0000,0000,0000,,¿Estás enojada?
+Dialogue: 0,0:04:02.68,0:04:06.99,Gen_Italics,Olivia,0000,0000,0000,,Hace mucho que no venías a verme.
+Dialogue: 0,0:04:07.14,0:04:10.14,Gen_Italics,Olivia,0000,0000,0000,,Creo que fueron como dos semanas.
+Dialogue: 0,0:04:10.56,0:04:12.11,Gen_Main,Noir,0000,0000,0000,,¡Lo siento mucho!
+Dialogue: 0,0:04:12.27,0:04:14.73,Gen_Main,Noir,0000,0000,0000,,Quería venir antes,
+Dialogue: 0,0:04:15.15,0:04:17.44,Gen_Main,Noir,0000,0000,0000,,pero tuve cierto problema.
+Dialogue: 0,0:04:20.78,0:04:24.22,Gen_Italics,Olivia,0000,0000,0000,,Ya veo. Una hija\Nde un duque con una maldición.
+Dialogue: 0,0:04:24.41,0:04:25.30,Gen_Main,Noir,0000,0000,0000,,Así es.
+Dialogue: 0,0:04:25.78,0:04:29.67,Gen_Italics,Olivia,0000,0000,0000,,Si es una habilidad maldita,\Ntendrá relación con su familia.
+Dialogue: 0,0:04:29.83,0:04:33.21,Gen_Main,Noir,0000,0000,0000,,¿Su familia?\N¿Quieres decir con su linaje?
+Dialogue: 0,0:04:33.37,0:04:35.46,Gen_Italics,Olivia,0000,0000,0000,,Sí, es algo muy común.
+Dialogue: 0,0:04:35.62,0:04:38.36,Gen_Italics,Olivia,0000,0000,0000,,Hay una habilidad\Npara maldecir a tus descendientes.
+Dialogue: 0,0:04:38.50,0:04:40.09,Gen_Main,Noir,0000,0000,0000,,No puede ser…
+Dialogue: 0,0:04:40.80,0:04:46.29,Gen_Italics,Olivia,0000,0000,0000,,Necesitarás más de 10,000 PV\Npara Crear la habilidad para eliminarla.
+Dialogue: 0,0:04:46.47,0:04:50.69,Gen_Italics,Olivia,0000,0000,0000,,Sería mejor\Nque se lo dejases a esa clériga.
+Dialogue: 0,0:04:50.85,0:04:53.23,Gen_Main,Noir,0000,0000,0000,,Cierto. Es mi plan, pero…
+Dialogue: 0,0:04:53.39,0:04:56.07,Gen_Main,Noir,0000,0000,0000,,Me pregunto cómo será esa clériga.
+Dialogue: 0,0:04:56.23,0:05:00.50,Gen_Italics,Olivia,0000,0000,0000,,Si puede exorcizar cosas,\Ndebe ser al menos elfa en parte.
+Dialogue: 0,0:05:00.65,0:05:02.18,Gen_Main,Noir,0000,0000,0000,,Una elfa, ¿eh?
+Dialogue: 0,0:05:02.36,0:05:03.86,Gen_Main,Noir,0000,0000,0000,,No se ven mucho.
+Dialogue: 0,0:05:04.32,0:05:07.69,Gen_Italics,Olivia,0000,0000,0000,,Satisfacer tus deseos\Ncon otras especies es genial.
+Dialogue: 0,0:05:07.87,0:05:10.03,Gen_Italics,Olivia,0000,0000,0000,,¡Consigues muchos PV extra!
+Dialogue: 0,0:05:10.20,0:05:11.24,Gen_Main,Noir,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:05:12.54,0:05:15.49,Gen_Italics,Olivia,0000,0000,0000,,¡Tienes que colmarla de cariño!{¡Tienes que llevártela al huerto!}
+Dialogue: 0,0:05:15.66,0:05:17.00,Gen_Main,Noir,0000,0000,0000,,¡¿Qué dices?!
+Dialogue: 0,0:05:18.42,0:05:23.26,Gen_Main,Noir,0000,0000,0000,,Maestra, ¿qué harías tú\Npara ganar 10,000 PV?
+Dialogue: 0,0:05:23.42,0:05:27.04,Gen_Italics,Olivia,0000,0000,0000,,Pues yo… Acércate, que te lo susurraré.
+Dialogue: 0,0:05:32.22,0:05:33.22,Gen_Italics,Olivia,0000,0000,0000,,Primero…
+Dialogue: 0,0:05:34.14,0:05:37.10,Gen_Italics,Olivia,0000,0000,0000,,Para volverla más sensible…
+Dialogue: 0,0:05:37.27,0:05:39.71,Gen_Italics,Olivia,0000,0000,0000,,Ataría sus…
+Dialogue: 0,0:05:39.86,0:05:42.86,Gen_Italics,Olivia,0000,0000,0000,,Y mientras le…
+Dialogue: 0,0:05:44.03,0:05:46.95,Gen_Italics,Olivia,0000,0000,0000,,¡Así ganarías los 10,000 PV enseguida!
+Dialogue: 0,0:05:49.28,0:05:52.88,Gen_Italics,Olivia,0000,0000,0000,,Vamos, es broma. Qué lindo eres, Noir.
+Dialogue: 0,0:05:53.33,0:05:56.25,Gen_Italics,Noir,0000,0000,0000,,Se burla de mí.
+Dialogue: 0,0:05:56.83,0:05:59.25,Gen_Italics,Olivia,0000,0000,0000,,Conseguir 10,000 PV no es fácil,
+Dialogue: 0,0:05:59.42,0:06:03.07,Gen_Italics,Olivia,0000,0000,0000,,pero puedo enseñarte\Nuna habilidad útil para ganar PV.
+Dialogue: 0,0:06:03.21,0:06:05.96,Gen_Main,Noir,0000,0000,0000,,¿De verdad? ¡Lo agradezco!
+Dialogue: 0,0:06:06.13,0:06:11.48,Gen_Italics,Olivia,0000,0000,0000,,Bien, tu maravillosa maestra Olivia\Nte dará todos los detalles.
+Dialogue: 0,0:06:11.64,0:06:12.61,Gen_Main,Noir,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:06:16.60,0:06:18.73,Gen_Italics,Olivia,0000,0000,0000,,Y en cuanto a esos detalles…
+Dialogue: 0,0:06:18.89,0:06:21.48,Gen_Italics,Olivia,0000,0000,0000,,¡Es de lo más rentable!\NY esa habilidad prohibida…
+Dialogue: 0,0:06:23.19,0:06:32.37,Cart_C_Tre,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9F48D9&\3c&HFFFFFF&\shad2\an8\bord3\4c&H996F9A&\pos(320,82)}Atraer Fortuna
+Dialogue: 0,0:06:25.19,0:06:29.57,Gen_Italics,Olivia,0000,0000,0000,,¡Solo cuesta 300 PV de nada,\Npero es muy efectiva!
+Dialogue: 0,0:06:25.65,0:06:32.37,Cart_Ventana,Sign,0000,0000,0000,,{\fad(277,1)\fs30\bord3\pos(320,265)}¡Solo cuesta 300 PV!
+Dialogue: 0,0:06:29.74,0:06:32.37,Gen_Italics,Olivia,0000,0000,0000,,¡Vivirás experiencias increíbles!
+Dialogue: 0,0:06:33.91,0:06:35.95,Gen_Main,Noir,0000,0000,0000,,Crear: Atraer Fortuna.
+Dialogue: 0,0:06:35.79,0:06:36.50,Cart_TextBox,Sign,0000,0000,0000,,{\fad(188,1)\fs18\3c&H000000&\4c&H000000&\shad1\bord1\pos(444,153)}Noir Stardia   Nv.{\fs28}35\N{\fs12}PV.{\fs18}2270
+Dialogue: 0,0:06:36.29,0:06:37.25,Cart_TextBox,Sign,0000,0000,0000,,{\fad(189,1)\fs18\3c&H000000&\4c&H000000&\shad1\bord1\pos(444,153)}Noir Stardia   Nv.{\fs28}35\N{\fs12}PV.{\fs18}1970
+Dialogue: 0,0:06:46.80,0:06:49.64,Gen_Main,Emma,0000,0000,0000,,¡Noir! Te tardaste mucho.
+Dialogue: 0,0:06:50.13,0:06:52.72,Gen_Main,Emma,0000,0000,0000,,La señora clériga y Lola no tardarán.
+Dialogue: 0,0:06:52.89,0:06:53.88,Gen_Main,Noir,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:06:56.35,0:06:58.41,Gen_Main,Noir,0000,0000,0000,,¡Lo siento mucho!
+Dialogue: 0,0:07:10.40,0:07:14.28,Gen_Italics,Noir,0000,0000,0000,,Me caí de cara sobre esos pechos slime.
+Dialogue: 0,0:07:25.21,0:07:26.28,Gen_Main,Girl walla,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:07:28.21,0:07:29.45,Gen_Main,Girl 2 walla,0000,0000,0000,,¡No!
+Dialogue: 0,0:07:30.13,0:07:32.47,Gen_Italics,Noir,0000,0000,0000,,¡Rayos, mi suerte no cesa!
+Dialogue: 0,0:07:33.39,0:07:37.04,Gen_Italics,Noir,0000,0000,0000,,¿Es el efecto de Atraer Fortuna?
+Dialogue: 0,0:07:38.85,0:07:41.64,Gen_Italics,Olivia,0000,0000,0000,,-¡Tarán!\N-¡Esta habilidad es increíble!
+Dialogue: 0,0:07:41.81,0:07:43.85,Gen_Italics,Noir,0000,0000,0000,,Eres la mejor, maestra.
+Dialogue: 0,0:07:44.31,0:07:47.27,Gen_Italics,Noir,0000,0000,0000,,Pero esto afectará a mi vida.
+Dialogue: 0,0:07:49.86,0:07:51.86,Gen_Italics,Noir,0000,0000,0000,,Debería usar Editar para ajustarla.
+Dialogue: 0,0:07:51.86,0:08:08.67,Cart_TextBox,Sign,0000,0000,0000,,{\fad(1362,1)\bord0\shad3\q2\pos(166,95)\t(16253,16794,1 \c&HFFFFFF&\4c&HFFFFFF&)}Atraer Fortuna
+Dialogue: 0,0:07:52.03,0:07:53.69,Gen_Italics,Noir,0000,0000,0000,,Atraer Fortuna.
+Dialogue: 0,0:07:53.36,0:08:08.67,Cart_TextBox,Sign,0000,0000,0000,,{\fad(1656,1)\bord0\shad3\q2\pos(166,144)\fscx85\t(14752,15294,1 \c&HFFFFFF&\4c&HFFFFFF&)}Provoca situaciones eróticas
+Dialogue: 0,0:07:53.86,0:07:56.86,Gen_Italics,Noir,0000,0000,0000,,Provoca situaciones eróticas con\Nmiembros próximos del sexo opuesto.
+Dialogue: 0,0:07:55.20,0:07:59.66,Cart_TextBox,Sign,0000,0000,0000,,{\fad(1818,1)\bord0\shad3\q2\fscx80\pos(166,192)}con miembros próximos del sexo opuesto.
+Dialogue: 0,0:07:57.03,0:07:58.65,Gen_Main,Noir,0000,0000,0000,,Añadiré un "ocasionalmente".
+Dialogue: 0,0:07:58.70,0:07:59.33,Cart_Ventana,Sign,0000,0000,0000,,{\fad(195,185)\pos(461,51)}Utilizados
+Dialogue: 0,0:07:59.66,0:08:08.67,Cart_TextBox,Sign,0000,0000,0000,,{\bord0\shad3\q2\fscx80\pos(166,236)\t(8453,8994,1 \c&HFFFFFF&\4c&HFFFFFF&)}con miembros próximos del sexo opuesto.
+Dialogue: 0,0:07:59.79,0:08:08.67,Cart_TextBox,Sign,0000,0000,0000,,{\fad(606,1)\bord0\shad3\q2\fscx80\pos(160,195)\t(8323,8864,1 \c&HFFFFFF&\4c&HFFFFFF&)}"ocasionalmente"
+Dialogue: 0,0:08:00.58,0:08:03.31,Gen_Main,Noir,0000,0000,0000,,Y también que no se activa\Nen situaciones serias.
+Dialogue: 0,0:08:03.08,0:08:03.71,Cart_Ventana,Sign,0000,0000,0000,,{\fad(195,185)\pos(481,52)}Utilizados
+Dialogue: 0,0:08:03.54,0:08:08.63,Cart_TextBox,Sign,0000,0000,0000,,{\fad(1653,200)\bord0\shad3\fscx80\q2\an4\pos(158,267)}"No se activa en situaciones serias"
+Dialogue: 0,0:08:05.83,0:08:08.58,Gen_Italics,Noir,0000,0000,0000,,Que estas cosas solo ocurran\Nen el momento justo.
+Dialogue: 0,0:08:11.88,0:08:14.16,Gen_Main,Emma,0000,0000,0000,,¡Oye, ¿por qué sonríes así?!
+Dialogue: 0,0:08:14.30,0:08:16.18,Gen_Main,Noir,0000,0000,0000,,¡No sonrío!
+Dialogue: 0,0:08:17.05,0:08:18.88,Gen_Main,Luna,0000,0000,0000,,Ese debe de ser Noir.
+Dialogue: 0,0:08:21.56,0:08:24.24,Gen_Main,Luna,0000,0000,0000,,Es bastante lindo.
+Dialogue: 0,0:08:24.39,0:08:25.65,Gen_Main,Luna,0000,0000,0000,,Es mi tipo.
+Dialogue: 0,0:08:25.81,0:08:28.52,Gen_Main,Lola,0000,0000,0000,,¡Oye, Luna! ¡¿Qué quieres decir?!
+Dialogue: 0,0:08:28.69,0:08:30.41,Gen_Main,Emma,0000,0000,0000,,Oh, Lola.
+Dialogue: 0,0:08:30.57,0:08:31.61,Gen_Main,Noir,0000,0000,0000,,Y tú eres…
+Dialogue: 0,0:08:32.99,0:08:34.47,Gen_Main,Noir,0000,0000,0000,,¿Es la señora clériga?
+Dialogue: 0,0:08:37.70,0:08:40.45,Gen_Main,Lola,0000,0000,0000,,Siento haberlos hecho esperar. Esta es…
+Dialogue: 0,0:08:41.04,0:08:44.21,Gen_Main,Luna,0000,0000,0000,,Luna Heela. Es un placer conocerlos.
+Dialogue: 0,0:08:44.37,0:08:45.99,Gen_Main,Emma,0000,0000,0000,,Igualmente.
+Dialogue: 0,0:08:46.17,0:08:48.26,Gen_Main,Noir,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:08:48.42,0:08:49.38,Gen_Main,Emma,0000,0000,0000,,Igualmente.
+Dialogue: 0,0:08:49.55,0:08:52.09,Gen_Main,Luna,0000,0000,0000,,Tenemos una reserva. Hablemos allá.
+Dialogue: 0,0:08:55.26,0:08:57.34,Gen_Italics,Emma,0000,0000,0000,,Su piel es pálida y de aspecto suave.
+Dialogue: 0,0:08:57.51,0:08:59.54,Gen_Italics,Emma,0000,0000,0000,,Y desde atrás…
+Dialogue: 0,0:08:59.72,0:09:01.52,Gen_Italics,Emma,0000,0000,0000,,Tiene un trasero firme y atractivo.
+Dialogue: 0,0:09:01.68,0:09:03.95,Gen_Italics,Emma,0000,0000,0000,,Y unas piernas largas y delgadas…
+Dialogue: 0,0:09:05.98,0:09:08.09,Gen_Main,Emma,0000,0000,0000,,¡Solo le gano en el pecho!
+Dialogue: 0,0:09:08.27,0:09:10.78,Gen_Italics,Emma,0000,0000,0000,,No debí permitir que Noir la conociera.
+Dialogue: 0,0:09:10.94,0:09:12.82,Gen_Main,Noir,0000,0000,0000,,¿Emma? Vamos.
+Dialogue: 0,0:09:20.28,0:09:22.79,Gen_Main,Luna,0000,0000,0000,,Lola me habló del tema.
+Dialogue: 0,0:09:22.95,0:09:25.71,Gen_Main,Luna,0000,0000,0000,,Entonces esa persona\Nque quieren que vea es…
+Dialogue: 0,0:09:25.87,0:09:27.98,Gen_Main,Noir,0000,0000,0000,,La señorita María, hija de un duque.
+Dialogue: 0,0:09:32.42,0:09:33.82,Gen_Main,Luna,0000,0000,0000,,Así que es ella.
+Dialogue: 0,0:09:34.63,0:09:36.60,Gen_Main,Luna,0000,0000,0000,,Ya la revisé anteriormente.
+Dialogue: 0,0:09:37.68,0:09:39.68,Gen_Main,Luna,0000,0000,0000,,Pero decliné el eliminar su maldición.
+Dialogue: 0,0:09:39.85,0:09:44.31,Gen_Main,Noir,0000,0000,0000,,¿Por qué? ¿No tiene\Nla habilidad para hacerlo?
+Dialogue: 0,0:09:44.47,0:09:48.74,Gen_Main,Luna,0000,0000,0000,,Sí, la tengo. No sería difícil.
+Dialogue: 0,0:09:48.90,0:09:49.81,Gen_Main,Luna,0000,0000,0000,,Pero…
+Dialogue: 0,0:09:57.57,0:10:00.63,Gen_Main,Luna,0000,0000,0000,,No puedo eliminar\Nla Maldición de los Dieciséis.
+Dialogue: 0,0:10:00.78,0:10:02.83,Gen_Main,Luna,0000,0000,0000,,No puedo salvarla.
+Dialogue: 0,0:10:07.71,0:10:10.25,Gen_Main,Luna,0000,0000,0000,,¿Cómo se encuentra la señorita María?
+Dialogue: 0,0:10:10.42,0:10:12.88,Gen_Main,Noir,0000,0000,0000,,No le queda ni una semana de vida.
+Dialogue: 0,0:10:14.05,0:10:16.83,Gen_Main,Noir,0000,0000,0000,,Tiene convulsiones y sufre mucho.
+Dialogue: 0,0:10:17.01,0:10:20.47,Gen_Main,Noir,0000,0000,0000,,Y parecen cada vez más frecuentes.
+Dialogue: 0,0:10:20.64,0:10:23.94,Gen_Main,Luna,0000,0000,0000,,Entonces su maldición está muy avanzada.
+Dialogue: 0,0:10:24.47,0:10:28.43,Gen_Main,Lola,0000,0000,0000,,Luna, no tienes por qué\Nsentirte responsable.
+Dialogue: 0,0:10:28.60,0:10:31.64,Gen_Main,Lola,0000,0000,0000,,Salvas a docenas de personas cada día.
+Dialogue: 0,0:10:31.81,0:10:34.54,Gen_Main,Lola,0000,0000,0000,,Eso es algo increíble.
+Dialogue: 0,0:10:35.78,0:10:39.51,Gen_Italics,Noir,0000,0000,0000,,Parece que Luna se siente\Nresponsable por esto.
+Dialogue: 0,0:10:40.03,0:10:42.42,Gen_Italics,Noir,0000,0000,0000,,Tal vez tiene algún secreto.
+Dialogue: 0,0:10:44.08,0:10:45.16,Gen_Italics,Noir,0000,0000,0000,,Ojo analítico.
+Dialogue: 0,0:10:45.74,0:10:49.00,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,436)\shad2\b0\fs16\fscy115\pos(47,92)\an7}Especie: Medio elfa\NEdad: 17\NOcupación: Clériga / Aventurera\NHabilidades: {\fscx85}[Armas de Fuego Mágicas B] [Disparo Vigorizante]\N{\alpha&HFF&\fscx}Habilidades: {\alpha\fscx85}[Disparo Sanador] [Cobardía] [Eliminar maldición]
+Dialogue: 0,0:10:45.74,0:10:56.38,Cart_Ventana,Sign,0000,0000,0000,,{\an4\pos(43,66)}Luna Heela Nv.{\fs36}35
+Dialogue: 0,0:10:45.87,0:10:49.62,Gen_Italics,Noir,0000,0000,0000,,Sí, tiene la habilidad\Nde Eliminar Maldición.
+Dialogue: 0,0:10:49.04,0:10:56.38,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(400,1)\shad2\b0\fs16\fscy125\pos(47,92)\an7}Habilidad: Eliminar Maldición\N{\alpha&HFF&}Habilidad: {\alpha}Elimina una maldición. Hace que el tiempo\N{\alpha&HFF&}Habilidad: {\alpha}de vida de su usuario se reduzca en base\N{\alpha&HFF&}Habilidad: {\alpha}a la potencia de la maldición.
+Dialogue: 0,0:10:49.79,0:10:52.27,Gen_Italics,Noir,0000,0000,0000,,Elimina una maldición.
+Dialogue: 0,0:10:52.42,0:10:56.38,Gen_Italics,Noir,0000,0000,0000,,Pero… ¿reduce su tiempo de vida?
+Dialogue: 0,0:10:57.55,0:11:01.56,Gen_Italics,Noir,0000,0000,0000,,Entonces, si elimina su maldición,\Na Luna no le quedará…
+Dialogue: 0,0:11:13.81,0:11:17.08,Gen_Main,Merchant,0000,0000,0000,,¡Ya viene! ¡Cuidado, son muy pesadas!
+Dialogue: 0,0:11:19.32,0:11:22.49,Gen_Italics,Noir,0000,0000,0000,,Los elfos viven más que los humanos.
+Dialogue: 0,0:11:22.66,0:11:25.41,Gen_Italics,Noir,0000,0000,0000,,Pero la maldición\Nde María es tan potente
+Dialogue: 0,0:11:25.58,0:11:27.79,Gen_Italics,Noir,0000,0000,0000,,que su tiempo de vida\Nno puede compensarlo.
+Dialogue: 0,0:11:31.16,0:11:32.26,Gen_Main,Luna,0000,0000,0000,,Noir…
+Dialogue: 0,0:11:34.13,0:11:36.33,Gen_Main,Luna,0000,0000,0000,,Llévame a casa de la señorita María.
+Dialogue: 0,0:11:37.21,0:11:39.34,Gen_Main,Luna,0000,0000,0000,,Eliminaré su maldición.
+Dialogue: 0,0:11:39.51,0:11:42.95,Gen_Main,Lola,0000,0000,0000,,Pero recién dijo que no podía hacerlo.
+Dialogue: 0,0:11:44.01,0:11:45.20,Gen_Main,Luna,0000,0000,0000,,Bueno…
+Dialogue: 0,0:11:45.89,0:11:47.84,Gen_Main,Noir,0000,0000,0000,,Emma, Lola.
+Dialogue: 0,0:11:48.01,0:11:49.85,Gen_Main,Noir,0000,0000,0000,,¿Podrían dejarnos a solas?
+Dialogue: 0,0:11:51.81,0:11:54.29,Gen_Main,Noir,0000,0000,0000,,Me gustaría hablar con Luna en privado.
+Dialogue: 0,0:11:58.69,0:12:00.32,Gen_Main,Noir,0000,0000,0000,,Espero que me disculpes.
+Dialogue: 0,0:12:00.49,0:12:04.26,Gen_Main,Noir,0000,0000,0000,,Revisé tus capacidades con mi habilidad.
+Dialogue: 0,0:12:05.82,0:12:09.21,Gen_Main,Noir,0000,0000,0000,,Si eliminas la maldición\Nde María, tu vida…
+Dialogue: 0,0:12:09.37,0:12:11.91,Gen_Main,Luna,0000,0000,0000,,-¡Para! ¡No sigas!\N-Pero…
+Dialogue: 0,0:12:12.08,0:12:15.34,Gen_Main,Luna,0000,0000,0000,,Está a punto de morir, ¿no es así?
+Dialogue: 0,0:12:16.67,0:12:21.17,Gen_Main,Luna,0000,0000,0000,,¿Cómo podría abandonarla\Nsabiendo que va a morir?
+Dialogue: 0,0:12:26.14,0:12:28.68,Gen_Main,Luna,0000,0000,0000,,Quiero salvar a la gente.
+Dialogue: 0,0:12:29.77,0:12:31.89,Gen_Main,Luna,0000,0000,0000,,Como mi madre habría hecho.
+Dialogue: 0,0:12:35.48,0:12:38.26,Gen_Main,Luna,0000,0000,0000,,Mi madre también era una clériga.
+Dialogue: 0,0:12:40.07,0:12:42.16,Gen_Main,Luna,0000,0000,0000,,Aunque sabía\Nque consumía su tiempo de vida,
+Dialogue: 0,0:12:42.32,0:12:44.40,Gen_Main,Luna,0000,0000,0000,,siguió eliminando maldiciones.
+Dialogue: 0,0:12:45.61,0:12:49.94,Gen_Main,Luna,0000,0000,0000,,Sacrificaba su vida poco a poco\Npara salvar a quienes sufrían.
+Dialogue: 0,0:12:50.12,0:12:53.46,Gen_Main,Luna,0000,0000,0000,,Y ya no está con nosotros.
+Dialogue: 0,0:12:53.62,0:12:54.70,Gen_Main,Luna,0000,0000,0000,,Pero…
+Dialogue: 0,0:12:56.50,0:12:59.80,Gen_Main,Luna,0000,0000,0000,,Me siento muy orgullosa de ella.
+Dialogue: 0,0:13:04.67,0:13:05.96,Gen_Main,Noir,0000,0000,0000,,Luna…
+Dialogue: 0,0:13:06.13,0:13:08.83,Gen_Main,Luna,0000,0000,0000,,Y al igual que hizo mi madre,
+Dialogue: 0,0:13:09.01,0:13:11.57,Gen_Main,Luna,0000,0000,0000,,quiero usar este poder por los demás.
+Dialogue: 0,0:13:20.02,0:13:22.50,Gen_Main,Luna,0000,0000,0000,,{\i1}La mazmorra oculta\Na la que solo yo puedo entrar{\i0}.
+Dialogue: 0,0:13:28.62,0:13:30.05,Gen_Main,Walla,0000,0000,0000,,¡Problemas!
+Dialogue: 0,0:13:30.20,0:13:32.87,Gen_Main,Walla,0000,0000,0000,,¡Un muro se derrumbo! ¡Ayúdennos!
+Dialogue: 0,0:13:33.04,0:13:34.48,Gen_Main,Walla,0000,0000,0000,,¡Hay un niño atrapado!
+Dialogue: 0,0:13:34.62,0:13:36.00,Gen_Main,Walla,0000,0000,0000,,¡Está muy malherido!
+Dialogue: 0,0:13:37.37,0:13:39.09,Gen_Main,Lola,0000,0000,0000,,Oye, ¿estás bien?
+Dialogue: 0,0:13:43.71,0:13:44.93,Gen_Main,Emma,0000,0000,0000,,¡Resiste!
+Dialogue: 0,0:13:45.09,0:13:47.12,Gen_Main,Lola,0000,0000,0000,,Debemos sanarlo cuanto antes.
+Dialogue: 0,0:13:48.47,0:13:50.62,Gen_Main,Luna,0000,0000,0000,,A veces me pregunto…
+Dialogue: 0,0:13:51.64,0:13:54.40,Gen_Main,Luna,0000,0000,0000,,¿Por qué nacemos en este mundo?
+Dialogue: 0,0:13:55.39,0:13:59.12,Gen_Main,Noir,0000,0000,0000,,No tengo respuesta a eso.
+Dialogue: 0,0:13:59.27,0:14:00.46,Gen_Main,Luna,0000,0000,0000,,No importa.
+Dialogue: 0,0:14:01.48,0:14:04.07,Gen_Main,Luna,0000,0000,0000,,Sé que algún día la encontrarás.
+Dialogue: 0,0:14:04.23,0:14:07.57,Gen_Main,Noir,0000,0000,0000,,Parece que tú\Nya encontraste la tuya, Luna.
+Dialogue: 0,0:14:08.15,0:14:09.18,Gen_Main,Luna,0000,0000,0000,,Así es.
+Dialogue: 0,0:14:09.95,0:14:13.12,Gen_Main,Luna,0000,0000,0000,,Puedo salvar vidas\Ny hacer sonreír a la gente.
+Dialogue: 0,0:14:13.66,0:14:15.50,Gen_Main,Luna,0000,0000,0000,,¡Esa es mi misión!
+Dialogue: 0,0:14:21.67,0:14:23.30,Gen_Main,Luna,0000,0000,0000,,¡Disparo sanador!
+Dialogue: 0,0:14:32.35,0:14:34.31,Gen_Main,Emma,0000,0000,0000,,-¡Menos mal!\N-¡Luna!
+Dialogue: 0,0:14:34.47,0:14:35.99,Gen_Main,Noir,0000,0000,0000,,Impresionante.
+Dialogue: 0,0:14:36.14,0:14:38.81,Gen_Main,Noir,0000,0000,0000,,Tu título de clériga no es en vano.
+Dialogue: 0,0:14:42.23,0:14:43.29,Gen_Main,Noir,0000,0000,0000,,Luna…
+Dialogue: 0,0:14:46.36,0:14:49.61,Gen_Main,Noir,0000,0000,0000,,¿Eh? ¡¿Luna?!
+Dialogue: 0,0:14:50.61,0:14:53.03,Gen_Main,Noir,0000,0000,0000,,¿Estás…? ¿Eh?
+Dialogue: 0,0:14:56.16,0:14:58.96,Cart_C_Ari,Sign,0000,0000,0000,,{\c&HEDAE57&\3c&HFFFFFF&\fad(400,0)\shad2\bord5\pos(321,33)\4c&H5E5E60&}No quiero morir
+Dialogue: 0,0:14:56.16,0:14:58.96,Cart_C_Ari,Sign,0000,0000,0000,,{\c&HEDAE57&\3c&HA62910&\fad(400,0)\shad0\pos(321,33)}No quiero morir
+Dialogue: 0,0:14:56.20,0:14:58.96,Gen_Main,Luna,0000,0000,0000,,No quiero morir…
+Dialogue: 0,0:15:00.46,0:15:03.18,Gen_Main,Luna,0000,0000,0000,,¡Las maldiciones dan miedo!
+Dialogue: 0,0:15:03.34,0:15:05.46,Gen_Italics,Noir,0000,0000,0000,,¡¿Adónde fue su valor de antes?!
+Dialogue: 0,0:15:05.63,0:15:07.48,Gen_Italics,Noir,0000,0000,0000,,Espera, ¿acaso esto es…?
+Dialogue: 0,0:15:08.51,0:15:09.67,Cart_Ventana,Sign,0000,0000,0000,,{\fad(275,275)\an8\fs36\pos(194,0)}Habilidad
+Dialogue: 0,0:15:08.51,0:15:09.67,Cart_Ventana,Sign,0000,0000,0000,,{\fad(275,275)\an8\fs62\bord4\pos(320,241)}Cobardía
+Dialogue: 0,0:15:09.76,0:15:15.97,Cart_Ventana,Sign,0000,0000,0000,,{\fad(275,275)\an8\3c&H2D231F&\4c&H524826&\fs36\pos(194,0)}Cobardía
+Dialogue: 0,0:15:10.09,0:15:15.97,Cart_Descripciones,Sign,0000,0000,0000,,{\fs22\an4\fad(500,0)\pos(100,163)}Perder maná o recibir ataques potentes
+Dialogue: 0,0:15:10.88,0:15:15.97,Cart_Descripciones,Sign,0000,0000,0000,,{\fs22\an4\fad(500,0)\pos(100,213)}puede volver a su usuario
+Dialogue: 0,0:15:12.18,0:15:15.97,Cart_Descripciones,Sign,0000,0000,0000,,{\fs22\an4\fad(500,0)\pos(100,267)}aún más cobarde.
+Dialogue: 0,0:15:13.26,0:15:15.97,Gen_Italics,Noir,0000,0000,0000,,Esto debe ser un fastidio.
+Dialogue: 0,0:15:20.81,0:15:22.17,Gen_Main,Lola,0000,0000,0000,,¡Luna!
+Dialogue: 0,0:15:22.31,0:15:24.13,Gen_Main,Lola,0000,0000,0000,,Me lo temía.
+Dialogue: 0,0:15:24.98,0:15:27.51,Gen_Main,Lola,0000,0000,0000,,Luna siempre es así.
+Dialogue: 0,0:15:27.69,0:15:30.34,Gen_Main,Lola,0000,0000,0000,,No te preocupes, despertará enseguida.
+Dialogue: 0,0:15:33.99,0:15:35.35,Gen_Main,Luna,0000,0000,0000,,Mamá…
+Dialogue: 0,0:15:35.49,0:15:40.00,Gen_Main,Lola,0000,0000,0000,,Tranquila, mamá está contigo.\NVamos, vamos.
+Dialogue: 0,0:15:42.08,0:15:45.84,Gen_Main,Luna,0000,0000,0000,,¡No me creo que vieran eso! ¡Olvídenlo!
+Dialogue: 0,0:15:46.00,0:15:49.96,Gen_Main,Luna,0000,0000,0000,,¡Por favor! ¡Por favor! ¡Por favor!
+Dialogue: 0,0:15:50.13,0:15:52.30,Gen_Main,Emma,0000,0000,0000,,-No importa…\N-Eso.
+Dialogue: 0,0:15:52.72,0:15:56.56,Gen_Main,Luna,0000,0000,0000,,¡Bien, sigamos!\N¡La señorita María nos necesita!
+Dialogue: 0,0:15:56.72,0:15:57.68,Gen_Main,Luna,0000,0000,0000,,¡En marcha!
+Dialogue: 0,0:16:00.60,0:16:02.05,Gen_Main,Noir,0000,0000,0000,,Pero…
+Dialogue: 0,0:16:02.23,0:16:05.66,Gen_Main,Luna,0000,0000,0000,,No te preocupes por mí.
+Dialogue: 0,0:16:05.81,0:16:07.36,Gen_Main,Luna,0000,0000,0000,,No tengo miedo de nada…
+Dialogue: 0,0:16:08.02,0:16:11.53,Gen_Main,Noir,0000,0000,0000,,-Luna, busquemos otra forma.\N-¿Eh?
+Dialogue: 0,0:16:12.20,0:16:14.09,Gen_Main,Luna,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:16:14.24,0:16:15.14,Gen_Main,Noir,0000,0000,0000,,Tus piernas.
+Dialogue: 0,0:16:17.41,0:16:19.31,Gen_Main,Luna,0000,0000,0000,,¡Tiemblo de emoción!
+Dialogue: 0,0:16:19.45,0:16:21.88,Gen_Main,Noir,0000,0000,0000,,Dijiste que las maldiciones te asustan.
+Dialogue: 0,0:16:22.04,0:16:24.25,Gen_Main,Luna,0000,0000,0000,,¿Qué? Ni hablar. No recuerdo eso.
+Dialogue: 0,0:16:25.63,0:16:27.08,Gen_Main,Lola,0000,0000,0000,,¡Luna, muy mal!
+Dialogue: 0,0:16:27.84,0:16:30.18,Gen_Main,Lola,0000,0000,0000,,Dinos la verdad de una vez.
+Dialogue: 0,0:16:30.80,0:16:33.63,Gen_Main,Lola,0000,0000,0000,,Tienes miedo, ¿verdad?
+Dialogue: 0,0:16:34.55,0:16:39.51,Gen_Main,Luna,0000,0000,0000,,Si salvo a la señorita María,\Nes probable que yo…
+Dialogue: 0,0:16:40.14,0:16:41.16,Gen_Main,Luna,0000,0000,0000,,muera.
+Dialogue: 0,0:16:43.94,0:16:47.87,Gen_Main,Luna,0000,0000,0000,,Pensarlo me aterroriza.
+Dialogue: 0,0:16:48.57,0:16:51.57,Gen_Main,Luna,0000,0000,0000,,Soy un fracaso como clériga.
+Dialogue: 0,0:16:56.78,0:16:58.69,Gen_Main,Lola,0000,0000,0000,,¿Morirás si lo haces?
+Dialogue: 0,0:16:59.24,0:17:00.83,Gen_Main,Lola,0000,0000,0000,,Jamás me lo contaste.
+Dialogue: 0,0:17:00.99,0:17:04.48,Gen_Main,Luna,0000,0000,0000,,Siento no haberlo hecho, pero…
+Dialogue: 0,0:17:05.42,0:17:06.61,Gen_Main,Lola,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:17:06.79,0:17:09.49,Gen_Main,Lola,0000,0000,0000,,Así que pese a ser amigas\Ndesde hace tanto
+Dialogue: 0,0:17:09.67,0:17:12.21,Gen_Main,Lola,0000,0000,0000,,nunca me dijiste algo tan importante.
+Dialogue: 0,0:17:12.38,0:17:13.88,Gen_Main,Luna,0000,0000,0000,,¡No es eso!
+Dialogue: 0,0:17:14.05,0:17:16.90,Gen_Main,Lola,0000,0000,0000,,¡Qué mejor amiga tan terrible!\N¡Me enoja!
+Dialogue: 0,0:17:20.06,0:17:22.58,Gen_Main,Lola,0000,0000,0000,,Me enoja no saber por lo que pasabas.
+Dialogue: 0,0:17:22.72,0:17:23.76,Gen_Main,Luna,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:17:24.18,0:17:28.00,Gen_Main,Lola,0000,0000,0000,,Siento no haberme\Ndado cuenta de cuánto sufrías.
+Dialogue: 0,0:17:30.11,0:17:31.91,Gen_Main,Lola,0000,0000,0000,,Siempre haces lo mismo.
+Dialogue: 0,0:17:32.07,0:17:35.81,Gen_Main,Lola,0000,0000,0000,,¡Antepones el bienestar ajeno al tuyo!
+Dialogue: 0,0:17:35.99,0:17:37.36,Gen_Main,Luna,0000,0000,0000,,Lola…
+Dialogue: 0,0:17:37.53,0:17:39.88,Gen_Main,Lola,0000,0000,0000,,Confía más en mí, por favor.
+Dialogue: 0,0:17:41.08,0:17:42.32,Gen_Main,Lola,0000,0000,0000,,Luna, eres una tonta.
+Dialogue: 0,0:17:43.93,0:17:44.88,Gen_Main,Luna,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:17:49.75,0:17:52.00,Gen_Italics,Noir,0000,0000,0000,,Lola… Luna…
+Dialogue: 0,0:17:53.88,0:17:56.94,Gen_Italics,Noir,0000,0000,0000,,Esas dos tienen algo maravilloso.
+Dialogue: 0,0:18:03.26,0:18:05.46,Gen_Main,Lola,0000,0000,0000,,Siento mucho lo ocurrido.
+Dialogue: 0,0:18:05.64,0:18:08.90,Gen_Main,Luna,0000,0000,0000,,Acabaron viendo una escena vergonzosa.
+Dialogue: 0,0:18:09.06,0:18:12.52,Gen_Main,Noir,0000,0000,0000,,En absoluto. Fue una escena maravillosa.
+Dialogue: 0,0:18:12.69,0:18:15.78,Gen_Main,Noir,0000,0000,0000,,Quiero decir que me conmovieron.
+Dialogue: 0,0:18:15.94,0:18:17.69,Gen_Main,Lola,0000,0000,0000,,¿Y qué podemos hacer?
+Dialogue: 0,0:18:17.86,0:18:21.09,Gen_Main,Emma,0000,0000,0000,,Si intentamos salvar\Na la señorita María, la señora Luna…
+Dialogue: 0,0:18:24.87,0:18:26.12,Gen_Main,Noir,0000,0000,0000,,No se preocupen.
+Dialogue: 0,0:18:27.21,0:18:29.38,Gen_Main,Noir,0000,0000,0000,,Todavía queda esperanza.
+Dialogue: 0,0:18:31.13,0:18:35.13,Gen_Main,Noir,0000,0000,0000,,Puedo hacer que esto resulte\Nsin que muera nadie.
+Dialogue: 0,0:18:37.13,0:18:43.13,Gen_Main,Noir,0000,0000,0000,,Antes estuve analizando la habilidad\Nde Eliminar maldición de Luna.
+Dialogue: 0,0:18:40.01,0:18:40.59,Cart_Ventana,Sign,0000,0000,0000,,{\fad(0,200)\fs36\pos(317,96)}[Eliminar maldición]
+Dialogue: 0,0:18:40.89,0:18:50.52,Cart_Ventana,Sign,0000,0000,0000,,{\fad(400,0)\pos(365,31)}[Eliminar maldición]
+Dialogue: 0,0:18:41.59,0:18:47.98,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(364,222)\an4\fs24\pos(98,111)}Elimina una maldición.
+Dialogue: 0,0:18:41.59,0:18:47.98,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(364,0)\an4\fs24\pos(98,168)}Hace que el tiempo de vida de su usuario
+Dialogue: 0,0:18:41.59,0:18:47.98,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(364,222)\an4\fs24\pos(98,224)}se reduzca en base a la potencia de la maldición.
+Dialogue: 0,0:18:43.76,0:18:47.06,Gen_Main,Noir,0000,0000,0000,,Intenté eliminar la reducción\Nde tiempo de vida, pero…
+Dialogue: 0,0:18:48.02,0:18:50.52,Cart_Ventana,Sign,0000,0000,0000,,{\fad(0,0)\pos(488,179)}PV necesarios
+Dialogue: 0,0:18:50.52,0:18:54.98,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,847)\an7\shad2\4a&H55&\fscy120\pos(479,185)}El tiempo de vida de\Nsu usuario se reduce.
+Dialogue: 0,0:18:50.52,0:18:55.02,Cart_Ventana,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\pos(28,98)}Tiempo de vida
+Dialogue: 0,0:18:50.52,0:18:55.02,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\fs20\pos(466,1)}Finanzas
+Dialogue: 0,0:18:50.52,0:18:55.02,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,847)\pos(598,59)}rels
+Dialogue: 0,0:18:50.65,0:18:53.26,Gen_Italics,Noir,0000,0000,0000,,No tengo 10,000 PV.
+Dialogue: 0,0:18:55.02,0:18:56.66,Gen_Italics,Noir,0000,0000,0000,,¿Y qué tal esto?
+Dialogue: 0,0:18:55.02,0:19:00.86,Cart_Ventana,Sign,0000,0000,0000,,{\fad(400,0)\pos(365,31)}[Eliminar maldición]
+Dialogue: 0,0:18:56.19,0:18:59.07,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(364,1684)\an4\fs24\pos(98,168)}Hace que el tiempo de vida de su usuario
+Dialogue: 0,0:18:56.19,0:18:59.61,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(364,222)\an4\fs24\pos(98,111)}Elimina una maldición.
+Dialogue: 0,0:18:56.19,0:18:59.61,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(364,222)\an4\fs24\pos(98,224)}se reduzca en base a la potencia de la maldición.
+Dialogue: 0,0:18:56.82,0:18:59.02,Gen_Italics,Noir,0000,0000,0000,,Cambiaré "tiempo de vida"\Npor "finanzas".
+Dialogue: 0,0:18:57.40,0:18:59.61,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1904,222)\an4\fs24\pos(98,168)}Hace que las finanzas de su usuario
+Dialogue: 0,0:18:59.40,0:19:00.86,Cart_Ventana,Sign,0000,0000,0000,,{\fad(200,0)\pos(474,181)}PV necesarios
+Dialogue: 0,0:19:00.86,0:19:03.03,Cart_Ventana,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\pos(28,98)}Tiempo de vida
+Dialogue: 0,0:19:00.86,0:19:03.03,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\fs20\pos(466,1)}Finanzas
+Dialogue: 0,0:19:00.86,0:19:03.03,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,847)\pos(598,59)}rels
+Dialogue: 0,0:19:00.86,0:19:03.03,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(1,847)\an7\shad2\4a&H55&\fscy120\pos(479,185)}Las finanzas de su\Nusuario se reducen.
+Dialogue: 0,0:19:00.99,0:19:02.57,Gen_Italics,Noir,0000,0000,0000,,Perfecto. Esto funcionará.
+Dialogue: 0,0:19:06.54,0:19:10.41,Gen_Main,Noir,0000,0000,0000,,Hay una forma de salvar a María\Nsin sacrificar a Luna.
+Dialogue: 0,0:19:12.08,0:19:13.56,Gen_Main,Emma,0000,0000,0000,,¿De verdad, Noir?
+Dialogue: 0,0:19:13.72,0:19:14.84,Gen_Main,Noir,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:19:15.30,0:19:19.75,Gen_Main,Noir,0000,0000,0000,,Pero no tengo PV suficientes\Npara usar esta habilidad…
+Dialogue: 0,0:19:20.47,0:19:21.80,Gen_Main,Three,0000,0000,0000,,¿PV?
+Dialogue: 0,0:19:25.10,0:19:25.81,Cart_Descripciones,Sign,0000,0000,0000,,{\fad(229,0)\an4\fs12\pos(421,305)}Restantes
+Dialogue: 0,0:19:27.02,0:19:29.06,Gen_Main,Luna,0000,0000,0000,,Comida deliciosa…
+Dialogue: 0,0:19:29.48,0:19:31.81,Gen_Main,Lola,0000,0000,0000,,Ganar dinero y satisfacer\Ndeseos mundanos…
+Dialogue: 0,0:19:31.98,0:19:36.07,Gen_Main,Emma,0000,0000,0000,,Y hacer cosas excitantes con miembros\Natractivos del sexo opuesto…
+Dialogue: 0,0:19:36.23,0:19:37.71,Gen_Main,Noir,0000,0000,0000,,Exacto.
+Dialogue: 0,0:19:38.19,0:19:42.83,Gen_Main,Noir,0000,0000,0000,,No puedo usar mis habilidades\NCrear o Editar sin PV.
+Dialogue: 0,0:19:42.99,0:19:45.58,Gen_Main,Noir,0000,0000,0000,,Igual que no se puede hacer\Nuna tortilla sin huevos…
+Dialogue: 0,0:19:48.91,0:19:54.21,Gen_Main,Noir,0000,0000,0000,,¡En fin! ¿Se les ocurre\Ncómo podría ganar 2,000 PV?
+Dialogue: 0,0:19:54.38,0:19:57.53,Gen_Main,Noir,0000,0000,0000,,Y algo que pueda mejorar\Nlas finanzas de Luna.
+Dialogue: 0,0:19:58.63,0:20:00.48,Gen_Main,Emma,0000,0000,0000,,Lo dices como si fuera fácil.
+Dialogue: 0,0:20:00.63,0:20:02.80,Gen_Main,Luna,0000,0000,0000,,Dudo que haya nada tan práctico.{LA PROSTITUCIÓN ES LA CLAVE. TE LA FORNICAS Y LE PAGAS. SOY UN GENIO}
+Dialogue: 0,0:20:02.97,0:20:04.74,Gen_Main,Lola,0000,0000,0000,,-Sí que la hay.\N-¡¿Eh?!
+Dialogue: 0,0:20:05.89,0:20:10.72,Gen_Main,Lola,0000,0000,0000,,Cierto noble celebra un evento ideal\Npara esto cada semana.
+Dialogue: 0,0:20:11.31,0:20:13.44,Gen_Main,Lola,0000,0000,0000,,Se celebrará de nuevo el fin de semana,
+Dialogue: 0,0:20:13.60,0:20:16.40,Gen_Main,Lola,0000,0000,0000,,así que podremos eliminar\Nla maldición a tiempo.
+Dialogue: 0,0:20:16.56,0:20:19.10,Gen_Main,Noir,0000,0000,0000,,¿Qué tipo de evento es ese?
+Dialogue: 0,0:20:19.86,0:20:22.11,Gen_Main,Lola,0000,0000,0000,,-Se llama…\N-¿Se llama…?
+Dialogue: 0,0:20:22.28,0:20:24.46,Gen_Main,Lola,0000,0000,0000,,¡El día del orgullo harén!
+Dialogue: 0,0:20:27.49,0:20:30.14,Gen_Main,Peppero,0000,0000,0000,,¡Siento que hayan tenido que esperar!
+Dialogue: 0,0:20:31.45,0:20:35.84,Gen_Main,Peppero,0000,0000,0000,,Hoy, otros diez tipos\Nde los que estoy celoso… digo…
+Dialogue: 0,0:20:36.00,0:20:42.62,Gen_Main,Peppero,0000,0000,0000,,Conoceremos a unos malandrines\Nimprudentes que presumirán de sus novias
+Dialogue: 0,0:20:42.80,0:20:44.72,Gen_Main,Peppero,0000,0000,0000,,¡y podrán ganar un millón de rels!
+Dialogue: 0,0:20:44.88,0:20:46.24,Gen_Main,Crowd walla,0000,0000,0000,,¡Imperdonable!
+Dialogue: 0,0:20:46.39,0:20:47.39,Gen_Main,Crowd walla,0000,0000,0000,,¡Fuera!
+Dialogue: 0,0:20:47.55,0:20:49.47,Gen_Main,Crowd walla,0000,0000,0000,,¡Desgraciados con suerte!
+Dialogue: 0,0:20:49.64,0:20:50.72,Gen_Main,Crowd walla,0000,0000,0000,,¡Malditos sean!
+Dialogue: 0,0:20:50.89,0:20:58.25,Gen_Main,Peppero,0000,0000,0000,,¡Quítense el estrés viendo a estos\Ndesgraciados cualesquiera de porquería!
+Dialogue: 0,0:21:00.40,0:21:05.15,Gen_Main,Lola,0000,0000,0000,,Parece que al organizador lo\Ntraicionaron las mujeres muchas veces.
+Dialogue: 0,0:21:05.32,0:21:10.77,Gen_Main,Lola,0000,0000,0000,,Y los que se reúnen aquí\Nhan vivido experiencias similares.
+Dialogue: 0,0:21:10.95,0:21:13.90,Gen_Main,Lola,0000,0000,0000,,La mayoría de ellos están solteros.
+Dialogue: 0,0:21:14.54,0:21:16.72,Gen_Main,Crowd A,0000,0000,0000,,¡Muerte a los tipos apuestos!
+Dialogue: 0,0:21:16.87,0:21:18.77,Gen_Main,Crowd B,0000,0000,0000,,¡Harenes de porquería!
+Dialogue: 0,0:21:18.92,0:21:20.63,Gen_Main,Crowd,0000,0000,0000,,¡Los harenes son imperdonables!
+Dialogue: 0,0:21:20.80,0:21:26.63,Gen_Italics,Noir,0000,0000,0000,,Esto no es un día del orgullo,\N¡es una carnicería!
+Dialogue: 0,0:21:26.80,0:21:29.47,Gen_Main,Peppero,0000,0000,0000,,¿Están preparados, compañeros?
+Dialogue: 0,0:21:30.18,0:21:34.31,Gen_Main,Peppero,0000,0000,0000,,¡Que comience el día del orgullo harén!
+Dialogue: 0,0:21:43.86,0:21:47.36,Gen_Main,Noir,0000,0000,0000,,Creo que quiero irme a casa…
+Dialogue: 0,0:23:22.00,0:23:26.00,Cart_C_Tim,Sign,0000,0000,0000,,{\c&H7ADFE8&\3c&H1E4372&\shad0\fs28\bord1.5\fsp1\pos(320,99)}Teatro de Alice
+Dialogue: 0,0:23:23.00,0:23:24.84,Gen_Main,Alice,0000,0000,0000,,"Teatro de Alice".
+Dialogue: 0,0:23:27.76,0:23:30.16,Gen_Main,Alice,0000,0000,0000,,Noir…
+Dialogue: 0,0:23:31.76,0:23:34.10,Gen_Main,Alice,0000,0000,0000,,¡Regresaste!
+Dialogue: 0,0:23:34.26,0:23:36.10,Gen_Main,Noir,0000,0000,0000,,¿Qué haces, Alice?
+Dialogue: 0,0:23:36.26,0:23:38.64,Gen_Main,Alice,0000,0000,0000,,Esto no es… Verás…
+Dialogue: 0,0:23:39.02,0:23:41.39,Gen_Main,Alice,0000,0000,0000,,Estaba haciéndote la cama.
+Dialogue: 0,0:23:41.56,0:23:42.98,Gen_Main,Noir,0000,0000,0000,,Parece peor que antes.
+Dialogue: 0,0:23:45.23,0:23:47.55,Gen_Main,Noir,0000,0000,0000,,Descuida. Dormiré así.
+Dialogue: 0,0:23:48.11,0:23:50.35,Gen_Main,Alice,0000,0000,0000,,¿Eh? ¿Noir?
+Dialogue: 0,0:23:50.53,0:23:53.52,Gen_Main,Noir,0000,0000,0000,,Bueno, somos hermanos.
+Dialogue: 0,0:23:53.70,0:23:56.78,Gen_Main,Noir,0000,0000,0000,,Solíamos dormir juntos todo el tiempo.
+Dialogue: 0,0:23:56.95,0:23:59.50,Gen_Main,Alice,0000,0000,0000,,¡Por supuesto!
+Dialogue: 0,0:24:04.08,0:24:06.97,Gen_Italics,Noir,0000,0000,0000,,¿Hola? Que Alice es tu hermana menor.
+Dialogue: 0,0:24:07.13,0:24:10.42,Gen_Italics,Noir,0000,0000,0000,,¿Cómo es posible que gane PV con esto?
+Dialogue: 0,0:24:12.88,0:24:13.92,Gen_Italics,Noir,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:24:17.76,0:24:20.42,Gen_Main_Up,Luna,0000,0000,0000,,Próximamente: "El futuro de este harén".
+Dialogue: 0,0:24:18.31,0:24:21.98,Cart_TitleNext,Sign,0000,0000,0000,,{\fad(655,1)\an1\blur1\bord2\pos(312,287)}#05 El futuro de este harén
+Dialogue: 0,0:24:21.98,0:24:27.73,Cart_C_Tre,Sign,0000,0000,0000,,{\an1\c&H613D41&\shad0\4c&HB5C7AF&\blur1\fs18\3c&HFFFFFF&\pos(56,306)}Ilustración: Fuumi

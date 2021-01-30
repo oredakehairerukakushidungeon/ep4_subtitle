@@ -1,0 +1,459 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Narration - Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Flashback Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00560B00,&H00560B00,0,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0018,0
+Style: Episode Title,Times New Roman,30,&H00FCFFF8,&H000000FF,&H00000000,&H00855143,-1,0,0,0,100,100,0,0,1,0,2,8,0020,0020,0020,1
+Style: Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00216DDF,&H00692496,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: Next_Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,2,0,1,0040,0010,0055,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+Style: Text_Box_Header,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,1,1,0203,0213,0075,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: Illustration,Trebuchet MS,20,&H00E166E7,&H000000FF,&H00FFFFFF,&H00D683DB,0,0,0,0,100,100,0,0,1,1,1,3,0036,0040,0045,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+Style: sign_26892_315_Elimina_le_maled,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,0,3,1,0010,0010,0020,1
+Style: sign_21783_248__Attacchi_di_Tre,Arial,40,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,3,1,2,0066,0076,0075,1
+Style: sign_21813_249_Attacchi_di_Trem,Arial,30,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,3,1,1,0132,0157,0324,1
+Style: sign_26854_313__Rimuovi_Malediz,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,3,1,8,0038,0318,0005,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.81,0:00:18.50,Italics,Lola,0000,0000,0000,,A quest'ora dovrebbe essere al tempio.
+Dialogue: 0,0:00:20.62,0:00:22.87,Main,Monk,0000,0000,0000,,Questa è la fila per incontrare la nobile chierica.
+Dialogue: 0,0:00:22.87,0:00:25.01,Main,Monk,0000,0000,0000,,Vi preghiamo di tenere il biglietto pronto.
+Dialogue: 0,0:00:27.88,0:00:30.51,Main,People walla,0000,0000,0000,,Accidenti, mi sento di nuovo vivo!
+Dialogue: 0,0:00:30.51,0:00:32.76,Main,People walla,0000,0000,0000,,Sento il corpo molto più leggero ora!
+Dialogue: 0,0:00:35.05,0:00:39.79,Italics,Lola,0000,0000,0000,,Sembra che ce la stia mettendo tutta anche oggi. \NSperiamo non esageri.
+Dialogue: 0,0:00:43.05,0:00:44.92,Flashback,Lola,0000,0000,0000,,Una cosa ci sarebbe.
+Dialogue: 0,0:00:44.92,0:00:47.35,Flashback,Lola,0000,0000,0000,,Forse se trovassimo una chierica\N in grado di esorcizzarla...
+Dialogue: 0,0:00:47.35,0:00:52.11,Flashback,Lola,0000,0000,0000,,Lei però accetta molto raramente \Ndi rimuovere le maledizioni.
+Dialogue: 0,0:00:52.56,0:00:55.70,Flashback,Lola,0000,0000,0000,,Ci sarà sicuramente un motivo,
+Dialogue: 0,0:00:55.70,0:00:58.88,Flashback,Lola,0000,0000,0000,,ma non l'ha mai rivelato nemmeno a me, \Nla sua migliore amica.
+Dialogue: 0,0:01:07.27,0:01:08.27,Main,Monk 2,0000,0000,0000,,Mia signora...
+Dialogue: 0,0:01:08.27,0:01:09.88,Main,Luna,0000,0000,0000,,Faccio una pausa.
+Dialogue: 0,0:01:10.26,0:01:12.55,Main,Luna,0000,0000,0000,,Vi chiedo scusa, ma dovrete aspettare.
+Dialogue: 0,0:01:12.55,0:01:13.71,Main,Monk 2,0000,0000,0000,,Come desidera.
+Dialogue: 0,0:01:24.88,0:01:26.02,Main,Luna,0000,0000,0000,,Oh, accidenti...
+Dialogue: 0,0:01:27.81,0:01:29.80,Main,Luna,0000,0000,0000,,A quanto pare sono a corto di energie.
+Dialogue: 0,0:01:29.80,0:01:33.40,Main,Lola,0000,0000,0000,,A me sembra lei si sia sforzata un po' troppo, \Nnobile chierica.
+Dialogue: 0,0:01:33.75,0:01:35.47,Main,Luna,0000,0000,0000,,Oh, sei tu, Lola.
+Dialogue: 0,0:01:35.47,0:01:38.86,Main,Lola,0000,0000,0000,,È così che saluti una persona preoccupata per te?
+Dialogue: 0,0:01:41.09,0:01:42.30,Main,Luna,0000,0000,0000,,Ti chiedo scusa.
+Dialogue: 0,0:01:45.18,0:01:50.02,Main,Luna,0000,0000,0000,,Dimmi, cosa ci fa qui \Nl'abile addetta alla reception della gilda?
+Dialogue: 0,0:01:50.73,0:01:53.09,Main,Lola,0000,0000,0000,,Odio chiedertelo sapendo che sei così stanca,
+Dialogue: 0,0:01:53.09,0:01:55.99,Main,Lola,0000,0000,0000,,ma avevo bisogno di parlarti\N di una cosa molto importante.
+Dialogue: 0,0:03:29.76,0:03:33.67,Italics,Noir,0000,0000,0000,,Oggi è il giorno in cui\N Lola ci presenterà alla chierica.
+Dialogue: 0,0:03:34.82,0:03:36.95,Italics,Noir,0000,0000,0000,,Avevo un po' di tempo prima dell'incontro,
+Dialogue: 0,0:03:36.95,0:03:39.55,Italics,Noir,0000,0000,0000,,quindi sono andato\N a chiedere consiglio alla Maestra.
+Dialogue: 0,0:03:40.79,0:03:42.91,Main,Noir,0000,0000,0000,,"Dungeon nascosto in cui solo io posso entrare!
+Dialogue: 0,0:03:42.91,0:03:45.36,Main,Noir,0000,0000,0000,,Permettimi di allenarmi in segreto \Nper diventare il più forte del mondo!"
+Dialogue: 0,0:03:54.68,0:03:56.16,Italics,Olivia,0000,0000,0000,,Tsk.
+Dialogue: 0,0:03:56.70,0:03:59.05,Italics Top,Olivia,0000,0000,0000,,Tsk, tsk.
+Dialogue: 0,0:03:56.71,0:04:01.72,Ep_Title,Sign,0000,0000,0000,,{\fad(485,0)\pos(339,309)}#04 "La purissima chierica"
+Dialogue: 0,0:03:59.05,0:04:00.75,Main Top,Noir,0000,0000,0000,,M-Maestra?
+Dialogue: 0,0:04:00.75,0:04:02.51,Main Top,Noir,0000,0000,0000,,Sei arrabbiata per qualche motivo?
+Dialogue: 0,0:04:02.51,0:04:06.99,Italics,Olivia,0000,0000,0000,,Beh, non sei più venuto a trovarmi!
+Dialogue: 0,0:04:06.99,0:04:10.14,Italics,Olivia,0000,0000,0000,,Sono passate ben due settimane.
+Dialogue: 0,0:04:10.51,0:04:12.11,Main,Noir,0000,0000,0000,,M-Mi dispiace!
+Dialogue: 0,0:04:12.11,0:04:14.73,Main,Noir,0000,0000,0000,,Sarei voluto venire prima,
+Dialogue: 0,0:04:15.08,0:04:17.44,Main,Noir,0000,0000,0000,,ma c'è stato un piccolo problema.
+Dialogue: 0,0:04:20.72,0:04:24.55,Italics,Olivia,0000,0000,0000,,Capisco. Una maledizione sulla figlia di un duca.
+Dialogue: 0,0:04:24.55,0:04:25.63,Main,Noir,0000,0000,0000,,Sì.
+Dialogue: 0,0:04:25.63,0:04:29.67,Italics,Olivia,0000,0000,0000,,Se parliamo di una maledizione, \Npotrebbe avere a che fare con la sua famiglia.
+Dialogue: 0,0:04:29.67,0:04:33.21,Main,Noir,0000,0000,0000,,La sua famiglia? Intendi dire i suoi antenati?
+Dialogue: 0,0:04:33.21,0:04:35.46,Italics,Olivia,0000,0000,0000,,Proprio così, succede di continuo!
+Dialogue: 0,0:04:35.46,0:04:38.36,Italics,Olivia,0000,0000,0000,,C'è un'abilità che permette di maledire \Ni discendenti di una persona.
+Dialogue: 0,0:04:38.36,0:04:40.09,Main,Noir,0000,0000,0000,,Ma questo è...
+Dialogue: 0,0:04:40.75,0:04:46.29,Italics,Olivia,0000,0000,0000,,Ti servirebbero oltre 10.000 LP per creare \Nl'abilità necessaria per rimuoverla.
+Dialogue: 0,0:04:46.29,0:04:50.69,Italics,Olivia,0000,0000,0000,,Credo sia meglio lasciare\N che se ne occupi quella chierica.
+Dialogue: 0,0:04:50.69,0:04:53.23,Main,Noir,0000,0000,0000,,Sì. Sono arrivato alle stesse conclusioni, però...
+Dialogue: 0,0:04:53.23,0:04:56.07,Main,Noir,0000,0000,0000,,mi chiedo che tipo sia questa chierica.
+Dialogue: 0,0:04:56.07,0:05:00.50,Italics,Olivia,0000,0000,0000,,Se possiede l'abilità per esorcizzare, \Ndev'essere almeno in parte elfa.
+Dialogue: 0,0:05:00.50,0:05:02.18,Main,Noir,0000,0000,0000,,Un'elfa, eh?
+Dialogue: 0,0:05:02.18,0:05:03.86,Main,Noir,0000,0000,0000,,Non se ne vedono spesso in giro.
+Dialogue: 0,0:05:04.24,0:05:07.69,Italics,Olivia,0000,0000,0000,,È grandioso poter soddisfare \Ni tuoi desideri con altre specie.
+Dialogue: 0,0:05:07.69,0:05:10.03,Italics,Olivia,0000,0000,0000,,Guadagnerai un sacco di LP extra!
+Dialogue: 0,0:05:10.03,0:05:11.24,Main,Noir,0000,0000,0000,,Cosa?!
+Dialogue: 0,0:05:12.48,0:05:15.49,Italics,Olivia,0000,0000,0000,,Va' e punta alla gloria!
+Dialogue: 0,0:05:15.49,0:05:17.00,Main,Noir,0000,0000,0000,,M-Ma che stai—
+Dialogue: 0,0:05:18.34,0:05:23.26,Main,Noir,0000,0000,0000,,Q-Quindi, Maestra, \Ntu come faresti a guadagnare 10.000 LP?
+Dialogue: 0,0:05:23.26,0:05:27.04,Italics,Olivia,0000,0000,0000,,Oh, nel mio caso... Avvicinati, te lo sussurro.
+Dialogue: 0,0:05:32.15,0:05:33.22,Italics,Olivia,0000,0000,0000,,Per prima cosa...
+Dialogue: 0,0:05:34.07,0:05:37.10,Italics,Olivia,0000,0000,0000,,per rendere il loro corpo estremamente sensibile...
+Dialogue: 0,0:05:37.10,0:05:39.71,Italics,Olivia,0000,0000,0000,,lega le loro...
+Dialogue: 0,0:05:39.71,0:05:42.86,Italics,Olivia,0000,0000,0000,,e mentre sono...
+Dialogue: 0,0:05:43.98,0:05:46.95,Italics,Olivia,0000,0000,0000,,In questo modo guadagnerai 10.000 LP \Nin un batter d'occhio!
+Dialogue: 0,0:05:49.22,0:05:52.88,Italics,Olivia,0000,0000,0000,,Ma dai, stavo scherzando! Che carino che sei, Noir.
+Dialogue: 0,0:05:53.20,0:05:56.25,Italics,Noir,0000,0000,0000,,M-Mi sta prendendo in giro...
+Dialogue: 0,0:05:56.77,0:05:59.25,Italics,Olivia,0000,0000,0000,,Probabilmente non riuscirai ad accumulare \N10.000 LP così in fretta,
+Dialogue: 0,0:05:59.25,0:06:03.07,Italics,Olivia,0000,0000,0000,,ma posso insegnarti un'abilità \Nche ti sarà utilissima per guadagnare LP.
+Dialogue: 0,0:06:03.07,0:06:05.96,Main,Noir,0000,0000,0000,,Sul serio? Ma è fantastico!
+Dialogue: 0,0:06:05.96,0:06:11.48,Italics,Olivia,0000,0000,0000,,Ok! Lascia che la tua magnifica Olivia\N ti spieghi nel dettaglio cosa fare!
+Dialogue: 0,0:06:11.48,0:06:12.61,Main,Noir,0000,0000,0000,,Grazie!
+Dialogue: 0,0:06:16.53,0:06:18.73,Italics,Olivia,0000,0000,0000,,E ora, veniamo a noi...
+Dialogue: 0,0:06:18.73,0:06:21.48,Italics,Olivia,0000,0000,0000,,Farai un vero affare! Quest'abilità proibita...
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9F48D9&\3c&HFFFFFF&\shad2\an8\pos(320,40)\bord5\4c&H996F9A&}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9F48D9&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,45,640,47)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9E50DB&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,47,640,49)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9D57DC&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,49,640,51)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9C5FDE&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,51,640,53)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9A66DF&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,53,640,55)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H996EE1&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,55,640,57)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9876E2&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,57,640,59)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H977DE4&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,59,640,61)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9685E5&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,61,640,63)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H958DE7&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,63,640,65)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9394E8&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,65,640,67)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H929CEA&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,67,640,69)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H91A3EB&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,69,640,71)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H90ABED&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,71,640,73)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8FB3EE&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,73,640,75)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8EBAF0&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,75,640,77)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8CC2F1&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,77,640,79)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8BC9F3&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,79,640,81)}Mandrillo Fortunato
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8AD1F4&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,81,640,83)}Mandrillo Fortunato
+Dialogue: 0,0:06:25.15,0:06:29.57,Italics,Olivia,0000,0000,0000,,richiede solo 300 miseri LP, \Nma è incredibilmente efficace!
+Dialogue: 0,0:06:25.65,0:06:32.37,Text_Box_Header,Sign,0000,0000,0000,,{\fad(277,1)\q2\fs30\an2\bord3}Richiede solo 300 LP!
+Dialogue: 0,0:06:29.57,0:06:32.37,Italics,Olivia,0000,0000,0000,,Vivrai delle esperienze indescrivibili!
+Dialogue: 0,0:06:33.83,0:06:35.95,Main,Noir,0000,0000,0000,,Attivo Creazione per ottenere Mandrillo Fortunato!
+Dialogue: 0,0:06:35.79,0:06:36.50,Text_Box_Header,Sign,0000,0000,0000,,{\fad(188,1)\fs18\pos(426,60)\3c&H000000&\4c&H000000&\shad1\bord1}Noir Stardia   Lv.{\fs28}35\N{\fs12}LP.{\fs18}2270
+Dialogue: 0,0:06:35.79,0:06:37.25,Text_Box_Body,,0000,0000,0000,,{\fad(188,1)\p1\fscx255\fscy560\bord4.5\blur1\an4\3c&H000000&\pos(522,146)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:06:35.79,0:06:37.25,Text_Box_Body,,0000,0000,0000,,{\fad(188,1)\p1\fscx255\fscy560\bord3\1a&HAA&\c&HAF8264&\an4\pos(522,146)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:06:35.79,0:06:37.25,Text_Box_Text,Sign,0000,0000,0000,,{\fad(188,1)\fs10\an4\4a&H88&\fscy125\pos(426,103)}Abilità {\fs11\fscx75}[Grande Saggio] {\fs11\alpha&H00&\4a&H88&}[Creazione] [Modifica] [Concessione]\N{\fscx100\fs10\alpha&HFF&}Abilità {\fs11\alpha&H00&\4a&H88&\fscx75}[Conversione dei LP] [Proiettile di Pietra]\N{\fscx100\fs10\alpha&HFF&}Abilità {\fs11\alpha&H00&\4a&H88&\fscx75}[Occhio Perspicace] [Immunità al Mal di Testa] \N{\fs10\alpha&HFF&\fscx100}Abilità {\fs11\alpha&H00&\4a&H88&\fscx75}[Dimensione Tascabile (Grado C)]\N{\fs10\alpha&HFF&\fscx100}Abilità {\fs11\alpha&H00&\4a&H88&\fscx75}[Back Step Migliorato] [Difesa Passiva]\N{\fs10\alpha&HFF&\fscx100}Abilità {\fs11\alpha&H00&\4a&H88&\fscx75}[Massaggia Spalle] {\alpha&HFF&\t(732,856,1 \alpha&H00&)}[Mandrillo Fortunato]
+Dialogue: 0,0:06:36.29,0:06:37.25,Text_Box_Header,Sign,0000,0000,0000,,{\fad(189,1)\fs18\pos(426,60)\3c&H000000&\4c&H000000&\shad1\bord1}Noir Stardia   Lv.{\fs28}35\N{\fs12}LP.{\fs18}1970
+Dialogue: 0,0:06:46.75,0:06:49.64,Main,Emma,0000,0000,0000,,Noir! Ce ne hai messo di tempo!
+Dialogue: 0,0:06:50.07,0:06:52.72,Main,Emma,0000,0000,0000,,La nobile chierica e Lola saranno qui a momenti!
+Dialogue: 0,0:06:52.72,0:06:53.71,Main,Noir,0000,0000,0000,,Eh?
+Dialogue: 0,0:06:56.27,0:06:58.41,Main,Noir,0000,0000,0000,,Cavolo, mi dispiace!
+Dialogue: 0,0:07:10.36,0:07:14.28,Italics,Noir,0000,0000,0000,,Q-Quella volta in cui sono atterrato \Nsu delle tette slime.
+Dialogue: 0,0:07:25.09,0:07:26.06,Main,Girl,0000,0000,0000,,No!
+Dialogue: 0,0:07:28.16,0:07:29.45,Main,Girl 2,0000,0000,0000,,No!
+Dialogue: 0,0:07:30.01,0:07:32.47,Italics,Noir,0000,0000,0000,,Non c'è limite alla mia fortuna, pazzesco!
+Dialogue: 0,0:07:33.31,0:07:37.04,Italics,Noir,0000,0000,0000,,È questo l'effetto di Mandrillo Fortunato?
+Dialogue: 0,0:07:38.72,0:07:41.64,Flashback Top,Olivia,0000,0000,0000,,{\i1}Sbrill!{\i0}
+Dialogue: 0,0:07:38.72,0:07:41.64,Flashback_Italics,Noir,0000,0000,0000,,Quest'abilità è incredibile!
+Dialogue: 0,0:07:41.64,0:07:43.85,Flashback_Italics,Noir,0000,0000,0000,,Sei la migliore, Maestra.
+Dialogue: 0,0:07:42.83,0:07:45.84,Flashback Top,Olivia,0000,0000,0000,,{\i1}Sbrill!{\i0}
+Dialogue: 0,0:07:44.24,0:07:47.27,Flashback_Italics,Noir,0000,0000,0000,,Però finirà per influenzare il resto della mia vita.
+Dialogue: 0,0:07:49.80,0:07:51.86,Flashback_Italics,Noir,0000,0000,0000,,Devo solo rimaneggiarla un po' con Modifica!
+Dialogue: 0,0:07:51.86,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1362,1)\bord0\shad2\q2\pos(166,95)\t(16253,16794,1 \c&HFFFFFF&\4c&HFFFFFF&)}Mandrillo Fortunato.
+Dialogue: 0,0:07:53.36,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1656,1)\bord0\shad2\q2\pos(166,144)\fscx85\t(14752,15294,1 \c&HFFFFFF&\4c&HFFFFFF&)}Causa situazioni erotiche con membri
+Dialogue: 0,0:07:53.69,0:07:56.86,Flashback_Italics,Noir,0000,0000,0000,,Causa situazioni erotiche con membri \Ndel sesso opposto nelle vicinanze.
+Dialogue: 0,0:07:55.20,0:07:59.66,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1818,1)\bord0\shad2\q2\fscx80\pos(166,192)}del sesso opposto nelle vicinanze.
+Dialogue: 0,0:07:56.86,0:07:58.65,Flashback_Italics,Noir,0000,0000,0000,,Mi basta aggiungere "raramente".
+Dialogue: 0,0:07:58.70,0:07:59.33,Text_Box_Header,Sign,0000,0000,0000,,{\fad(195,185)\pos(492,40)}Spesi
+Dialogue: 0,0:07:59.66,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\bord0\shad2\q2\fscx80\pos(166,236)\t(8453,8994,1 \c&HFFFFFF&\4c&HFFFFFF&)}del sesso opposto nelle vicinanze.
+Dialogue: 0,0:07:59.79,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(606,1)\bord0\shad2\q2\fscx80\pos(160,195)\t(8323,8864,1 \c&HFFFFFF&\4c&HFFFFFF&)}"raramente"
+Dialogue: 0,0:08:00.50,0:08:03.31,Flashback_Italics,Noir,0000,0000,0000,,E poi anche \N"l'abilità non si attiverà in situazioni di pericolo".
+Dialogue: 0,0:08:03.08,0:08:03.71,Text_Box_Header,Sign,0000,0000,0000,,{\fad(195,185)\pos(512,40)}Spesi
+Dialogue: 0,0:08:03.54,0:08:08.63,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1653,1)\q2\bord0\shad2\q2\pos(160,282)\fscx75\t(4573,5114,1 \c&HFFFFFF&\4c&HFFFFFF&)}L'abilità non si attiverà in situazioni di pericolo.
+Dialogue: 0,0:08:05.79,0:08:08.58,Flashback_Italics,Noir,0000,0000,0000,,Devo assicurarmi che accada solo nei momenti giusti.
+Dialogue: 0,0:08:11.76,0:08:14.16,Main,Emma,0000,0000,0000,,Ehi! Che hai da ridacchiare tanto?!
+Dialogue: 0,0:08:14.16,0:08:16.18,Main,Noir,0000,0000,0000,,N-Non sto mica ridacchiando!
+Dialogue: 0,0:08:16.18,0:08:19.25,Main Top,Emma,0000,0000,0000,,E stavi anche fissando quelle ragazze, ammettilo!
+Dialogue: 0,0:08:17.00,0:08:18.88,Main,Luna,0000,0000,0000,,Quello dev'essere Noir.
+Dialogue: 0,0:08:19.25,0:08:20.70,Main Top,Emma,0000,0000,0000,,Noir, sei un idiota!
+Dialogue: 0,0:08:21.51,0:08:24.24,Main,Luna,0000,0000,0000,,È piuttosto carino.
+Dialogue: 0,0:08:24.24,0:08:25.65,Main,Luna,0000,0000,0000,,Proprio il mio tipo, a dire il vero.
+Dialogue: 0,0:08:25.65,0:08:28.52,Main,Lola,0000,0000,0000,,Un momento, Luna! Che vorresti dire?!
+Dialogue: 0,0:08:28.52,0:08:30.41,Main,Emma,0000,0000,0000,,Oh, Lola.
+Dialogue: 0,0:08:30.41,0:08:31.61,Main,Noir,0000,0000,0000,,E...
+Dialogue: 0,0:08:32.91,0:08:34.47,Main,Noir,0000,0000,0000,,la nobile chierica?
+Dialogue: 0,0:08:37.64,0:08:40.45,Main,Lola,0000,0000,0000,,Scusate per l'attesa. Lei è...
+Dialogue: 0,0:08:40.97,0:08:44.21,Main,Luna,0000,0000,0000,,Luna Heela. Piacere di conoscervi.
+Dialogue: 0,0:08:44.21,0:08:45.99,Main,Emma,0000,0000,0000,,A-Altrettanto.
+Dialogue: 0,0:08:45.99,0:08:48.26,Main,Noir,0000,0000,0000,,È-È un vero onore!
+Dialogue: 0,0:08:48.26,0:08:49.38,Main,Emma,0000,0000,0000,,Infatti!
+Dialogue: 0,0:08:49.38,0:08:52.09,Main,Luna,0000,0000,0000,,Abbiamo prenotato in un locale. Possiamo parlare lì.
+Dialogue: 0,0:08:55.19,0:08:57.34,Italics,Emma,0000,0000,0000,,Le sue ciocche argentate, così setose e lisce...
+Dialogue: 0,0:08:57.34,0:08:59.54,Italics,Emma,0000,0000,0000,,Ha una bellissima figura anche vista da dietro...
+Dialogue: 0,0:08:59.54,0:09:01.52,Italics,Emma,0000,0000,0000,,Il suo sedere piccolo ma molto sodo...
+Dialogue: 0,0:09:01.52,0:09:03.95,Italics,Emma,0000,0000,0000,,Poi le sue gambe lunghe e magre...
+Dialogue: 0,0:09:05.92,0:09:08.09,Main,Emma,0000,0000,0000,,Il mio unico vantaggio sono le tette!
+Dialogue: 0,0:09:08.09,0:09:10.78,Italics,Emma,0000,0000,0000,,Non avrei mai dovuto permettere\N che Noir la incontrasse.
+Dialogue: 0,0:09:10.78,0:09:12.82,Main,Noir,0000,0000,0000,,Emma? Su, andiamo!
+Dialogue: 0,0:09:20.23,0:09:22.79,Main,Luna,0000,0000,0000,,Lola mi ha spiegato a grandi linee.
+Dialogue: 0,0:09:22.79,0:09:25.71,Main,Luna,0000,0000,0000,,Quindi la persona che dovrei esaminare è...
+Dialogue: 0,0:09:25.71,0:09:27.98,Main,Noir,0000,0000,0000,,La signorina Maria. È la figlia di un duca.
+Dialogue: 0,0:09:32.30,0:09:33.82,Main,Luna,0000,0000,0000,,Quindi si tratta di lei.
+Dialogue: 0,0:09:34.47,0:09:36.60,Main,Luna,0000,0000,0000,,In realtà l'ho già esaminata...
+Dialogue: 0,0:09:37.60,0:09:39.68,Main,Luna,0000,0000,0000,,ma mi sono rifiutata di toglierle la maledizione.
+Dialogue: 0,0:09:39.68,0:09:44.31,Main,Noir,0000,0000,0000,,Ma perché? Non hai un'abilità\N che può esorcizzare le maledizioni?
+Dialogue: 0,0:09:44.31,0:09:48.74,Main,Luna,0000,0000,0000,,Sì, è così. Senza alcun problema.
+Dialogue: 0,0:09:48.74,0:09:49.81,Main,Luna,0000,0000,0000,,Tuttavia...
+Dialogue: 0,0:09:57.53,0:10:00.63,Main,Luna,0000,0000,0000,,non posso rimuovere la Maledizione \Ndella Morte al Sedicesimo Anno.
+Dialogue: 0,0:10:00.63,0:10:02.83,Main,Luna,0000,0000,0000,,Non posso salvarla.
+Dialogue: 0,0:10:07.66,0:10:10.25,Main,Luna,0000,0000,0000,,Come sta Maria attualmente?
+Dialogue: 0,0:10:10.25,0:10:12.88,Main,Noir,0000,0000,0000,,Le resta meno di una settimana.
+Dialogue: 0,0:10:13.99,0:10:16.83,Main,Noir,0000,0000,0000,,Le convulsioni le causano dolore in tutto il corpo.
+Dialogue: 0,0:10:16.83,0:10:20.47,Main,Noir,0000,0000,0000,,A quanto pare, \Ngli intervalli diventano sempre più brevi.
+Dialogue: 0,0:10:20.47,0:10:23.94,Main,Luna,0000,0000,0000,,Quindi la maledizione è arrivata a quel punto...
+Dialogue: 0,0:10:24.43,0:10:28.43,Main,Lola,0000,0000,0000,,Luna, non devi sentirti responsabile.
+Dialogue: 0,0:10:28.43,0:10:31.64,Main,Lola,0000,0000,0000,,Salvi decine di persone ogni giorno.
+Dialogue: 0,0:10:31.64,0:10:34.54,Main,Lola,0000,0000,0000,,Già questa è un'impresa straordinaria.
+Dialogue: 0,0:10:35.65,0:10:39.51,Italics,Noir,0000,0000,0000,,Sembra che Luna si senta piuttosto in colpa.
+Dialogue: 0,0:10:39.95,0:10:42.42,Italics,Noir,0000,0000,0000,,Forse nasconde un segreto.
+Dialogue: 0,0:10:44.00,0:10:45.16,Italics,Noir,0000,0000,0000,,Occhio Perspicace.
+Dialogue: 0,0:10:45.74,0:10:49.00,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,436)\shad2\b0\fs14\pos(32,114)\fscy115}Specie: Mezzelfa\NEtà: 17\NProfessione: Chierica/Avventuriera\NAbilità: {\fscx85}[Pistole Magiche (Grado B)] \N{\alpha&HFF&\fscx}Abilità: {\alpha\fscx85}[Colpo Energizzante] [Colpo Curativo]\N{\alpha&HFF&\fscx}Abilità: {\alpha\fscx85} [Attacchi di Tremarella] [Rimuovi Maledizione]
+Dialogue: 0,0:10:45.74,0:10:49.62,Italics,Noir,0000,0000,0000,,Sì, ha l'abilità Rimuovi Maledizione...
+Dialogue: 0,0:10:45.74,0:10:56.38,Text_Box_Body,,0000,0000,0000,,{\p1\fscx360\fscy625\bord4.5\blur1\an4\3c&H000000&\pos(168.666,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:45.74,0:10:56.38,Text_Box_Body,,0000,0000,0000,,{\p1\fscx360\fscy625\bord3\1a&HAA&\c&HAF8264&\an4\pos(168.666,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:45.74,0:10:56.38,Text_Box_Header,Sign,0000,0000,0000,,{\bord1\pos(46,65)}Luna Heela   Lv.{\fs36}35
+Dialogue: 0,0:10:49.04,0:10:56.38,Text_Box_Text,Sign,0000,0000,0000,,{\fad(400,1)\shad2\b0\fs16\pos(30,120)\fscy125}Abilità: Rimuovi Maledizione\N{\alpha&HFF&}Abilità: {\alpha}Elimina le maledizioni. Tuttavia,\N{\alpha&HFF&}Abilità: {\alpha}la durata della vita dell'utilizzatore\N{\alpha&HFF&}Abilità: {\alpha}viene ridotta in proporzione\N{\alpha&HFF&}Abilità: {\alpha}alla potenza della maledizione
+Dialogue: 0,0:10:49.62,0:10:52.27,Italics,Noir,0000,0000,0000,,Elimina le maledizioni.
+Dialogue: 0,0:10:52.27,0:10:56.38,Italics,Noir,0000,0000,0000,,Tuttavia, la durata della vita\N dell'utilizzatore viene ridotta?!
+Dialogue: 0,0:10:57.47,0:11:01.56,Italics,Noir,0000,0000,0000,,Quindi... quando rimuove una maledizione \Nla durata della sua vita...
+Dialogue: 0,0:11:13.77,0:11:17.08,Main,Merchat,0000,0000,0000,,Ecco che arriva! È un carico bello pesante!
+Dialogue: 0,0:11:19.27,0:11:22.49,Italics,Noir,0000,0000,0000,,Gli elfi vivono molto più a lungo degli umani.
+Dialogue: 0,0:11:22.49,0:11:25.41,Italics,Noir,0000,0000,0000,,Ma nonostante ciò, la maledizione \Ndella signorina Maria è così potente
+Dialogue: 0,0:11:25.41,0:11:27.79,Italics,Noir,0000,0000,0000,,che la durata della sua vita non basterebbe.
+Dialogue: 0,0:11:31.04,0:11:32.36,Main,Luna,0000,0000,0000,,Nobile Noir...
+Dialogue: 0,0:11:34.06,0:11:36.33,Main,Luna,0000,0000,0000,,portami a casa della signorina Maria.
+Dialogue: 0,0:11:37.15,0:11:39.34,Main,Luna,0000,0000,0000,,Rimuoverò la sua maledizione.
+Dialogue: 0,0:11:39.34,0:11:42.95,Main,Lola,0000,0000,0000,,M-Ma hai appena detto di non poterlo fare!
+Dialogue: 0,0:11:43.94,0:11:45.20,Main,Luna,0000,0000,0000,,Ecco...
+Dialogue: 0,0:11:45.84,0:11:47.84,Main,Noir,0000,0000,0000,,Emma, Lola.
+Dialogue: 0,0:11:47.84,0:11:49.85,Main,Noir,0000,0000,0000,,Potreste concederci qualche minuto?
+Dialogue: 0,0:11:51.76,0:11:54.29,Main,Noir,0000,0000,0000,,Vorrei parlare con Luna in privato.
+Dialogue: 0,0:11:58.63,0:12:00.32,Main,Noir,0000,0000,0000,,Scusa per avertelo chiesto all'improvviso.
+Dialogue: 0,0:12:00.32,0:12:04.26,Main,Noir,0000,0000,0000,,Ho dato un'occhiata alle tue statistiche \Ncon la mia abilità.
+Dialogue: 0,0:12:05.75,0:12:09.21,Main,Noir,0000,0000,0000,,Se salvassi la signorina Maria, \Nla tua vita finirebbe per...
+Dialogue: 0,0:12:09.21,0:12:11.12,Main,Luna,0000,0000,0000,,Basta così! Non aggiungere altro!
+Dialogue: 0,0:12:11.12,0:12:11.91,Main,Noir,0000,0000,0000,,Ma...
+Dialogue: 0,0:12:11.91,0:12:15.34,Main,Luna,0000,0000,0000,,Lei sta per morire, non è così?
+Dialogue: 0,0:12:16.54,0:12:21.17,Main,Luna,0000,0000,0000,,Come posso abbandonarla \Nsapendo che c'è la sua vita in gioco?
+Dialogue: 0,0:12:26.07,0:12:28.68,Main,Luna,0000,0000,0000,,Io voglio salvare le persone.
+Dialogue: 0,0:12:29.70,0:12:31.89,Main,Luna,0000,0000,0000,,Proprio come faceva mia madre.
+Dialogue: 0,0:12:35.43,0:12:38.26,Main,Luna,0000,0000,0000,,Anche lei era una chierica.
+Dialogue: 0,0:12:39.99,0:12:42.16,Main,Luna,0000,0000,0000,,Nonostante sapesse che la sua vita era a rischio,
+Dialogue: 0,0:12:42.16,0:12:44.40,Main,Luna,0000,0000,0000,,continuava a rimuovere maledizioni.
+Dialogue: 0,0:12:45.55,0:12:49.94,Main,Luna,0000,0000,0000,,Ha continuato a intaccare la durata \Ndella sua stessa vita pur di salvare chi soffriva.
+Dialogue: 0,0:12:49.94,0:12:53.46,Main,Luna,0000,0000,0000,,E adesso non è più con noi.
+Dialogue: 0,0:12:53.46,0:12:54.70,Main,Luna,0000,0000,0000,,Però...
+Dialogue: 0,0:12:56.43,0:12:59.80,Main,Luna,0000,0000,0000,,sono molto fiera di lei.
+Dialogue: 0,0:13:04.61,0:13:05.96,Main,Noir,0000,0000,0000,,Luna...
+Dialogue: 0,0:13:05.96,0:13:08.83,Main,Luna,0000,0000,0000,,E dato che sono sua figlia,
+Dialogue: 0,0:13:08.83,0:13:11.57,Main,Luna,0000,0000,0000,,voglio usare questi poteri per aiutare gli altri...
+Dialogue: 0,0:13:19.95,0:13:22.20,Main,Luna,0000,0000,0000,,The Hidden Dungeon Only I Can Enter.
+Dialogue: 0,0:13:28.49,0:13:30.05,Main,Walla,0000,0000,0000,,È terribile!
+Dialogue: 0,0:13:30.05,0:13:32.87,Main,Walla,0000,0000,0000,,È crollato un muro! C'è bisogno d'aiuto!
+Dialogue: 0,0:13:32.87,0:13:34.48,Main,Walla,0000,0000,0000,,Un bambino è rimasto schiacciato!
+Dialogue: 0,0:13:34.48,0:13:36.00,Main,Walla,0000,0000,0000,,È gravemente ferito!
+Dialogue: 0,0:13:37.32,0:13:39.09,Main,Lola,0000,0000,0000,,Ehi, come ti senti?
+Dialogue: 0,0:13:43.59,0:13:44.93,Main,Emma,0000,0000,0000,,Resisti!
+Dialogue: 0,0:13:44.93,0:13:47.12,Main,Lola,0000,0000,0000,,D-Dobbiamo curarlo immediatamente!
+Dialogue: 0,0:13:48.34,0:13:50.62,Main,Luna,0000,0000,0000,,A volte mi chiedo...
+Dialogue: 0,0:13:51.59,0:13:54.40,Main,Luna,0000,0000,0000,,perché siamo nati in questo mondo?
+Dialogue: 0,0:13:55.33,0:13:59.12,Main,Noir,0000,0000,0000,,Non conosco ancora la risposta, purtroppo.
+Dialogue: 0,0:13:59.12,0:14:00.46,Main,Luna,0000,0000,0000,,Va bene così.
+Dialogue: 0,0:14:01.41,0:14:04.07,Main,Luna,0000,0000,0000,,Sono certa che un giorno la troverai.
+Dialogue: 0,0:14:04.07,0:14:07.57,Main,Noir,0000,0000,0000,,Immagino tu abbia già trovato la tua, Luna.
+Dialogue: 0,0:14:08.11,0:14:09.18,Main,Luna,0000,0000,0000,,È così.
+Dialogue: 0,0:14:09.90,0:14:13.12,Main,Luna,0000,0000,0000,,Sono a questo mondo per salvare vite \Ne portare il sorriso su tanti volti.
+Dialogue: 0,0:14:13.58,0:14:15.50,Main,Luna,0000,0000,0000,,Questa è la mia missione!
+Dialogue: 0,0:14:21.62,0:14:23.30,Main,Luna,0000,0000,0000,,Colpo Curativo!
+Dialogue: 0,0:14:32.27,0:14:33.51,Main,Emma,0000,0000,0000,,Grazie al cielo!
+Dialogue: 0,0:14:33.51,0:14:34.31,Main,Lola,0000,0000,0000,,Luna!
+Dialogue: 0,0:14:34.31,0:14:35.99,Main,Noir,0000,0000,0000,,W-Wow...
+Dialogue: 0,0:14:35.99,0:14:38.81,Main,Noir,0000,0000,0000,,Come immaginavo il tuo titolo non è solo per bellezza!
+Dialogue: 0,0:14:42.27,0:14:43.29,Main,Noir,0000,0000,0000,,Luna—
+Dialogue: 0,0:14:46.23,0:14:49.61,Main,Noir,0000,0000,0000,,Eh?! Luna?!
+Dialogue: 0,0:14:50.57,0:14:53.03,Main,Noir,0000,0000,0000,,Stai... eh?!
+Dialogue: 0,0:14:56.15,0:14:58.96,Main,Luna,0000,0000,0000,,N-Non voglio morire...
+Dialogue: 0,0:14:56.16,0:14:58.96,Main,Sign,0000,0000,0000,,{\fad(655,1)\an8\fnArial\b1\fs32\c&HD2583E&\4c&HFFFFFF&\shad3\3c&H9E2404&}Non voglio\N{\alpha&HFF&\c&HE9B05B&\t(1240,1865,1 \alpha&H00&)}morire
+Dialogue: 0,0:15:00.40,0:15:03.18,Main,Luna,0000,0000,0000,,Le maledizioni sono spaventose!
+Dialogue: 0,0:15:03.18,0:15:05.46,Italics,Noir,0000,0000,0000,,Dov'è finito tutto il tuo coraggio?
+Dialogue: 0,0:15:05.46,0:15:07.48,Italics,Noir,0000,0000,0000,,Un momento, non dirmi che...
+Dialogue: 0,0:15:08.51,0:15:09.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(272,220)\fs30\bord3\pos(170,36)}Abilità
+Dialogue: 0,0:15:08.51,0:15:09.67,sign_21783_248__Attacchi_di_Tre,Sign,0000,0000,0000,,{\fad(272,220)}[Attacchi di Tremarella]
+Dialogue: 0,0:15:09.76,0:15:15.97,sign_21813_249_Attacchi_di_Trem,Sign,0000,0000,0000,,{\fad(272,1)\pos(69.143,39.429)}Attacchi di Tremarella
+Dialogue: 0,0:15:10.09,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(694,1)\bord0\shad3\q2\pos(100,116)}Esaurire il mana o ricevere
+Dialogue: 0,0:15:10.88,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1197,1)\bord0\shad3\q2\pos(100,176)}attacchi molto violenti può rendere
+Dialogue: 0,0:15:12.18,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1149,1)\bord0\shad3\q2\pos(100,230)}l'utilizzatore persino più codardo.
+Dialogue: 0,0:15:13.19,0:15:15.97,Italics,Noir,0000,0000,0000,,N-Non dev'essere il massimo.
+Dialogue: 0,0:15:20.75,0:15:22.17,Main,Lola,0000,0000,0000,,Luna!
+Dialogue: 0,0:15:22.17,0:15:24.13,Main,Lola,0000,0000,0000,,Oh, lo sapevo.
+Dialogue: 0,0:15:24.91,0:15:27.51,Main,Lola,0000,0000,0000,,Con Luna è sempre così.
+Dialogue: 0,0:15:27.51,0:15:30.34,Main,Lola,0000,0000,0000,,Non preoccupatevi, si sveglierà subito.
+Dialogue: 0,0:15:33.92,0:15:35.35,Main,Luna,0000,0000,0000,,Mammina...
+Dialogue: 0,0:15:35.35,0:15:40.00,Main,Lola,0000,0000,0000,,Tranquilla, la tua mamma è proprio qui.
+Dialogue: 0,0:15:41.96,0:15:45.84,Main,Luna,0000,0000,0000,,Non posso credere che abbiate assistito! \NDimenticatelo, vi prego!
+Dialogue: 0,0:15:45.84,0:15:49.96,Main,Luna,0000,0000,0000,,Vi prego! Vi prego! Vi pregooo!
+Dialogue: 0,0:15:49.96,0:15:51.35,Main,Emma,0000,0000,0000,,Dai, non importa...
+Dialogue: 0,0:15:51.35,0:15:52.30,Main,Noir,0000,0000,0000,,Infatti.
+Dialogue: 0,0:15:52.66,0:15:56.87,Main,Luna,0000,0000,0000,,E ora procediamo! Maria ha bisogno del nostro aiuto!
+Dialogue: 0,0:15:56.87,0:15:57.68,Main,Luna,0000,0000,0000,,In marcia!
+Dialogue: 0,0:16:00.71,0:16:02.05,Main,Noir,0000,0000,0000,,M-Ma...
+Dialogue: 0,0:16:02.05,0:16:05.66,Main,Luna,0000,0000,0000,,N-Non dovete preoccuparvi per me...
+Dialogue: 0,0:16:05.66,0:16:07.36,Main,Luna,0000,0000,0000,,Io non ho paura... di niente...
+Dialogue: 0,0:16:07.95,0:16:10.75,Main,Noir,0000,0000,0000,,Luna, troviamo un altro modo.
+Dialogue: 0,0:16:10.75,0:16:11.53,Main,Luna,0000,0000,0000,,Eh?
+Dialogue: 0,0:16:12.15,0:16:14.09,Main,Luna,0000,0000,0000,,P-Perché?
+Dialogue: 0,0:16:14.09,0:16:15.14,Main,Noir,0000,0000,0000,,Le tue gambe.
+Dialogue: 0,0:16:17.35,0:16:19.31,Main,Luna,0000,0000,0000,,N-Non riesco a contenere l'emozione!
+Dialogue: 0,0:16:19.31,0:16:21.88,Main,Noir,0000,0000,0000,,Però hai detto che le maledizioni ti spaventano.
+Dialogue: 0,0:16:21.88,0:16:24.25,Main,Luna,0000,0000,0000,,Eh? Impossibile. Non ricordo.
+Dialogue: 0,0:16:25.57,0:16:27.08,Main,Lola,0000,0000,0000,,Cattiva Luna!
+Dialogue: 0,0:16:27.79,0:16:30.18,Main,Lola,0000,0000,0000,,Di' loro la verità e basta.
+Dialogue: 0,0:16:30.73,0:16:33.63,Main,Lola,0000,0000,0000,,Hai paura, non è così?
+Dialogue: 0,0:16:34.47,0:16:39.51,Main,Luna,0000,0000,0000,,Se salvo Maria, molto probabilmente io finirò per...
+Dialogue: 0,0:16:40.08,0:16:41.09,Main,Luna,0000,0000,0000,,morire.
+Dialogue: 0,0:16:41.09,0:16:42.02,Main,Lola,0000,0000,0000,,Eh?
+Dialogue: 0,0:16:43.81,0:16:47.87,Main,Luna,0000,0000,0000,,Il solo pensarci mi terrorizza.
+Dialogue: 0,0:16:48.50,0:16:51.57,Main,Luna,0000,0000,0000,,Sono un fallimento come chierica.
+Dialogue: 0,0:16:56.66,0:16:58.69,Main,Lola,0000,0000,0000,,Rischi di morire se rimuovi una maledizione?
+Dialogue: 0,0:16:59.20,0:17:00.83,Main,Lola,0000,0000,0000,,Non me l'avevi mai detto!
+Dialogue: 0,0:17:00.83,0:17:04.48,Main,Luna,0000,0000,0000,,Mi dispiace per non averlo fatto. Ma io...
+Dialogue: 0,0:17:05.36,0:17:06.61,Main,Lola,0000,0000,0000,,Beh...
+Dialogue: 0,0:17:06.61,0:17:09.49,Main,Lola,0000,0000,0000,,Quindi ti ho frequentata per tutto questo tempo
+Dialogue: 0,0:17:09.49,0:17:12.21,Main,Lola,0000,0000,0000,,senza sapere una cosa così importante.
+Dialogue: 0,0:17:12.21,0:17:13.88,Main,Luna,0000,0000,0000,,N-No!
+Dialogue: 0,0:17:13.88,0:17:16.90,Main,Lola,0000,0000,0000,,Altro che migliori amiche! \NMi hai fatto proprio arrabbiare!
+Dialogue: 0,0:17:20.01,0:17:22.58,Main,Lola,0000,0000,0000,,Non ne avevo idea, per questo sono così arrabbiata.
+Dialogue: 0,0:17:22.58,0:17:23.60,Main,Luna,0000,0000,0000,,Eh?
+Dialogue: 0,0:17:24.12,0:17:28.00,Main,Lola,0000,0000,0000,,Mi dispiace non aver capito quanto soffrissi.
+Dialogue: 0,0:17:30.05,0:17:31.91,Main,Lola,0000,0000,0000,,Fai sempre così, Luna!
+Dialogue: 0,0:17:31.91,0:17:35.81,Main,Lola,0000,0000,0000,,Metti sempre gli altri prima di te stessa!
+Dialogue: 0,0:17:35.81,0:17:37.36,Main,Luna,0000,0000,0000,,Lola...
+Dialogue: 0,0:17:37.36,0:17:39.88,Main,Lola,0000,0000,0000,,Fidati di me... per favore.
+Dialogue: 0,0:17:41.00,0:17:42.32,Main,Lola,0000,0000,0000,,Stupida Luna...
+Dialogue: 0,0:17:43.98,0:17:44.87,Main,Luna,0000,0000,0000,,Sì!
+Dialogue: 0,0:17:49.69,0:17:52.00,Italics,Noir,0000,0000,0000,,Lola... Luna...
+Dialogue: 0,0:17:53.80,0:17:56.94,Italics,Noir,0000,0000,0000,,in loro due c'è qualcosa di straordinario.
+Dialogue: 0,0:18:03.14,0:18:05.46,Main,Lola,0000,0000,0000,,Scusate per tutto.
+Dialogue: 0,0:18:05.46,0:18:08.90,Main,Luna,0000,0000,0000,,Avete finito per assistere \Na uno spettacolo molto imbarazzante.
+Dialogue: 0,0:18:08.90,0:18:12.52,Main,Noir,0000,0000,0000,,Oh, ma no. È stata una gioia per gli occhi!
+Dialogue: 0,0:18:12.52,0:18:15.78,Main,Noir,0000,0000,0000,,Ehm, intendevo che mi avete commosso!
+Dialogue: 0,0:18:15.78,0:18:17.69,Main,Lola,0000,0000,0000,,Ma cosa dovremmo fare?
+Dialogue: 0,0:18:17.69,0:18:21.09,Main,Emma,0000,0000,0000,,Se provassimo a salvare la signorina Maria, \NLuna finirebbe per...
+Dialogue: 0,0:18:24.81,0:18:26.12,Main,Noir,0000,0000,0000,,Non preoccupatevi.
+Dialogue: 0,0:18:27.13,0:18:29.38,Main,Noir,0000,0000,0000,,C'è ancora una speranza.
+Dialogue: 0,0:18:31.06,0:18:35.13,Main,Noir,0000,0000,0000,,Riuscirò a risolvere la cosa senza nessuna vittima.
+Dialogue: 0,0:18:37.01,0:18:43.13,Italics,Noir,0000,0000,0000,,Prima ho dato un'occhiata all'abilità \NRimuovi Maledizione di Luna per fare una prova.
+Dialogue: 0,0:18:40.01,0:18:50.52,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(180,5)}[Rimuovi Maledizione]
+Dialogue: 0,0:18:41.59,0:18:47.98,sign_26892_315_Elimina_le_maled,Sign,0000,0000,0000,,{\fad(364,187)\pos(95.333,121.333)}Elimina le maledizioni. Tuttavia,
+Dialogue: 0,0:18:41.59,0:18:47.98,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,187)\bord0\shad3\q2\pos(95,180)}la durata della vita dell'utilizzatore viene ridotta
+Dialogue: 0,0:18:41.59,0:18:47.98,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,187)\bord0\shad3\q2\pos(95,236)}in proporzione alla potenza della maledizione
+Dialogue: 0,0:18:43.71,0:18:47.06,Italics,Noir,0000,0000,0000,,Ho provato a eliminare "la durata della vita \Ndell'utilizzatore viene ridotta", ma...
+Dialogue: 0,0:18:48.02,0:18:50.52,Text_Box_Header,Sign,0000,0000,0000,,{\bord0\shad3\an8\pos(135,105)}Utilizza
+Dialogue: 0,0:18:48.02,0:18:50.52,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(490,175)}Necessari
+Dialogue: 0,0:18:50.52,0:18:53.26,Italics,Noir,0000,0000,0000,,non posso accumulare 10.000 LP.
+Dialogue: 0,0:18:50.52,0:18:54.98,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\an5\pos(542.667,225.333)\shad2\4a&H55&\fscy120}La durata della vita \Ndell'utilizzatore\N viene ridotta
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\pos(29,95)}Durata della Vita
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\fs20\pos(464,86)}Denaro
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\pos(585,58)}rel
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord7\blur1\an4\3c&H000000&\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord5\1a&HAA&\c&HAF8264&\an4\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:18:54.95,0:18:56.66,Italics,Noir,0000,0000,0000,,E se facessi così?
+Dialogue: 0,0:18:55.02,0:19:00.86,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(180,5)}[Rimuovi Maledizione]
+Dialogue: 0,0:18:56.19,0:18:59.07,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,1684)\bord0\shad3\q2\pos(95,180)}la durata della vita dell'utilizzatore viene ridotta
+Dialogue: 0,0:18:56.19,0:18:59.61,sign_26892_315_Elimina_le_maled,Sign,0000,0000,0000,,{\fad(364,222)\bord0\shad3\pos(95,120)}Elimina le maledizioni. Tuttavia,
+Dialogue: 0,0:18:56.19,0:18:59.61,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,222)\bord0\shad3\q2\pos(95,236)}in proporzione alla potenza della maledizione
+Dialogue: 0,0:18:56.66,0:18:59.02,Italics,Noir,0000,0000,0000,,Invece di "durata della vita" proviamo con "denaro"...
+Dialogue: 0,0:18:57.40,0:18:59.61,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1904,222)\bord0\shad3\q2\pos(95,180)}il denaro dell'utilizzatore si riduce
+Dialogue: 0,0:18:59.40,0:19:00.86,Text_Box_Header,Sign,0000,0000,0000,,{\bord0\shad3\an8\pos(135,105)}Utilizza
+Dialogue: 0,0:18:59.40,0:19:00.86,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(490,175)}Necessari
+Dialogue: 0,0:19:00.86,0:19:02.57,Italics,Noir,0000,0000,0000,,Perfetto, così dovrebbe andare.
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\pos(29,95)}Durata della Vita
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\fs20\pos(464,86)}Denaro
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\pos(585,58)}rel
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord7\blur1\an4\3c&H000000&\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord5\1a&HAA&\c&HAF8264&\an4\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\an5\shad2\4a&H55&\fscy120\pos(542.667,221.333)}Il denaro\Ndell'utilizzatore\Nsi riduce.
+Dialogue: 0,0:19:06.48,0:19:10.41,Main,Noir,0000,0000,0000,,C'è un modo per salvare la signorina Maria \Nsenza dover sacrificare Luna.
+Dialogue: 0,0:19:12.03,0:19:13.75,Main,Emma,0000,0000,0000,,Sul serio, Noir?!
+Dialogue: 0,0:19:13.75,0:19:14.62,Main,Noir,0000,0000,0000,,Sì!
+Dialogue: 0,0:19:15.17,0:19:19.75,Main,Noir,0000,0000,0000,,Però non ho abbastanza LP per usare quest'abilità...
+Dialogue: 0,0:19:20.41,0:19:21.80,Main,Three,0000,0000,0000,,LP?
+Dialogue: 0,0:19:25.10,0:19:25.81,Text_Box_Text,Sign,0000,0000,0000,,{\fad(314,1)\pos(416,302)\shad2}Mancanti
+Dialogue: 0,0:19:26.96,0:19:29.06,Main,Luna,0000,0000,0000,,Cibi deliziosi...
+Dialogue: 0,0:19:29.40,0:19:31.81,Main,Lola,0000,0000,0000,,Guadagnare denaro e beni terreni...
+Dialogue: 0,0:19:31.81,0:19:36.07,Main,Emma,0000,0000,0000,,E fare cose eccitanti con persone dell'altro sesso \Nche trovi affascinanti...
+Dialogue: 0,0:19:36.07,0:19:37.71,Main,Noir,0000,0000,0000,,S-Sì.
+Dialogue: 0,0:19:38.12,0:19:42.83,Main,Noir,0000,0000,0000,,Non posso usare Creazione o Modifica senza LP.
+Dialogue: 0,0:19:42.83,0:19:45.58,Main,Noir,0000,0000,0000,,Non si può fare una frittata senza rompere \Nqualche uovo, sapete com'è...
+Dialogue: 0,0:19:48.86,0:19:54.21,Main,Noir,0000,0000,0000,,C-Comunque! Secondo voi in che modo \Npotrei guadagnare altri 2.000 LP?
+Dialogue: 0,0:19:54.21,0:19:57.53,Main,Noir,0000,0000,0000,,E magari anche un modo \Nper aumentare il denaro di Luna.
+Dialogue: 0,0:19:58.55,0:20:00.48,Main,Emma,0000,0000,0000,,La fai sembrare facile...
+Dialogue: 0,0:20:00.48,0:20:02.80,Main,Luna,0000,0000,0000,,Dubito fortemente che esista\N una trovata così vantaggiosa...
+Dialogue: 0,0:20:02.80,0:20:03.86,Main,Lola,0000,0000,0000,,Invece esiste.
+Dialogue: 0,0:20:03.86,0:20:04.74,Main,Both,0000,0000,0000,,Eh?!
+Dialogue: 0,0:20:05.83,0:20:10.72,Main,Lola,0000,0000,0000,,Un certo nobile organizza ogni settimana \Nl'evento ideale per questa situazione.
+Dialogue: 0,0:20:11.23,0:20:13.44,Main,Lola,0000,0000,0000,,Si svolgerà questo fine settimana,
+Dialogue: 0,0:20:13.44,0:20:16.40,Main,Lola,0000,0000,0000,,quindi dovremmo farcela giusto in tempo.
+Dialogue: 0,0:20:16.40,0:20:19.10,Main,Noir,0000,0000,0000,,Di che genere di evento si tratta?
+Dialogue: 0,0:20:19.78,0:20:21.06,Main,Lola,0000,0000,0000,,Si chiama...
+Dialogue: 0,0:20:21.06,0:20:22.11,Main,All,0000,0000,0000,,Si chiama?!
+Dialogue: 0,0:20:22.11,0:20:24.46,Main,Lola,0000,0000,0000,,La Manifestazione dell'Orgoglio dell'Harem!
+Dialogue: 0,0:20:27.43,0:20:30.14,Main,Peppero,0000,0000,0000,,Scusate per avervi fatto aspettare, miei cari!
+Dialogue: 0,0:20:31.33,0:20:35.84,Main,Peppero,0000,0000,0000,,Stasera ospitiamo altri 10 di cui sono invidioso... \NO meglio...
+Dialogue: 0,0:20:35.84,0:20:42.62,Main,Peppero,0000,0000,0000,,Conosceremo alcuni incoscienti furfanti \Nche faranno sfoggio delle loro fidanzate sexy
+Dialogue: 0,0:20:42.62,0:20:44.72,Main,Peppero,0000,0000,0000,,per tentare di vincere 1 milione di rel!
+Dialogue: 0,0:20:44.72,0:20:46.24,Main,Crowd walla,0000,0000,0000,,Imperdonabile!
+Dialogue: 0,0:20:46.24,0:20:47.39,Main,Crowd walla,0000,0000,0000,,Buuu!
+Dialogue: 0,0:20:47.39,0:20:49.47,Main,Crowd walla,0000,0000,0000,,Che fortunati bastardi!
+Dialogue: 0,0:20:49.47,0:20:50.72,Main,Crowd walla,0000,0000,0000,,Fanculo!
+Dialogue: 0,0:20:50.72,0:20:58.25,Main,Peppero,0000,0000,0000,,Per cui scaricate il vostro stress \Nsu questi merdosi sempliciotti, mi raccomando!
+Dialogue: 0,0:21:00.33,0:21:05.15,Main,Lola,0000,0000,0000,,A quanto pare l'organizzatore dell'evento \Nè stato tradito innumerevoli volte dalle donne.
+Dialogue: 0,0:21:05.15,0:21:10.77,Main,Lola,0000,0000,0000,,E tutti i gentiluomini radunati qui \Nhanno vissuto più o meno la stessa esperienza.
+Dialogue: 0,0:21:10.77,0:21:13.90,Main,Lola,0000,0000,0000,,Molti di loro non hanno una compagna.
+Dialogue: 0,0:21:14.48,0:21:16.72,Main,Crowd A,0000,0000,0000,,Morte ai bei ragazzi!
+Dialogue: 0,0:21:16.72,0:21:18.77,Main,Crowd B,0000,0000,0000,,Fottuti harem!
+Dialogue: 0,0:21:18.77,0:21:20.63,Main,Crowd,0000,0000,0000,,Gli harem sono inqualificabili!
+Dialogue: 0,0:21:20.63,0:21:26.63,Italics,Noir,0000,0000,0000,,Q-Questa non è la Manifestazione dell'Orgoglio... \NÈ la Manifestazione della Diffamazione!
+Dialogue: 0,0:21:26.63,0:21:29.47,Main,Peppero,0000,0000,0000,,Siete pronti, miei cari?
+Dialogue: 0,0:21:30.10,0:21:34.31,Main,Peppero,0000,0000,0000,,Diamo inizio alla\N Manifestazione dell'Orgoglio dell'Harem!
+Dialogue: 0,0:21:43.78,0:21:47.36,Main,Noir,0000,0000,0000,,V-Voglio andare a casa...
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H1CA0C8&\3c&H05366E&\clip(0,90,640,98)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H31ABCF&\3c&H05366E&\clip(0,98,640,100)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H46B7D6&\3c&H05366E&\clip(0,100,640,102)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H5BC2DE&\3c&H05366E&\clip(0,102,640,104)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H70CDE5&\3c&H05366E&\clip(0,104,640,106)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H85D9EC&\3c&H05366E&\clip(0,106,640,108)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H9AE4F3&\3c&H05366E&\clip(0,108,640,110)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H9AE4F3&\3c&H05366E&\clip(0,110,640,112)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H85D9EC&\3c&H05366E&\clip(0,112,640,114)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H70CDE5&\3c&H05366E&\clip(0,114,640,116)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H5BC2DE&\3c&H05366E&\clip(0,116,640,118)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H46B7D6&\3c&H05366E&\clip(0,118,640,120)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H31ABCF&\3c&H05366E&\clip(0,120,640,122)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H1CA0C8&\3c&H05366E&\clip(0,122,640,130)}Il Teatrino di Alice
+Dialogue: 0,0:23:22.95,0:23:24.84,Main,Alice,0000,0000,0000,,Il Teatrino di Alice!
+Dialogue: 0,0:23:27.69,0:23:30.16,Main,Alice,0000,0000,0000,,Fratellone...
+Dialogue: 0,0:23:31.71,0:23:34.10,Main,Alice,0000,0000,0000,,S-Sei tornato!
+Dialogue: 0,0:23:34.10,0:23:36.10,Main,Noir,0000,0000,0000,,Che stavi facendo, Alice?
+Dialogue: 0,0:23:36.10,0:23:38.64,Main,Alice,0000,0000,0000,,S-Stavo solo... ehm...
+Dialogue: 0,0:23:38.91,0:23:41.39,Main,Alice,0000,0000,0000,,Ti stavo rifacendo il letto!
+Dialogue: 0,0:23:41.39,0:23:42.98,Main,Noir,0000,0000,0000,,A me sembra più in disordine di prima.
+Dialogue: 0,0:23:45.19,0:23:47.55,Main,Noir,0000,0000,0000,,Tranquilla. Ci dormirò così com'è.
+Dialogue: 0,0:23:48.04,0:23:50.35,Main,Alice,0000,0000,0000,,Eh? Fratellone?
+Dialogue: 0,0:23:50.35,0:23:53.52,Main,Noir,0000,0000,0000,,Beh... del resto siamo pur sempre fratelli.
+Dialogue: 0,0:23:53.52,0:23:56.78,Main,Noir,0000,0000,0000,,Dormivamo sempre insieme così.
+Dialogue: 0,0:23:56.78,0:23:59.50,Main,Alice,0000,0000,0000,,S-Sì, hai ragione!
+Dialogue: 0,0:24:04.02,0:24:06.97,Italics,Noir,0000,0000,0000,,E-Ehi, ci sei? Alice è la tua sorellina.
+Dialogue: 0,0:24:06.97,0:24:10.42,Italics,Noir,0000,0000,0000,,Non è possibile... che i miei LP salgano.
+Dialogue: 0,0:24:12.83,0:24:13.92,Italics,Noir,0000,0000,0000,,E allora perché?
+Dialogue: 0,0:24:17.70,0:24:20.42,Main Top,Luna,0000,0000,0000,,Nel prossimo episodio, "Il futuro di questo harem".
+Dialogue: 0,0:24:18.31,0:24:21.98,Next_Ep_Title,Sign,0000,0000,0000,,{\pos(277.714,303.857)}#05 "Il futuro di questo harem"
+Dialogue: 0,0:24:21.98,0:24:27.73,Illustration,Sign,0000,0000,0000,,{\an1\c&H633D45&\4c&H633D45&}Illustrazione: Fuumi

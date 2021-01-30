@@ -1,0 +1,1589 @@
+﻿1
+00:00:14,810 --> 00:00:18,500
+A quest'ora dovrebbe essere al tempio.
+
+2
+00:00:20,620 --> 00:00:22,870
+Questa è la fila per incontrare la nobile chierica.
+
+3
+00:00:22,870 --> 00:00:25,010
+Vi preghiamo di tenere il biglietto pronto.
+
+4
+00:00:27,880 --> 00:00:30,510
+Accidenti, mi sento di nuovo vivo!
+
+5
+00:00:30,510 --> 00:00:32,760
+Sento il corpo molto più leggero ora!
+
+6
+00:00:35,050 --> 00:00:39,790
+Sembra che ce la stia mettendo tutta anche oggi.
+Speriamo non esageri.
+
+7
+00:00:43,050 --> 00:00:44,920
+Una cosa ci sarebbe.
+
+8
+00:00:44,920 --> 00:00:47,350
+Forse se trovassimo una chierica
+in grado di esorcizzarla...
+
+9
+00:00:47,350 --> 00:00:52,110
+Lei però accetta molto raramente
+di rimuovere le maledizioni.
+
+10
+00:00:52,560 --> 00:00:55,700
+Ci sarà sicuramente un motivo,
+
+11
+00:00:55,700 --> 00:00:58,880
+ma non l'ha mai rivelato nemmeno a me,
+la sua migliore amica.
+
+12
+00:01:07,270 --> 00:01:08,270
+Mia signora...
+
+13
+00:01:08,270 --> 00:01:09,880
+Faccio una pausa.
+
+14
+00:01:10,260 --> 00:01:12,550
+Vi chiedo scusa, ma dovrete aspettare.
+
+15
+00:01:12,550 --> 00:01:13,710
+Come desidera.
+
+16
+00:01:24,880 --> 00:01:26,020
+Oh, accidenti...
+
+17
+00:01:27,810 --> 00:01:29,800
+A quanto pare sono a corto di energie.
+
+18
+00:01:29,800 --> 00:01:33,400
+A me sembra lei si sia sforzata un po' troppo,
+nobile chierica.
+
+19
+00:01:33,750 --> 00:01:35,470
+Oh, sei tu, Lola.
+
+20
+00:01:35,470 --> 00:01:38,860
+È così che saluti una persona preoccupata per te?
+
+21
+00:01:41,090 --> 00:01:42,300
+Ti chiedo scusa.
+
+22
+00:01:45,180 --> 00:01:50,020
+Dimmi, cosa ci fa qui
+l'abile addetta alla reception della gilda?
+
+23
+00:01:50,730 --> 00:01:53,090
+Odio chiedertelo sapendo che sei così stanca,
+
+24
+00:01:53,090 --> 00:01:55,990
+ma avevo bisogno di parlarti
+di una cosa molto importante.
+
+25
+00:03:29,760 --> 00:03:33,670
+Oggi è il giorno in cui
+Lola ci presenterà alla chierica.
+
+26
+00:03:34,820 --> 00:03:36,950
+Avevo un po' di tempo prima dell'incontro,
+
+27
+00:03:36,950 --> 00:03:39,550
+quindi sono andato
+a chiedere consiglio alla Maestra.
+
+28
+00:03:40,790 --> 00:03:42,910
+"Dungeon nascosto in cui solo io posso entrare!
+
+29
+00:03:42,910 --> 00:03:45,360
+Permettimi di allenarmi in segreto
+per diventare il più forte del mondo!"
+
+30
+00:03:54,680 --> 00:03:56,160
+Tsk.
+
+31
+00:03:56,700 --> 00:03:59,050
+Tsk, tsk.
+
+32
+00:03:56,710 --> 00:04:01,720
+#04 "La purissima chierica"
+
+33
+00:03:59,050 --> 00:04:00,750
+M-Maestra?
+
+34
+00:04:00,750 --> 00:04:02,510
+Sei arrabbiata per qualche motivo?
+
+35
+00:04:02,510 --> 00:04:06,990
+Beh, non sei più venuto a trovarmi!
+
+36
+00:04:06,990 --> 00:04:10,140
+Sono passate ben due settimane.
+
+37
+00:04:10,510 --> 00:04:12,110
+M-Mi dispiace!
+
+38
+00:04:12,110 --> 00:04:14,730
+Sarei voluto venire prima,
+
+39
+00:04:15,080 --> 00:04:17,440
+ma c'è stato un piccolo problema.
+
+40
+00:04:20,720 --> 00:04:24,550
+Capisco. Una maledizione sulla figlia di un duca.
+
+41
+00:04:24,550 --> 00:04:25,630
+Sì.
+
+42
+00:04:25,630 --> 00:04:29,670
+Se parliamo di una maledizione,
+potrebbe avere a che fare con la sua famiglia.
+
+43
+00:04:29,670 --> 00:04:33,210
+La sua famiglia? Intendi dire i suoi antenati?
+
+44
+00:04:33,210 --> 00:04:35,460
+Proprio così, succede di continuo!
+
+45
+00:04:35,460 --> 00:04:38,360
+C'è un'abilità che permette di maledire
+i discendenti di una persona.
+
+46
+00:04:38,360 --> 00:04:40,090
+Ma questo è...
+
+47
+00:04:40,750 --> 00:04:46,290
+Ti servirebbero oltre 10.000 LP per creare
+l'abilità necessaria per rimuoverla.
+
+48
+00:04:46,290 --> 00:04:50,690
+Credo sia meglio lasciare
+che se ne occupi quella chierica.
+
+49
+00:04:50,690 --> 00:04:53,230
+Sì. Sono arrivato alle stesse conclusioni, però...
+
+50
+00:04:53,230 --> 00:04:56,070
+mi chiedo che tipo sia questa chierica.
+
+51
+00:04:56,070 --> 00:05:00,500
+Se possiede l'abilità per esorcizzare,
+dev'essere almeno in parte elfa.
+
+52
+00:05:00,500 --> 00:05:02,180
+Un'elfa, eh?
+
+53
+00:05:02,180 --> 00:05:03,860
+Non se ne vedono spesso in giro.
+
+54
+00:05:04,240 --> 00:05:07,690
+È grandioso poter soddisfare
+i tuoi desideri con altre specie.
+
+55
+00:05:07,690 --> 00:05:10,030
+Guadagnerai un sacco di LP extra!
+
+56
+00:05:10,030 --> 00:05:11,240
+Cosa?!
+
+57
+00:05:12,480 --> 00:05:15,490
+Va' e punta alla gloria!
+
+58
+00:05:15,490 --> 00:05:17,000
+M-Ma che stai—
+
+59
+00:05:18,340 --> 00:05:23,260
+Q-Quindi, Maestra,
+tu come faresti a guadagnare 10.000 LP?
+
+60
+00:05:23,260 --> 00:05:27,040
+Oh, nel mio caso... Avvicinati, te lo sussurro.
+
+61
+00:05:32,150 --> 00:05:33,220
+Per prima cosa...
+
+62
+00:05:34,070 --> 00:05:37,100
+per rendere il loro corpo estremamente sensibile...
+
+63
+00:05:37,100 --> 00:05:39,710
+lega le loro...
+
+64
+00:05:39,710 --> 00:05:42,860
+e mentre sono...
+
+65
+00:05:43,980 --> 00:05:46,950
+In questo modo guadagnerai 10.000 LP
+in un batter d'occhio!
+
+66
+00:05:49,220 --> 00:05:52,880
+Ma dai, stavo scherzando! Che carino che sei, Noir.
+
+67
+00:05:53,200 --> 00:05:56,250
+M-Mi sta prendendo in giro...
+
+68
+00:05:56,770 --> 00:05:59,250
+Probabilmente non riuscirai ad accumulare
+10.000 LP così in fretta,
+
+69
+00:05:59,250 --> 00:06:03,070
+ma posso insegnarti un'abilità
+che ti sarà utilissima per guadagnare LP.
+
+70
+00:06:03,070 --> 00:06:05,960
+Sul serio? Ma è fantastico!
+
+71
+00:06:05,960 --> 00:06:11,480
+Ok! Lascia che la tua magnifica Olivia
+ti spieghi nel dettaglio cosa fare!
+
+72
+00:06:11,480 --> 00:06:12,610
+Grazie!
+
+73
+00:06:16,530 --> 00:06:18,730
+E ora, veniamo a noi...
+
+74
+00:06:18,730 --> 00:06:21,480
+Farai un vero affare! Quest'abilità proibita...
+
+75
+00:06:23,190 --> 00:06:32,370
+Mandrillo Fortunato
+
+76
+00:06:25,150 --> 00:06:29,570
+richiede solo 300 miseri LP,
+ma è incredibilmente efficace!
+
+77
+00:06:25,650 --> 00:06:32,370
+Richiede solo 300 LP!
+
+78
+00:06:29,570 --> 00:06:32,370
+Vivrai delle esperienze indescrivibili!
+
+79
+00:06:33,830 --> 00:06:35,950
+Attivo Creazione per ottenere Mandrillo Fortunato!
+
+80
+00:06:35,790 --> 00:06:36,500
+Noir Stardia   Lv.35
+LP.2270
+
+81
+00:06:35,790 --> 00:06:37,250
+Abilità [Grande Saggio] [Creazione] [Modifica] [Concessione]
+Abilità [Conversione dei LP] [Proiettile di Pietra]
+Abilità [Occhio Perspicace] [Immunità al Mal di Testa]
+Abilità [Dimensione Tascabile (Grado C)]
+Abilità [Back Step Migliorato] [Difesa Passiva]
+Abilità [Massaggia Spalle] [Mandrillo Fortunato]
+
+82
+00:06:36,290 --> 00:06:37,250
+Noir Stardia   Lv.35
+LP.1970
+
+83
+00:06:46,750 --> 00:06:49,640
+Noir! Ce ne hai messo di tempo!
+
+84
+00:06:50,070 --> 00:06:52,720
+La nobile chierica e Lola saranno qui a momenti!
+
+85
+00:06:52,720 --> 00:06:53,710
+Eh?
+
+86
+00:06:56,270 --> 00:06:58,410
+Cavolo, mi dispiace!
+
+87
+00:07:10,360 --> 00:07:14,280
+Q-Quella volta in cui sono atterrato
+su delle tette slime.
+
+88
+00:07:25,090 --> 00:07:26,060
+No!
+
+89
+00:07:28,160 --> 00:07:29,450
+No!
+
+90
+00:07:30,010 --> 00:07:32,470
+Non c'è limite alla mia fortuna, pazzesco!
+
+91
+00:07:33,310 --> 00:07:37,040
+È questo l'effetto di Mandrillo Fortunato?
+
+92
+00:07:38,720 --> 00:07:41,640
+Sbrill!
+
+93
+00:07:38,720 --> 00:07:41,640
+Quest'abilità è incredibile!
+
+94
+00:07:41,640 --> 00:07:43,850
+Sei la migliore, Maestra.
+
+95
+00:07:42,830 --> 00:07:45,840
+Sbrill!
+
+96
+00:07:44,240 --> 00:07:47,270
+Però finirà per influenzare il resto della mia vita.
+
+97
+00:07:49,800 --> 00:07:51,860
+Devo solo rimaneggiarla un po' con Modifica!
+
+98
+00:07:51,860 --> 00:08:08,670
+Mandrillo Fortunato.
+
+99
+00:07:53,360 --> 00:08:08,670
+Causa situazioni erotiche con membri
+
+100
+00:07:53,690 --> 00:07:56,860
+Causa situazioni erotiche con membri
+del sesso opposto nelle vicinanze.
+
+101
+00:07:55,200 --> 00:07:59,660
+del sesso opposto nelle vicinanze.
+
+102
+00:07:56,860 --> 00:07:58,650
+Mi basta aggiungere "raramente".
+
+103
+00:07:58,700 --> 00:07:59,330
+Spesi
+
+104
+00:07:59,660 --> 00:08:08,670
+del sesso opposto nelle vicinanze.
+
+105
+00:07:59,790 --> 00:08:08,670
+"raramente"
+
+106
+00:08:00,500 --> 00:08:03,310
+E poi anche
+"l'abilità non si attiverà in situazioni di pericolo".
+
+107
+00:08:03,080 --> 00:08:03,710
+Spesi
+
+108
+00:08:03,540 --> 00:08:08,630
+L'abilità non si attiverà in situazioni di pericolo.
+
+109
+00:08:05,790 --> 00:08:08,580
+Devo assicurarmi che accada solo nei momenti giusti.
+
+110
+00:08:11,760 --> 00:08:14,160
+Ehi! Che hai da ridacchiare tanto?!
+
+111
+00:08:14,160 --> 00:08:16,180
+N-Non sto mica ridacchiando!
+
+112
+00:08:16,180 --> 00:08:19,250
+E stavi anche fissando quelle ragazze, ammettilo!
+
+113
+00:08:17,000 --> 00:08:18,880
+Quello dev'essere Noir.
+
+114
+00:08:19,250 --> 00:08:20,700
+Noir, sei un idiota!
+
+115
+00:08:21,510 --> 00:08:24,240
+È piuttosto carino.
+
+116
+00:08:24,240 --> 00:08:25,650
+Proprio il mio tipo, a dire il vero.
+
+117
+00:08:25,650 --> 00:08:28,520
+Un momento, Luna! Che vorresti dire?!
+
+118
+00:08:28,520 --> 00:08:30,410
+Oh, Lola.
+
+119
+00:08:30,410 --> 00:08:31,610
+E...
+
+120
+00:08:32,910 --> 00:08:34,470
+la nobile chierica?
+
+121
+00:08:37,640 --> 00:08:40,450
+Scusate per l'attesa. Lei è...
+
+122
+00:08:40,970 --> 00:08:44,210
+Luna Heela. Piacere di conoscervi.
+
+123
+00:08:44,210 --> 00:08:45,990
+A-Altrettanto.
+
+124
+00:08:45,990 --> 00:08:48,260
+È-È un vero onore!
+
+125
+00:08:48,260 --> 00:08:49,380
+Infatti!
+
+126
+00:08:49,380 --> 00:08:52,090
+Abbiamo prenotato in un locale. Possiamo parlare lì.
+
+127
+00:08:55,190 --> 00:08:57,340
+Le sue ciocche argentate, così setose e lisce...
+
+128
+00:08:57,340 --> 00:08:59,540
+Ha una bellissima figura anche vista da dietro...
+
+129
+00:08:59,540 --> 00:09:01,520
+Il suo sedere piccolo ma molto sodo...
+
+130
+00:09:01,520 --> 00:09:03,950
+Poi le sue gambe lunghe e magre...
+
+131
+00:09:05,920 --> 00:09:08,090
+Il mio unico vantaggio sono le tette!
+
+132
+00:09:08,090 --> 00:09:10,780
+Non avrei mai dovuto permettere
+che Noir la incontrasse.
+
+133
+00:09:10,780 --> 00:09:12,820
+Emma? Su, andiamo!
+
+134
+00:09:20,230 --> 00:09:22,790
+Lola mi ha spiegato a grandi linee.
+
+135
+00:09:22,790 --> 00:09:25,710
+Quindi la persona che dovrei esaminare è...
+
+136
+00:09:25,710 --> 00:09:27,980
+La signorina Maria. È la figlia di un duca.
+
+137
+00:09:32,300 --> 00:09:33,820
+Quindi si tratta di lei.
+
+138
+00:09:34,470 --> 00:09:36,600
+In realtà l'ho già esaminata...
+
+139
+00:09:37,600 --> 00:09:39,680
+ma mi sono rifiutata di toglierle la maledizione.
+
+140
+00:09:39,680 --> 00:09:44,310
+Ma perché? Non hai un'abilità
+che può esorcizzare le maledizioni?
+
+141
+00:09:44,310 --> 00:09:48,740
+Sì, è così. Senza alcun problema.
+
+142
+00:09:48,740 --> 00:09:49,810
+Tuttavia...
+
+143
+00:09:57,530 --> 00:10:00,630
+non posso rimuovere la Maledizione
+della Morte al Sedicesimo Anno.
+
+144
+00:10:00,630 --> 00:10:02,830
+Non posso salvarla.
+
+145
+00:10:07,660 --> 00:10:10,250
+Come sta Maria attualmente?
+
+146
+00:10:10,250 --> 00:10:12,880
+Le resta meno di una settimana.
+
+147
+00:10:13,990 --> 00:10:16,830
+Le convulsioni le causano dolore in tutto il corpo.
+
+148
+00:10:16,830 --> 00:10:20,470
+A quanto pare,
+gli intervalli diventano sempre più brevi.
+
+149
+00:10:20,470 --> 00:10:23,940
+Quindi la maledizione è arrivata a quel punto...
+
+150
+00:10:24,430 --> 00:10:28,430
+Luna, non devi sentirti responsabile.
+
+151
+00:10:28,430 --> 00:10:31,640
+Salvi decine di persone ogni giorno.
+
+152
+00:10:31,640 --> 00:10:34,540
+Già questa è un'impresa straordinaria.
+
+153
+00:10:35,650 --> 00:10:39,510
+Sembra che Luna si senta piuttosto in colpa.
+
+154
+00:10:39,950 --> 00:10:42,420
+Forse nasconde un segreto.
+
+155
+00:10:44,000 --> 00:10:45,160
+Occhio Perspicace.
+
+156
+00:10:45,740 --> 00:10:49,000
+Specie: Mezzelfa
+Età: 17
+Professione: Chierica/Avventuriera
+Abilità: [Pistole Magiche (Grado B)]
+Abilità: [Colpo Energizzante] [Colpo Curativo]
+Abilità:  [Attacchi di Tremarella] [Rimuovi Maledizione]
+
+157
+00:10:45,740 --> 00:10:49,620
+Sì, ha l'abilità Rimuovi Maledizione...
+
+158
+00:10:45,740 --> 00:10:56,380
+Luna Heela   Lv.35
+
+159
+00:10:49,040 --> 00:10:56,380
+Abilità: Rimuovi Maledizione
+Abilità: Elimina le maledizioni. Tuttavia,
+Abilità: la durata della vita dell'utilizzatore
+Abilità: viene ridotta in proporzione
+Abilità: alla potenza della maledizione
+
+160
+00:10:49,620 --> 00:10:52,270
+Elimina le maledizioni.
+
+161
+00:10:52,270 --> 00:10:56,380
+Tuttavia, la durata della vita
+dell'utilizzatore viene ridotta?!
+
+162
+00:10:57,470 --> 00:11:01,560
+Quindi... quando rimuove una maledizione
+la durata della sua vita...
+
+163
+00:11:13,770 --> 00:11:17,080
+Ecco che arriva! È un carico bello pesante!
+
+164
+00:11:19,270 --> 00:11:22,490
+Gli elfi vivono molto più a lungo degli umani.
+
+165
+00:11:22,490 --> 00:11:25,410
+Ma nonostante ciò, la maledizione
+della signorina Maria è così potente
+
+166
+00:11:25,410 --> 00:11:27,790
+che la durata della sua vita non basterebbe.
+
+167
+00:11:31,040 --> 00:11:32,360
+Nobile Noir...
+
+168
+00:11:34,060 --> 00:11:36,330
+portami a casa della signorina Maria.
+
+169
+00:11:37,150 --> 00:11:39,340
+Rimuoverò la sua maledizione.
+
+170
+00:11:39,340 --> 00:11:42,950
+M-Ma hai appena detto di non poterlo fare!
+
+171
+00:11:43,940 --> 00:11:45,200
+Ecco...
+
+172
+00:11:45,840 --> 00:11:47,840
+Emma, Lola.
+
+173
+00:11:47,840 --> 00:11:49,850
+Potreste concederci qualche minuto?
+
+174
+00:11:51,760 --> 00:11:54,290
+Vorrei parlare con Luna in privato.
+
+175
+00:11:58,630 --> 00:12:00,320
+Scusa per avertelo chiesto all'improvviso.
+
+176
+00:12:00,320 --> 00:12:04,260
+Ho dato un'occhiata alle tue statistiche
+con la mia abilità.
+
+177
+00:12:05,750 --> 00:12:09,210
+Se salvassi la signorina Maria,
+la tua vita finirebbe per...
+
+178
+00:12:09,210 --> 00:12:11,120
+Basta così! Non aggiungere altro!
+
+179
+00:12:11,120 --> 00:12:11,910
+Ma...
+
+180
+00:12:11,910 --> 00:12:15,340
+Lei sta per morire, non è così?
+
+181
+00:12:16,540 --> 00:12:21,170
+Come posso abbandonarla
+sapendo che c'è la sua vita in gioco?
+
+182
+00:12:26,070 --> 00:12:28,680
+Io voglio salvare le persone.
+
+183
+00:12:29,700 --> 00:12:31,890
+Proprio come faceva mia madre.
+
+184
+00:12:35,430 --> 00:12:38,260
+Anche lei era una chierica.
+
+185
+00:12:39,990 --> 00:12:42,160
+Nonostante sapesse che la sua vita era a rischio,
+
+186
+00:12:42,160 --> 00:12:44,400
+continuava a rimuovere maledizioni.
+
+187
+00:12:45,550 --> 00:12:49,940
+Ha continuato a intaccare la durata
+della sua stessa vita pur di salvare chi soffriva.
+
+188
+00:12:49,940 --> 00:12:53,460
+E adesso non è più con noi.
+
+189
+00:12:53,460 --> 00:12:54,700
+Però...
+
+190
+00:12:56,430 --> 00:12:59,800
+sono molto fiera di lei.
+
+191
+00:13:04,610 --> 00:13:05,960
+Luna...
+
+192
+00:13:05,960 --> 00:13:08,830
+E dato che sono sua figlia,
+
+193
+00:13:08,830 --> 00:13:11,570
+voglio usare questi poteri per aiutare gli altri...
+
+194
+00:13:19,950 --> 00:13:22,200
+The Hidden Dungeon Only I Can Enter.
+
+195
+00:13:28,490 --> 00:13:30,050
+È terribile!
+
+196
+00:13:30,050 --> 00:13:32,870
+È crollato un muro! C'è bisogno d'aiuto!
+
+197
+00:13:32,870 --> 00:13:34,480
+Un bambino è rimasto schiacciato!
+
+198
+00:13:34,480 --> 00:13:36,000
+È gravemente ferito!
+
+199
+00:13:37,320 --> 00:13:39,090
+Ehi, come ti senti?
+
+200
+00:13:43,590 --> 00:13:44,930
+Resisti!
+
+201
+00:13:44,930 --> 00:13:47,120
+D-Dobbiamo curarlo immediatamente!
+
+202
+00:13:48,340 --> 00:13:50,620
+A volte mi chiedo...
+
+203
+00:13:51,590 --> 00:13:54,400
+perché siamo nati in questo mondo?
+
+204
+00:13:55,330 --> 00:13:59,120
+Non conosco ancora la risposta, purtroppo.
+
+205
+00:13:59,120 --> 00:14:00,460
+Va bene così.
+
+206
+00:14:01,410 --> 00:14:04,070
+Sono certa che un giorno la troverai.
+
+207
+00:14:04,070 --> 00:14:07,570
+Immagino tu abbia già trovato la tua, Luna.
+
+208
+00:14:08,110 --> 00:14:09,180
+È così.
+
+209
+00:14:09,900 --> 00:14:13,120
+Sono a questo mondo per salvare vite
+e portare il sorriso su tanti volti.
+
+210
+00:14:13,580 --> 00:14:15,500
+Questa è la mia missione!
+
+211
+00:14:21,620 --> 00:14:23,300
+Colpo Curativo!
+
+212
+00:14:32,270 --> 00:14:33,510
+Grazie al cielo!
+
+213
+00:14:33,510 --> 00:14:34,310
+Luna!
+
+214
+00:14:34,310 --> 00:14:35,990
+W-Wow...
+
+215
+00:14:35,990 --> 00:14:38,810
+Come immaginavo il tuo titolo non è solo per bellezza!
+
+216
+00:14:42,270 --> 00:14:43,290
+Luna—
+
+217
+00:14:46,230 --> 00:14:49,610
+Eh?! Luna?!
+
+218
+00:14:50,570 --> 00:14:53,030
+Stai... eh?!
+
+219
+00:14:56,150 --> 00:14:58,960
+N-Non voglio morire...
+
+220
+00:14:56,160 --> 00:14:58,960
+Non voglio
+morire
+
+221
+00:15:00,400 --> 00:15:03,180
+Le maledizioni sono spaventose!
+
+222
+00:15:03,180 --> 00:15:05,460
+Dov'è finito tutto il tuo coraggio?
+
+223
+00:15:05,460 --> 00:15:07,480
+Un momento, non dirmi che...
+
+224
+00:15:08,510 --> 00:15:09,670
+Abilità
+
+225
+00:15:08,510 --> 00:15:09,670
+[Attacchi di Tremarella]
+
+226
+00:15:09,760 --> 00:15:15,970
+Attacchi di Tremarella
+
+227
+00:15:10,090 --> 00:15:15,970
+Esaurire il mana o ricevere
+
+228
+00:15:10,880 --> 00:15:15,970
+attacchi molto violenti può rendere
+
+229
+00:15:12,180 --> 00:15:15,970
+l'utilizzatore persino più codardo.
+
+230
+00:15:13,190 --> 00:15:15,970
+N-Non dev'essere il massimo.
+
+231
+00:15:20,750 --> 00:15:22,170
+Luna!
+
+232
+00:15:22,170 --> 00:15:24,130
+Oh, lo sapevo.
+
+233
+00:15:24,910 --> 00:15:27,510
+Con Luna è sempre così.
+
+234
+00:15:27,510 --> 00:15:30,340
+Non preoccupatevi, si sveglierà subito.
+
+235
+00:15:33,920 --> 00:15:35,350
+Mammina...
+
+236
+00:15:35,350 --> 00:15:40,000
+Tranquilla, la tua mamma è proprio qui.
+
+237
+00:15:41,960 --> 00:15:45,840
+Non posso credere che abbiate assistito!
+Dimenticatelo, vi prego!
+
+238
+00:15:45,840 --> 00:15:49,960
+Vi prego! Vi prego! Vi pregooo!
+
+239
+00:15:49,960 --> 00:15:51,350
+Dai, non importa...
+
+240
+00:15:51,350 --> 00:15:52,300
+Infatti.
+
+241
+00:15:52,660 --> 00:15:56,870
+E ora procediamo! Maria ha bisogno del nostro aiuto!
+
+242
+00:15:56,870 --> 00:15:57,680
+In marcia!
+
+243
+00:16:00,710 --> 00:16:02,050
+M-Ma...
+
+244
+00:16:02,050 --> 00:16:05,660
+N-Non dovete preoccuparvi per me...
+
+245
+00:16:05,660 --> 00:16:07,360
+Io non ho paura... di niente...
+
+246
+00:16:07,950 --> 00:16:10,750
+Luna, troviamo un altro modo.
+
+247
+00:16:10,750 --> 00:16:11,530
+Eh?
+
+248
+00:16:12,150 --> 00:16:14,090
+P-Perché?
+
+249
+00:16:14,090 --> 00:16:15,140
+Le tue gambe.
+
+250
+00:16:17,350 --> 00:16:19,310
+N-Non riesco a contenere l'emozione!
+
+251
+00:16:19,310 --> 00:16:21,880
+Però hai detto che le maledizioni ti spaventano.
+
+252
+00:16:21,880 --> 00:16:24,250
+Eh? Impossibile. Non ricordo.
+
+253
+00:16:25,570 --> 00:16:27,080
+Cattiva Luna!
+
+254
+00:16:27,790 --> 00:16:30,180
+Di' loro la verità e basta.
+
+255
+00:16:30,730 --> 00:16:33,630
+Hai paura, non è così?
+
+256
+00:16:34,470 --> 00:16:39,510
+Se salvo Maria, molto probabilmente io finirò per...
+
+257
+00:16:40,080 --> 00:16:41,090
+morire.
+
+258
+00:16:41,090 --> 00:16:42,020
+Eh?
+
+259
+00:16:43,810 --> 00:16:47,870
+Il solo pensarci mi terrorizza.
+
+260
+00:16:48,500 --> 00:16:51,570
+Sono un fallimento come chierica.
+
+261
+00:16:56,660 --> 00:16:58,690
+Rischi di morire se rimuovi una maledizione?
+
+262
+00:16:59,200 --> 00:17:00,830
+Non me l'avevi mai detto!
+
+263
+00:17:00,830 --> 00:17:04,480
+Mi dispiace per non averlo fatto. Ma io...
+
+264
+00:17:05,360 --> 00:17:06,610
+Beh...
+
+265
+00:17:06,610 --> 00:17:09,490
+Quindi ti ho frequentata per tutto questo tempo
+
+266
+00:17:09,490 --> 00:17:12,210
+senza sapere una cosa così importante.
+
+267
+00:17:12,210 --> 00:17:13,880
+N-No!
+
+268
+00:17:13,880 --> 00:17:16,900
+Altro che migliori amiche!
+Mi hai fatto proprio arrabbiare!
+
+269
+00:17:20,010 --> 00:17:22,580
+Non ne avevo idea, per questo sono così arrabbiata.
+
+270
+00:17:22,580 --> 00:17:23,600
+Eh?
+
+271
+00:17:24,120 --> 00:17:28,000
+Mi dispiace non aver capito quanto soffrissi.
+
+272
+00:17:30,050 --> 00:17:31,910
+Fai sempre così, Luna!
+
+273
+00:17:31,910 --> 00:17:35,810
+Metti sempre gli altri prima di te stessa!
+
+274
+00:17:35,810 --> 00:17:37,360
+Lola...
+
+275
+00:17:37,360 --> 00:17:39,880
+Fidati di me... per favore.
+
+276
+00:17:41,000 --> 00:17:42,320
+Stupida Luna...
+
+277
+00:17:43,980 --> 00:17:44,870
+Sì!
+
+278
+00:17:49,690 --> 00:17:52,000
+Lola... Luna...
+
+279
+00:17:53,800 --> 00:17:56,940
+in loro due c'è qualcosa di straordinario.
+
+280
+00:18:03,140 --> 00:18:05,460
+Scusate per tutto.
+
+281
+00:18:05,460 --> 00:18:08,900
+Avete finito per assistere
+a uno spettacolo molto imbarazzante.
+
+282
+00:18:08,900 --> 00:18:12,520
+Oh, ma no. È stata una gioia per gli occhi!
+
+283
+00:18:12,520 --> 00:18:15,780
+Ehm, intendevo che mi avete commosso!
+
+284
+00:18:15,780 --> 00:18:17,690
+Ma cosa dovremmo fare?
+
+285
+00:18:17,690 --> 00:18:21,090
+Se provassimo a salvare la signorina Maria,
+Luna finirebbe per...
+
+286
+00:18:24,810 --> 00:18:26,120
+Non preoccupatevi.
+
+287
+00:18:27,130 --> 00:18:29,380
+C'è ancora una speranza.
+
+288
+00:18:31,060 --> 00:18:35,130
+Riuscirò a risolvere la cosa senza nessuna vittima.
+
+289
+00:18:37,010 --> 00:18:43,130
+Prima ho dato un'occhiata all'abilità
+Rimuovi Maledizione di Luna per fare una prova.
+
+290
+00:18:40,010 --> 00:18:50,520
+[Rimuovi Maledizione]
+
+291
+00:18:41,590 --> 00:18:47,980
+Elimina le maledizioni. Tuttavia,
+
+292
+00:18:41,590 --> 00:18:47,980
+la durata della vita dell'utilizzatore viene ridotta
+
+293
+00:18:41,590 --> 00:18:47,980
+in proporzione alla potenza della maledizione
+
+294
+00:18:43,710 --> 00:18:47,060
+Ho provato a eliminare "la durata della vita
+dell'utilizzatore viene ridotta", ma...
+
+295
+00:18:48,020 --> 00:18:50,520
+Utilizza
+
+296
+00:18:48,020 --> 00:18:50,520
+Necessari
+
+297
+00:18:50,520 --> 00:18:55,020
+Denaro
+
+298
+00:18:50,520 --> 00:18:55,020
+rel
+
+299
+00:18:50,520 --> 00:18:53,260
+non posso accumulare 10.000 LP.
+
+300
+00:18:50,520 --> 00:18:55,020
+Durata della Vita
+
+301
+00:18:50,520 --> 00:18:54,980
+La durata della vita
+dell'utilizzatore
+viene ridotta
+
+302
+00:18:54,950 --> 00:18:56,660
+E se facessi così?
+
+303
+00:18:55,020 --> 00:19:00,860
+[Rimuovi Maledizione]
+
+304
+00:18:56,190 --> 00:18:59,070
+la durata della vita dell'utilizzatore viene ridotta
+
+305
+00:18:56,190 --> 00:18:59,610
+Elimina le maledizioni. Tuttavia,
+
+306
+00:18:56,190 --> 00:18:59,610
+in proporzione alla potenza della maledizione
+
+307
+00:18:56,660 --> 00:18:59,020
+Invece di "durata della vita" proviamo con "denaro"...
+
+308
+00:18:57,400 --> 00:18:59,610
+il denaro dell'utilizzatore si riduce
+
+309
+00:18:59,400 --> 00:19:00,860
+Utilizza
+
+310
+00:18:59,400 --> 00:19:00,860
+Necessari
+
+311
+00:19:00,860 --> 00:19:03,030
+Denaro
+
+312
+00:19:00,860 --> 00:19:02,570
+Perfetto, così dovrebbe andare.
+
+313
+00:19:00,860 --> 00:19:03,030
+Durata della Vita
+
+314
+00:19:00,860 --> 00:19:03,030
+rel
+
+315
+00:19:00,860 --> 00:19:03,030
+Il denaro
+dell'utilizzatore
+si riduce.
+
+316
+00:19:06,480 --> 00:19:10,410
+C'è un modo per salvare la signorina Maria
+senza dover sacrificare Luna.
+
+317
+00:19:12,030 --> 00:19:13,750
+Sul serio, Noir?!
+
+318
+00:19:13,750 --> 00:19:14,620
+Sì!
+
+319
+00:19:15,170 --> 00:19:19,750
+Però non ho abbastanza LP per usare quest'abilità...
+
+320
+00:19:20,410 --> 00:19:21,800
+LP?
+
+321
+00:19:25,100 --> 00:19:25,810
+Mancanti
+
+322
+00:19:26,960 --> 00:19:29,060
+Cibi deliziosi...
+
+323
+00:19:29,400 --> 00:19:31,810
+Guadagnare denaro e beni terreni...
+
+324
+00:19:31,810 --> 00:19:36,070
+E fare cose eccitanti con persone dell'altro sesso
+che trovi affascinanti...
+
+325
+00:19:36,070 --> 00:19:37,710
+S-Sì.
+
+326
+00:19:38,120 --> 00:19:42,830
+Non posso usare Creazione o Modifica senza LP.
+
+327
+00:19:42,830 --> 00:19:45,580
+Non si può fare una frittata senza rompere
+qualche uovo, sapete com'è...
+
+328
+00:19:48,860 --> 00:19:54,210
+C-Comunque! Secondo voi in che modo
+potrei guadagnare altri 2.000 LP?
+
+329
+00:19:54,210 --> 00:19:57,530
+E magari anche un modo
+per aumentare il denaro di Luna.
+
+330
+00:19:58,550 --> 00:20:00,480
+La fai sembrare facile...
+
+331
+00:20:00,480 --> 00:20:02,800
+Dubito fortemente che esista
+una trovata così vantaggiosa...
+
+332
+00:20:02,800 --> 00:20:03,860
+Invece esiste.
+
+333
+00:20:03,860 --> 00:20:04,740
+Eh?!
+
+334
+00:20:05,830 --> 00:20:10,720
+Un certo nobile organizza ogni settimana
+l'evento ideale per questa situazione.
+
+335
+00:20:11,230 --> 00:20:13,440
+Si svolgerà questo fine settimana,
+
+336
+00:20:13,440 --> 00:20:16,400
+quindi dovremmo farcela giusto in tempo.
+
+337
+00:20:16,400 --> 00:20:19,100
+Di che genere di evento si tratta?
+
+338
+00:20:19,780 --> 00:20:21,060
+Si chiama...
+
+339
+00:20:21,060 --> 00:20:22,110
+Si chiama?!
+
+340
+00:20:22,110 --> 00:20:24,460
+La Manifestazione dell'Orgoglio dell'Harem!
+
+341
+00:20:27,430 --> 00:20:30,140
+Scusate per avervi fatto aspettare, miei cari!
+
+342
+00:20:31,330 --> 00:20:35,840
+Stasera ospitiamo altri 10 di cui sono invidioso...
+O meglio...
+
+343
+00:20:35,840 --> 00:20:42,620
+Conosceremo alcuni incoscienti furfanti
+che faranno sfoggio delle loro fidanzate sexy
+
+344
+00:20:42,620 --> 00:20:44,720
+per tentare di vincere 1 milione di rel!
+
+345
+00:20:44,720 --> 00:20:46,240
+Imperdonabile!
+
+346
+00:20:46,240 --> 00:20:47,390
+Buuu!
+
+347
+00:20:47,390 --> 00:20:49,470
+Che fortunati bastardi!
+
+348
+00:20:49,470 --> 00:20:50,720
+Fanculo!
+
+349
+00:20:50,720 --> 00:20:58,250
+Per cui scaricate il vostro stress
+su questi merdosi sempliciotti, mi raccomando!
+
+350
+00:21:00,330 --> 00:21:05,150
+A quanto pare l'organizzatore dell'evento
+è stato tradito innumerevoli volte dalle donne.
+
+351
+00:21:05,150 --> 00:21:10,770
+E tutti i gentiluomini radunati qui
+hanno vissuto più o meno la stessa esperienza.
+
+352
+00:21:10,770 --> 00:21:13,900
+Molti di loro non hanno una compagna.
+
+353
+00:21:14,480 --> 00:21:16,720
+Morte ai bei ragazzi!
+
+354
+00:21:16,720 --> 00:21:18,770
+Fottuti harem!
+
+355
+00:21:18,770 --> 00:21:20,630
+Gli harem sono inqualificabili!
+
+356
+00:21:20,630 --> 00:21:26,630
+Q-Questa non è la Manifestazione dell'Orgoglio...
+È la Manifestazione della Diffamazione!
+
+357
+00:21:26,630 --> 00:21:29,470
+Siete pronti, miei cari?
+
+358
+00:21:30,100 --> 00:21:34,310
+Diamo inizio alla
+Manifestazione dell'Orgoglio dell'Harem!
+
+359
+00:21:43,780 --> 00:21:47,360
+V-Voglio andare a casa...
+
+360
+00:23:22,000 --> 00:23:26,000
+Il Teatrino di Alice
+
+361
+00:23:22,950 --> 00:23:24,840
+Il Teatrino di Alice!
+
+362
+00:23:27,690 --> 00:23:30,160
+Fratellone...
+
+363
+00:23:31,710 --> 00:23:34,100
+S-Sei tornato!
+
+364
+00:23:34,100 --> 00:23:36,100
+Che stavi facendo, Alice?
+
+365
+00:23:36,100 --> 00:23:38,640
+S-Stavo solo... ehm...
+
+366
+00:23:38,910 --> 00:23:41,390
+Ti stavo rifacendo il letto!
+
+367
+00:23:41,390 --> 00:23:42,980
+A me sembra più in disordine di prima.
+
+368
+00:23:45,190 --> 00:23:47,550
+Tranquilla. Ci dormirò così com'è.
+
+369
+00:23:48,040 --> 00:23:50,350
+Eh? Fratellone?
+
+370
+00:23:50,350 --> 00:23:53,520
+Beh... del resto siamo pur sempre fratelli.
+
+371
+00:23:53,520 --> 00:23:56,780
+Dormivamo sempre insieme così.
+
+372
+00:23:56,780 --> 00:23:59,500
+S-Sì, hai ragione!
+
+373
+00:24:04,020 --> 00:24:06,970
+E-Ehi, ci sei? Alice è la tua sorellina.
+
+374
+00:24:06,970 --> 00:24:10,420
+Non è possibile... che i miei LP salgano.
+
+375
+00:24:12,830 --> 00:24:13,920
+E allora perché?
+
+376
+00:24:17,700 --> 00:24:20,420
+Nel prossimo episodio, "Il futuro di questo harem".
+
+377
+00:24:18,310 --> 00:24:21,980
+#05 "Il futuro di questo harem"
+
+378
+00:24:21,980 --> 00:24:27,730
+Illustrazione: Fuumi

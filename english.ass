@@ -1,0 +1,452 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,1,0,3,0010,0045,0050,1
+Style: Next_Ep_Title,Comic Sans MS,24,&H18FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,3,0,1,2,0,1,0040,0010,0055,1
+Style: Time/Place_Setting,Arial,24,&H00FFFFFF,&H000000FF,&HB421232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,0,2,0208,0208,0085,1
+Style: Text_Box_Header,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H0021232A,-1,0,0,0,100,100,0,0,1,2,1,1,0203,0213,0075,1
+Style: Text_Box_Body,Arial,24,&HA0000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0000,0000,0020,1
+Style: Text_Box_Text,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,1,4,0164,0098,0000,1
+Style: Illustration,Trebuchet MS,20,&H00E166E7,&H000000FF,&H00FFFFFF,&H00D683DB,0,0,0,0,100,100,0,0,1,1,1,3,0036,0040,0045,1
+Style: sign_3576_25_Aristocratic_Soc,Times New Roman,34,&H0059A7BA,&H000000FF,&H00FFFFFF,&H00376179,-1,0,0,0,100,100,0,0,1,2,3,8,0158,0158,0080,1
+Style: sign_3704_34_Baron,Arial,16,&H00131D2B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0132,0455,0263,1
+Style: sign_6789_82_Skill__Great_Sag,Arial,24,&H00FFFFFF,&H000000FF,&H0021232A,&H8021232A,-1,0,0,0,100,100,0,0,1,2,1,2,0203,0213,0075,1
+Style: sign_7206_94_Q__What_s_tomorr,Comic Sans MS,24,&H00DD7E60,&H000000FF,&H00C0705B,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0010,0390,0000,1
+Style: sign_16800_201_Skills_,Arial,24,&H00656464,&H000000FF,&H00494243,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,3,8,0281,0281,0059,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.81,0:00:18.50,Italics,Lola,0000,0000,0000,,She should be at the temple at this hour.
+Dialogue: 0,0:00:20.62,0:00:22.87,Main,Monk,0000,0000,0000,,The line to see the Lady Cleric is here.
+Dialogue: 0,0:00:22.87,0:00:25.01,Main,Monk,0000,0000,0000,,Please have your ticket in hand.
+Dialogue: 0,0:00:27.88,0:00:30.51,Main,People walla,0000,0000,0000,,Man, I feel alive again!
+Dialogue: 0,0:00:30.51,0:00:32.76,Main,People walla,0000,0000,0000,,My body feels so much lighter.
+Dialogue: 0,0:00:35.05,0:00:39.79,Italics,Lola,0000,0000,0000,,Looks like she's working hard again \Ntoday. Hopefully not too hard.
+Dialogue: 0,0:00:43.05,0:00:44.92,Flashback,Lola,0000,0000,0000,,I believe there is.
+Dialogue: 0,0:00:44.92,0:00:47.35,Flashback,Lola,0000,0000,0000,,If we find a cleric who can exorcise evil...
+Dialogue: 0,0:00:47.35,0:00:52.11,Flashback,Lola,0000,0000,0000,,But she rarely takes on jobs \Nto remove curse-based skills.
+Dialogue: 0,0:00:52.56,0:00:55.70,Flashback,Lola,0000,0000,0000,,There may be some reason behind it,
+Dialogue: 0,0:00:55.70,0:00:58.88,Flashback,Lola,0000,0000,0000,,but I'm her best friend, \Nand she won't even tell me.
+Dialogue: 0,0:01:07.27,0:01:08.27,Main,Monk 2,0000,0000,0000,,Lady Cleric...
+Dialogue: 0,0:01:08.27,0:01:09.88,Main,Luna,0000,0000,0000,,I'm taking a break.
+Dialogue: 0,0:01:10.26,0:01:12.55,Main,Luna,0000,0000,0000,,I apologize, but please wait.
+Dialogue: 0,0:01:12.55,0:01:13.71,Main,Monk 2,0000,0000,0000,,Understood.
+Dialogue: 0,0:01:24.49,0:01:26.02,Main,Luna,0000,0000,0000,,Oh, whoops...
+Dialogue: 0,0:01:27.81,0:01:29.80,Main,Luna,0000,0000,0000,,I seem to be out of energy.
+Dialogue: 0,0:01:29.80,0:01:33.40,Main,Lola,0000,0000,0000,,It appears as though you're \Nworking too hard, Lady Cleric.
+Dialogue: 0,0:01:33.75,0:01:35.47,Main,Luna,0000,0000,0000,,Oh, it's you, Lola.
+Dialogue: 0,0:01:35.47,0:01:38.86,Main,Lola,0000,0000,0000,,That's quite the greeting for someone \Nwho's worried about you.
+Dialogue: 0,0:01:41.09,0:01:42.30,Main,Luna,0000,0000,0000,,I apologize.
+Dialogue: 0,0:01:45.18,0:01:50.02,Main,Luna,0000,0000,0000,,So what's the very capable receptionist \Nfrom the guild doing here today?
+Dialogue: 0,0:01:50.73,0:01:53.09,Main,Lola,0000,0000,0000,,I hate to ask this when I know you're tired,
+Dialogue: 0,0:01:53.09,0:01:55.99,Main,Lola,0000,0000,0000,,but I needed to discuss \Nsomething important with you.
+Dialogue: 0,0:03:29.76,0:03:33.67,Italics,Noir,0000,0000,0000,,Today's the day that Lola is going \Nto introduce us to this cleric.
+Dialogue: 0,0:03:34.82,0:03:36.95,Italics,Noir,0000,0000,0000,,I had some time before we \Nwere supposed to meet up,
+Dialogue: 0,0:03:36.95,0:03:39.51,Italics,Noir,0000,0000,0000,,so I decided to get some \Nadvice from my master.
+Dialogue: 0,0:03:40.79,0:03:42.91,Main,Noir,0000,0000,0000,,"Hidden dungeon only I can enter!
+Dialogue: 0,0:03:42.91,0:03:45.31,Main,Noir,0000,0000,0000,,Let me train in secret to become \Nthe strongest in the world!"
+Dialogue: 0,0:03:54.68,0:03:56.70,Main,Olivia,0000,0000,0000,,Hmph.
+Dialogue: 0,0:03:56.67,0:04:01.72,Ep_Title,Sign,0000,0000,0000,,{\fad(525,563)\an1\bord1.25\blur1\pos(38,310)}#04 {\fscx90}"The Untainted Cleric"
+Dialogue: 0,0:03:56.70,0:03:59.05,Main,Olivia,0000,0000,0000,,{\an8}Hmphity hmph.
+Dialogue: 0,0:03:59.05,0:04:00.75,Main,Noir,0000,0000,0000,,{\an8}M-Master?
+Dialogue: 0,0:04:00.75,0:04:02.51,Main,Noir,0000,0000,0000,,{\an8}Are you mad about something?
+Dialogue: 0,0:04:02.51,0:04:06.99,Main,Olivia,0000,0000,0000,,Well, you haven't come see me at all!
+Dialogue: 0,0:04:06.99,0:04:10.14,Main,Olivia,0000,0000,0000,,I feel like it's been about two weeks.
+Dialogue: 0,0:04:10.51,0:04:12.11,Main,Noir,0000,0000,0000,,S-Sorry about that!
+Dialogue: 0,0:04:12.11,0:04:14.73,Main,Noir,0000,0000,0000,,I meant to come sooner,
+Dialogue: 0,0:04:15.08,0:04:17.44,Main,Noir,0000,0000,0000,,but I ran into a little problem.
+Dialogue: 0,0:04:20.72,0:04:24.55,Main,Olivia,0000,0000,0000,,I see. A duke's daughter with a curse.
+Dialogue: 0,0:04:24.55,0:04:25.63,Main,Noir,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:25.63,0:04:29.67,Main,Olivia,0000,0000,0000,,If it's a curse-based skill, \Nit might have to do with her family.
+Dialogue: 0,0:04:29.67,0:04:33.21,Main,Noir,0000,0000,0000,,Her family? You mean something \Nto do with her ancestors?
+Dialogue: 0,0:04:33.21,0:04:35.46,Main,Olivia,0000,0000,0000,,Yeah, it happens all the time!
+Dialogue: 0,0:04:35.46,0:04:38.36,Main,Olivia,0000,0000,0000,,There's a skill to curse one's descendants.
+Dialogue: 0,0:04:38.36,0:04:40.09,Main,Noir,0000,0000,0000,,But that's...
+Dialogue: 0,0:04:40.75,0:04:46.29,Main,Olivia,0000,0000,0000,,You'll need over 10,000 LP to Get Creative \Nenough to create the skill to undo it.
+Dialogue: 0,0:04:46.29,0:04:50.69,Main,Olivia,0000,0000,0000,,It's probably best if you let \Nthat cleric girl handle it.
+Dialogue: 0,0:04:50.69,0:04:53.23,Main,Noir,0000,0000,0000,,Right. That's what I plan on doing, but...
+Dialogue: 0,0:04:53.23,0:04:56.07,Main,Noir,0000,0000,0000,,I wonder what the Lady Cleric is like.
+Dialogue: 0,0:04:56.07,0:05:00.50,Main,Olivia,0000,0000,0000,,If she has the skill to exorcise things, \Nshe's probably at least part elf.
+Dialogue: 0,0:05:00.50,0:05:02.18,Main,Noir,0000,0000,0000,,An elf, huh?
+Dialogue: 0,0:05:02.18,0:05:03.86,Main,Noir,0000,0000,0000,,You don't see them very often.
+Dialogue: 0,0:05:04.24,0:05:07.69,Main,Olivia,0000,0000,0000,,It's great to fulfill some of \Nyour desires with other species.
+Dialogue: 0,0:05:07.69,0:05:10.03,Main,Olivia,0000,0000,0000,,You'll get lots of extra LP with them!
+Dialogue: 0,0:05:10.03,0:05:11.24,Main,Noir,0000,0000,0000,,What?!
+Dialogue: 0,0:05:12.48,0:05:15.49,Main,Olivia,0000,0000,0000,,You gotta go for the glory!
+Dialogue: 0,0:05:15.49,0:05:17.00,Main,Noir,0000,0000,0000,,Wh-What are you—
+Dialogue: 0,0:05:18.34,0:05:23.26,Main,Noir,0000,0000,0000,,S-So, Master, what would you \Ndo to earn about 10,000 LP?
+Dialogue: 0,0:05:23.26,0:05:27.04,Main,Olivia,0000,0000,0000,,Oh, in my case... Here. \NI'll whisper it to you.
+Dialogue: 0,0:05:32.15,0:05:33.22,Main,Olivia,0000,0000,0000,,First...
+Dialogue: 0,0:05:34.07,0:05:37.10,Main,Olivia,0000,0000,0000,,...to get their body extra sensitive...
+Dialogue: 0,0:05:37.10,0:05:39.71,Main,Olivia,0000,0000,0000,,...tie down their...
+Dialogue: 0,0:05:39.71,0:05:42.86,Main,Olivia,0000,0000,0000,,...and while they're...
+Dialogue: 0,0:05:43.98,0:05:46.95,Main,Olivia,0000,0000,0000,,Then you'll have 10,000 LP in no time!
+Dialogue: 0,0:05:49.22,0:05:52.88,Main,Olivia,0000,0000,0000,,Jeez, I'm kidding. You're so cute, Noir.
+Dialogue: 0,0:05:53.20,0:05:56.25,Italics,Noir,0000,0000,0000,,Sh-She's totally messing with me...
+Dialogue: 0,0:05:56.77,0:05:59.25,Main,Olivia,0000,0000,0000,,You probably won't be able to \Nget 10,000 that quickly,
+Dialogue: 0,0:05:59.25,0:06:03.07,Main,Olivia,0000,0000,0000,,but I can teach you a skill \Nthat'll be super useful in gaining LP.
+Dialogue: 0,0:06:03.07,0:06:05.96,Main,Noir,0000,0000,0000,,Really? That'll be great!
+Dialogue: 0,0:06:05.96,0:06:11.48,Main,Olivia,0000,0000,0000,,Okay! Let your awesome master \NOlivia fill you in on the deets.
+Dialogue: 0,0:06:11.48,0:06:12.61,Main,Noir,0000,0000,0000,,Thank you!
+Dialogue: 0,0:06:16.53,0:06:18.73,Main,Olivia,0000,0000,0000,,And now, for those deets...
+Dialogue: 0,0:06:18.73,0:06:21.48,Main,Olivia,0000,0000,0000,,You'll get the best bang for your buck! \NThis forbidden skill is...
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9F48D9&\3c&HFFFFFF&\shad2\an8\pos(320,40)\bord5\4c&H996F9A&}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9F48D9&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,45,640,47)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9E50DB&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,47,640,49)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9D57DC&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,49,640,51)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9C5FDE&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,51,640,53)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9A66DF&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,53,640,55)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H996EE1&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,55,640,57)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9876E2&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,57,640,59)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H977DE4&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,59,640,61)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9685E5&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,61,640,63)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H958DE7&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,63,640,65)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H9394E8&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,65,640,67)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H929CEA&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,67,640,69)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H91A3EB&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,69,640,71)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H90ABED&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,71,640,73)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8FB3EE&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,73,640,75)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8EBAF0&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,75,640,77)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8CC2F1&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,77,640,79)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8BC9F3&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,79,640,81)}Lucky Lecher
+Dialogue: 0,0:06:23.19,0:06:32.37,Main,Sign,0000,0000,0000,,{\fad(193,1)\b1\fs40\c&H8AD1F4&\3c&H7C38DD&\shad0\an8\pos(320,40)\clip(0,81,640,83)}Lucky Lecher
+Dialogue: 0,0:06:25.15,0:06:29.57,Main,Olivia,0000,0000,0000,,It only takes a measly 300 LP to get, \Nbut it's effective as hell!
+Dialogue: 0,0:06:25.65,0:06:32.37,Text_Box_Header,Sign,0000,0000,0000,,{\fad(277,1)\q2\fs30\an2\bord3}Only takes 300 LP to get!
+Dialogue: 0,0:06:29.57,0:06:32.37,Main,Olivia,0000,0000,0000,,You'll have some indescribable experiences!
+Dialogue: 0,0:06:33.83,0:06:35.95,Main,Noir,0000,0000,0000,,Get Creative to make Lucky Lecher!
+Dialogue: 0,0:06:35.79,0:06:36.50,Text_Box_Header,Sign,0000,0000,0000,,{\fad(188,1)\fs18\pos(426,60)\3c&H000000&\4c&H000000&\shad1\bord1}Noir Stardia   Lv.{\fs28}35\N{\fs12}LP.{\fs18}2270
+Dialogue: 0,0:06:35.79,0:06:37.25,Text_Box_Body,,0000,0000,0000,,{\fad(188,1)\p1\fscx255\fscy560\bord4.5\blur1\an4\3c&H000000&\pos(522,146)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:06:35.79,0:06:37.25,Text_Box_Body,,0000,0000,0000,,{\fad(188,1)\p1\fscx255\fscy560\bord3\1a&HAA&\c&HAF8264&\an4\pos(522,146)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:06:35.79,0:06:37.25,Text_Box_Text,Sign,0000,0000,0000,,{\fad(188,1)\fs10\an4\4a&H88&\fscy125\pos(426,103)}Skills {\fs11\fscx75}[Great Sage] {\fs11\alpha&H00&\4a&H88&}[Get Creative] [Editor] [Bestow]\N{\fscx100\fs10\alpha&HFF&}Skills {\fs11\alpha&H00&\4a&H88&\fscx75}[LP Conversion] [Stone Bullet] [Discerning Eye]\N{\fs10\alpha&HFF&\fscx100}Skills {\fs11\alpha&H00&\4a&H88&\fscx75}[Headache Immunity] [Pocket Dimension (Grade C)]\N{\fs10\alpha&HFF&\fscx100}Skills {\fs11\alpha&H00&\4a&H88&\fscx75}[Improved Back Step] [Passive Defense]\N{\fs10\alpha&HFF&\fscx100}Skills {\fs11\alpha&H00&\4a&H88&\fscx75}[Shoulder Rub] {\alpha&HFF&\t(732,856,1 \alpha&H00&)}[Lucky Lecher]
+Dialogue: 0,0:06:36.29,0:06:37.25,Text_Box_Header,Sign,0000,0000,0000,,{\fad(189,1)\fs18\pos(426,60)\3c&H000000&\4c&H000000&\shad1\bord1}Noir Stardia   Lv.{\fs28}35\N{\fs12}LP.{\fs18}1970
+Dialogue: 0,0:06:46.75,0:06:49.64,Main,Emma,0000,0000,0000,,Noir! Took you long enough!
+Dialogue: 0,0:06:50.07,0:06:52.72,Main,Emma,0000,0000,0000,,The Lady Cleric and Lola \Nare gonna show up soon!
+Dialogue: 0,0:06:52.72,0:06:53.71,Main,Noir,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:56.27,0:06:58.41,Main,Noir,0000,0000,0000,,Whoops, sorry!
+Dialogue: 0,0:07:10.36,0:07:14.28,Italics,Noir,0000,0000,0000,,Th-That Time I Faceplanted into Slime Boobs.
+Dialogue: 0,0:07:25.09,0:07:26.06,Main,Girl walla,0000,0000,0000,,Eek!
+Dialogue: 0,0:07:28.16,0:07:29.45,Main,Girl 2 walla,0000,0000,0000,,No!
+Dialogue: 0,0:07:30.01,0:07:32.47,Italics,Noir,0000,0000,0000,,Damn, my luck just won't stop!
+Dialogue: 0,0:07:33.31,0:07:37.04,Italics,Noir,0000,0000,0000,,This is how effective Lucky Lecher is?
+Dialogue: 0,0:07:38.72,0:07:41.64,Flashback,Olivia,0000,0000,0000,,{\an8}Buh-ling!
+Dialogue: 0,0:07:38.72,0:07:41.64,Flashback_Italics,Noir,0000,0000,0000,,Th-This skill's amazing!
+Dialogue: 0,0:07:41.64,0:07:43.85,Flashback_Italics,Noir,0000,0000,0000,,You're the best, Master.
+Dialogue: 0,0:07:42.83,0:07:45.84,Flashback,Olivia,0000,0000,0000,,{\an8}Buh-ling!
+Dialogue: 0,0:07:44.24,0:07:47.27,Italics,Noir,0000,0000,0000,,But this is going to affect my life.
+Dialogue: 0,0:07:49.80,0:07:51.86,Italics,Noir,0000,0000,0000,,I just need to use Editor\Nto tinker with it a bit.
+Dialogue: 0,0:07:51.86,0:07:53.69,Italics,Noir,0000,0000,0000,,Lucky Lecher.
+Dialogue: 0,0:07:51.86,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1362,1)\bord0\shad3\q2\pos(166,95)\t(16253,16794,1 \c&HFFFFFF&\4c&HFFFFFF&)}Lucky Lecher
+Dialogue: 0,0:07:53.36,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1656,1)\bord0\shad3\q2\pos(166,144)\fscx85\t(14752,15294,1 \c&HFFFFFF&\4c&HFFFFFF&)}Causes erotic situations to occur
+Dialogue: 0,0:07:53.69,0:07:56.86,Italics,Noir,0000,0000,0000,,Causes erotic situations to occur with \Nnearby members of the opposite sex.
+Dialogue: 0,0:07:55.20,0:07:59.66,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1818,1)\bord0\shad3\q2\fscx80\pos(166,192)}with nearby members of the opposite sex.
+Dialogue: 0,0:07:56.86,0:07:58.65,Main,Noir,0000,0000,0000,,Just need to add "rarely."
+Dialogue: 0,0:07:58.70,0:07:59.33,Text_Box_Header,Sign,0000,0000,0000,,{\fad(195,185)\pos(492,40)}Spent
+Dialogue: 0,0:07:59.66,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\bord0\shad3\q2\fscx80\pos(166,236)\t(8453,8994,1 \c&HFFFFFF&\4c&HFFFFFF&)}with nearby members of the opposite sex.
+Dialogue: 0,0:07:59.79,0:08:08.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(606,1)\bord0\shad3\q2\fscx80\pos(160,195)\t(8323,8864,1 \c&HFFFFFF&\4c&HFFFFFF&)}"rarely"
+Dialogue: 0,0:08:00.50,0:08:03.31,Main,Noir,0000,0000,0000,,As well as, "Skill will not trigger \Nduring serious situations."
+Dialogue: 0,0:08:03.08,0:08:03.71,Text_Box_Header,Sign,0000,0000,0000,,{\fad(195,185)\pos(512,40)}Spent
+Dialogue: 0,0:08:03.54,0:08:08.63,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1653,1)\q2\bord0\shad3\q2\pos(160,282)\fscx75\t(4573,5114,1 \c&HFFFFFF&\4c&HFFFFFF&)}"Skill will not trigger during serious situations."
+Dialogue: 0,0:08:05.79,0:08:08.58,Italics,Noir,0000,0000,0000,,Gotta make sure these only \Nhappen at the right time.
+Dialogue: 0,0:08:11.76,0:08:14.16,Main,Emma,0000,0000,0000,,Hey! What are you smirking about?!
+Dialogue: 0,0:08:14.16,0:08:16.18,Main,Noir,0000,0000,0000,,I-I'm not!
+Dialogue: 0,0:08:16.18,0:08:19.25,Main,Emma,0000,0000,0000,,{\an8}You were totally staring \Nat those other girls, too!
+Dialogue: 0,0:08:17.00,0:08:18.88,Main,Luna,0000,0000,0000,,That must be Noir.
+Dialogue: 0,0:08:19.25,0:08:21.06,Main,Emma,0000,0000,0000,,{\an8}Noir, you doofus!
+Dialogue: 0,0:08:21.51,0:08:24.24,Main,Luna,0000,0000,0000,,He's pretty cute.
+Dialogue: 0,0:08:24.24,0:08:25.65,Main,Luna,0000,0000,0000,,Just my type, actually.
+Dialogue: 0,0:08:25.65,0:08:28.52,Main,Lola,0000,0000,0000,,Uh, Luna? What's that supposed to mean?!
+Dialogue: 0,0:08:28.52,0:08:30.41,Main,Emma,0000,0000,0000,,Oh, Lola.
+Dialogue: 0,0:08:30.41,0:08:31.61,Main,Noir,0000,0000,0000,,And...
+Dialogue: 0,0:08:32.91,0:08:34.47,Main,Noir,0000,0000,0000,,The Lady Cleric?
+Dialogue: 0,0:08:37.64,0:08:40.45,Main,Lola,0000,0000,0000,,Sorry to keep you two waiting. This is...
+Dialogue: 0,0:08:40.97,0:08:44.21,Main,Luna,0000,0000,0000,,Luna Heela. It's nice to meet you two.
+Dialogue: 0,0:08:44.21,0:08:45.99,Main,Emma,0000,0000,0000,,L-Likewise.
+Dialogue: 0,0:08:45.99,0:08:48.26,Main,Noir,0000,0000,0000,,N-Nice to meet you.
+Dialogue: 0,0:08:48.26,0:08:49.38,Main,Emma,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:49.38,0:08:52.09,Main,Luna,0000,0000,0000,,We've got reservations. \NWe can talk there.
+Dialogue: 0,0:08:55.19,0:08:57.34,Italics,Emma,0000,0000,0000,,Her silky, smooth, silvery locks...
+Dialogue: 0,0:08:57.34,0:08:59.54,Italics,Emma,0000,0000,0000,,Look at her from behind...
+Dialogue: 0,0:08:59.54,0:09:01.52,Italics,Emma,0000,0000,0000,,Her tight but perky butt...
+Dialogue: 0,0:09:01.52,0:09:03.95,Italics,Emma,0000,0000,0000,,Then her long, slim legs...
+Dialogue: 0,0:09:05.92,0:09:08.09,Main,Emma,0000,0000,0000,,My only advantage over her is my boobs!
+Dialogue: 0,0:09:08.09,0:09:10.78,Italics,Emma,0000,0000,0000,,I never should've let Noir meet her.
+Dialogue: 0,0:09:10.78,0:09:12.82,Main,Noir,0000,0000,0000,,Uh, Emma? Come on, let's go.
+Dialogue: 0,0:09:20.23,0:09:22.79,Main,Luna,0000,0000,0000,,Lola told me the basics.
+Dialogue: 0,0:09:22.79,0:09:25.71,Main,Luna,0000,0000,0000,,So this person you want me to look at...
+Dialogue: 0,0:09:25.71,0:09:27.98,Main,Noir,0000,0000,0000,,Miss Maria. She's the daughter of a duke.
+Dialogue: 0,0:09:32.30,0:09:33.82,Main,Luna,0000,0000,0000,,So it's her.
+Dialogue: 0,0:09:34.56,0:09:36.60,Main,Luna,0000,0000,0000,,I've actually looked at her before...
+Dialogue: 0,0:09:37.60,0:09:39.68,Main,Luna,0000,0000,0000,,But I declined lifting her curse.
+Dialogue: 0,0:09:39.68,0:09:44.31,Main,Noir,0000,0000,0000,,But why? Don't you have \Na skill to lift curses?
+Dialogue: 0,0:09:44.31,0:09:48.74,Main,Luna,0000,0000,0000,,Yes, I do. With no problems.
+Dialogue: 0,0:09:48.74,0:09:49.81,Main,Luna,0000,0000,0000,,But...
+Dialogue: 0,0:09:57.53,0:10:00.63,Main,Luna,0000,0000,0000,,I can't lift the Sixteenth Year Death Curse.
+Dialogue: 0,0:10:00.63,0:10:02.83,Main,Luna,0000,0000,0000,,I can't save her.
+Dialogue: 0,0:10:07.66,0:10:10.25,Main,Luna,0000,0000,0000,,How's Maria currently doing?
+Dialogue: 0,0:10:10.25,0:10:12.88,Main,Noir,0000,0000,0000,,She doesn't even have a week to live.
+Dialogue: 0,0:10:13.99,0:10:16.83,Main,Noir,0000,0000,0000,,She suffers convulsions \Nthat pain her entire body.
+Dialogue: 0,0:10:16.83,0:10:20.47,Main,Noir,0000,0000,0000,,Apparently, the intervals are getting shorter.
+Dialogue: 0,0:10:20.47,0:10:23.94,Main,Luna,0000,0000,0000,,So her curse has progressed that far...
+Dialogue: 0,0:10:24.43,0:10:28.43,Main,Lola,0000,0000,0000,,Luna, you don't need to \Nfeel responsible for this.
+Dialogue: 0,0:10:28.43,0:10:31.64,Main,Lola,0000,0000,0000,,You save dozens of people every day.
+Dialogue: 0,0:10:31.64,0:10:34.54,Main,Lola,0000,0000,0000,,That itself is an amazing feat.
+Dialogue: 0,0:10:35.65,0:10:39.51,Italics,Noir,0000,0000,0000,,It seems that Luna feels \Npretty responsible for this.
+Dialogue: 0,0:10:39.95,0:10:42.42,Italics,Noir,0000,0000,0000,,Maybe she does have some kind of secret.
+Dialogue: 0,0:10:44.00,0:10:45.16,Italics,Noir,0000,0000,0000,,Discerning Eye.
+Dialogue: 0,0:10:45.74,0:10:49.00,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,436)\shad2\b0\fs16\pos(28,114)\fscy115}Species: Half-elf\NAge: 17\NOccupation: Cleric/Adventurer\NSkills: {\fscx85}[Magical Firearms (Grade B)] [Energizing Shot]\N{\alpha&HFF&\fscx}Skills: {\alpha\fscx85}[Healing Shot] [Cowardice] [Lift Curse]
+Dialogue: 0,0:10:45.74,0:10:49.62,Italics,Noir,0000,0000,0000,,Yeah, she definitely has the Lift Curse skill...
+Dialogue: 0,0:10:45.74,0:10:56.38,Text_Box_Body,,0000,0000,0000,,{\p1\fscx360\fscy625\bord4.5\blur1\an4\3c&H000000&\pos(168.666,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:45.74,0:10:56.38,Text_Box_Body,,0000,0000,0000,,{\p1\fscx360\fscy625\bord3\1a&HAA&\c&HAF8264&\an4\pos(168.666,180)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:10:45.74,0:10:56.38,Text_Box_Header,Sign,0000,0000,0000,,{\bord1\pos(46,65)}Luna Heela   Lv.{\fs36}35
+Dialogue: 0,0:10:49.04,0:10:56.38,Text_Box_Text,Sign,0000,0000,0000,,{\fad(400,1)\shad2\b0\fs16\pos(30,120)\fscy125}Skill: Lift Curse\N{\alpha&HFF&}Skill: {\alpha}Erases curse skills. However, the user's\N{\alpha&HFF&}Skill: {\alpha}lifespan is reduced in proportion to\N{\alpha&HFF&}Skill: {\alpha}the strength of the curse.
+Dialogue: 0,0:10:49.62,0:10:52.27,Italics,Noir,0000,0000,0000,,Erases curse skills.
+Dialogue: 0,0:10:52.27,0:10:56.38,Italics,Noir,0000,0000,0000,,However, the user's... lifespan is reduced?!
+Dialogue: 0,0:10:57.47,0:11:01.56,Italics,Noir,0000,0000,0000,,So when she lifts the curse, \NLuna's own lifespan is...
+Dialogue: 0,0:11:13.77,0:11:17.08,Main,Merchant,0000,0000,0000,,Here it comes! This is a huge load!
+Dialogue: 0,0:11:19.27,0:11:22.49,Italics,Noir,0000,0000,0000,,Elves live far longer than humans.
+Dialogue: 0,0:11:22.49,0:11:25.41,Italics,Noir,0000,0000,0000,,But apparently, even so, \NMiss Maria's curse is so powerful
+Dialogue: 0,0:11:25.41,0:11:27.79,Italics,Noir,0000,0000,0000,,that her lifespan can't cover it.
+Dialogue: 0,0:11:31.04,0:11:32.26,Main,Luna,0000,0000,0000,,Noir...
+Dialogue: 0,0:11:34.06,0:11:36.33,Main,Luna,0000,0000,0000,,Lead me to Miss Maria's home.
+Dialogue: 0,0:11:37.15,0:11:39.34,Main,Luna,0000,0000,0000,,I will lift her curse.
+Dialogue: 0,0:11:39.34,0:11:42.95,Main,Lola,0000,0000,0000,,B-But you just said you \Ncouldn't lift her curse.
+Dialogue: 0,0:11:43.94,0:11:45.20,Main,Luna,0000,0000,0000,,Well...
+Dialogue: 0,0:11:45.84,0:11:47.84,Main,Noir,0000,0000,0000,,Emma, Lola.
+Dialogue: 0,0:11:47.84,0:11:49.85,Main,Noir,0000,0000,0000,,Could you leave us for a bit?
+Dialogue: 0,0:11:51.76,0:11:54.29,Main,Noir,0000,0000,0000,,I'd like to talk to Luna in private.
+Dialogue: 0,0:11:58.63,0:12:00.32,Main,Noir,0000,0000,0000,,Sorry this is so sudden.
+Dialogue: 0,0:12:00.32,0:12:04.26,Main,Noir,0000,0000,0000,,I took a look at your stats with my skill.
+Dialogue: 0,0:12:05.75,0:12:09.21,Main,Noir,0000,0000,0000,,If you cure Miss Maria, \Nthat means your life...
+Dialogue: 0,0:12:09.21,0:12:11.12,Main,Luna,0000,0000,0000,,Stop! Don't say anymore!
+Dialogue: 0,0:12:11.12,0:12:11.91,Main,Noir,0000,0000,0000,,But—
+Dialogue: 0,0:12:11.91,0:12:15.34,Main,Luna,0000,0000,0000,,She's at death's door, isn't she?
+Dialogue: 0,0:12:16.54,0:12:21.17,Main,Luna,0000,0000,0000,,How could I possibly leave her alone\N knowing her life is at stake?
+Dialogue: 0,0:12:26.07,0:12:28.68,Main,Luna,0000,0000,0000,,I want to save people.
+Dialogue: 0,0:12:29.70,0:12:31.89,Main,Luna,0000,0000,0000,,Just like my mother would have done.
+Dialogue: 0,0:12:35.43,0:12:38.26,Main,Luna,0000,0000,0000,,My mother was also a cleric.
+Dialogue: 0,0:12:39.99,0:12:42.16,Main,Luna,0000,0000,0000,,Even though she knew that \Nher lifespan was at stake,
+Dialogue: 0,0:12:42.16,0:12:44.40,Main,Luna,0000,0000,0000,,she continued lifting curses.
+Dialogue: 0,0:12:45.55,0:12:49.94,Main,Luna,0000,0000,0000,,She kept her chipping away at her own \Nlifespan to save those who were suffering.
+Dialogue: 0,0:12:49.94,0:12:53.46,Main,Luna,0000,0000,0000,,And now, she's no longer with us.
+Dialogue: 0,0:12:53.46,0:12:54.70,Main,Luna,0000,0000,0000,,But...
+Dialogue: 0,0:12:56.43,0:12:59.80,Main,Luna,0000,0000,0000,,I'm very proud of my mother.
+Dialogue: 0,0:13:04.61,0:13:05.96,Main,Noir,0000,0000,0000,,Luna...
+Dialogue: 0,0:13:05.96,0:13:08.83,Main,Luna,0000,0000,0000,,And because I am my mother's daughter,
+Dialogue: 0,0:13:08.83,0:13:11.57,Main,Luna,0000,0000,0000,,I want to use this power for others...
+Dialogue: 0,0:13:19.95,0:13:22.20,Main,Luna,0000,0000,0000,,{\i1}The Hidden Dungeon Only I Can Enter{\i0}.
+Dialogue: 0,0:13:28.49,0:13:30.05,Main,Walla,0000,0000,0000,,There's trouble!
+Dialogue: 0,0:13:30.05,0:13:32.87,Main,Walla,0000,0000,0000,,A wall collapsed! Someone help!
+Dialogue: 0,0:13:32.87,0:13:34.48,Main,Walla,0000,0000,0000,,There's a child underneath!
+Dialogue: 0,0:13:34.48,0:13:36.00,Main,Walla,0000,0000,0000,,He's terribly injured!
+Dialogue: 0,0:13:37.32,0:13:39.09,Main,Lola,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:13:43.59,0:13:44.93,Main,Emma,0000,0000,0000,,Hang in there!
+Dialogue: 0,0:13:44.93,0:13:47.12,Main,Lola,0000,0000,0000,,W-We need to heal him immediately.
+Dialogue: 0,0:13:48.34,0:13:50.62,Main,Luna,0000,0000,0000,,I wonder sometimes...
+Dialogue: 0,0:13:51.59,0:13:54.40,Main,Luna,0000,0000,0000,,Why are we born into this world?
+Dialogue: 0,0:13:55.33,0:13:59.12,Main,Noir,0000,0000,0000,,I still don't know the answer to that.
+Dialogue: 0,0:13:59.12,0:14:00.46,Main,Luna,0000,0000,0000,,It's all right.
+Dialogue: 0,0:14:01.41,0:14:04.07,Main,Luna,0000,0000,0000,,I'm sure you'll find that answer someday.
+Dialogue: 0,0:14:04.07,0:14:07.57,Main,Noir,0000,0000,0000,,I guess you've already found yours, Luna.
+Dialogue: 0,0:14:08.11,0:14:09.18,Main,Luna,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:09.90,0:14:13.12,Main,Luna,0000,0000,0000,,I can save lives and bring \Nabout so many smiles.
+Dialogue: 0,0:14:13.58,0:14:15.50,Main,Luna,0000,0000,0000,,That is my mission!
+Dialogue: 0,0:14:21.62,0:14:23.30,Main,Luna,0000,0000,0000,,Healing Shot!
+Dialogue: 0,0:14:32.27,0:14:33.51,Main,Emma,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:14:33.51,0:14:34.31,Main,Lola,0000,0000,0000,,Luna!
+Dialogue: 0,0:14:34.31,0:14:35.99,Main,Noir,0000,0000,0000,,W-Wow...
+Dialogue: 0,0:14:35.99,0:14:38.81,Main,Noir,0000,0000,0000,,I guess your cleric title isn't just for show.
+Dialogue: 0,0:14:42.27,0:14:43.29,Main,Noir,0000,0000,0000,,Luna—
+Dialogue: 0,0:14:46.23,0:14:49.61,Main,Noir,0000,0000,0000,,Huh?! Luna?!
+Dialogue: 0,0:14:50.57,0:14:53.03,Main,Noir,0000,0000,0000,,Are you... Huh?!
+Dialogue: 0,0:14:55.99,0:14:58.96,Main,Sign,0000,0000,0000,,{\fad(655,1)\an8\fnArial\b1\fs32\c&HD2583E&\4c&HFFFFFF&\shad3\3c&H9E2404&}I don't\N{\alpha&HFF&\c&HE9B05B&\t(1240,1865,1 \alpha&H00&)}wanna die
+Dialogue: 0,0:14:56.15,0:14:58.96,Main,Luna,0000,0000,0000,,I-I don't wanna die...
+Dialogue: 0,0:15:00.40,0:15:03.18,Main,Luna,0000,0000,0000,,Curses are scary!
+Dialogue: 0,0:15:03.18,0:15:05.46,Italics,Noir,0000,0000,0000,,Where did all of her bravery go?!
+Dialogue: 0,0:15:05.46,0:15:07.48,Italics,Noir,0000,0000,0000,,Wait, could this be...
+Dialogue: 0,0:15:08.51,0:15:09.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(272,220)\fs30\bord3\pos(170,36)}Skill
+Dialogue: 0,0:15:08.51,0:15:09.67,Text_Box_Header,Sign,0000,0000,0000,,{\fad(272,220)\an2\fs40\bord3}[Cowardice]
+Dialogue: 0,0:15:09.76,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(272,1)\fs30\bord3\pos(132,36)}Cowardice
+Dialogue: 0,0:15:10.09,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(694,1)\bord0\shad3\q2\pos(100,116)}Depleting mana or receiving
+Dialogue: 0,0:15:10.88,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1197,1)\bord0\shad3\q2\pos(100,176)}intense attacks may make the
+Dialogue: 0,0:15:12.18,0:15:15.97,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1149,1)\bord0\shad3\q2\pos(100,230)}user even more cowardly.
+Dialogue: 0,0:15:13.19,0:15:15.97,Italics,Noir,0000,0000,0000,,Th-This probably sucks a lot.
+Dialogue: 0,0:15:20.75,0:15:22.17,Main,Lola,0000,0000,0000,,Luna!
+Dialogue: 0,0:15:22.17,0:15:24.13,Main,Lola,0000,0000,0000,,Oh, I knew it.
+Dialogue: 0,0:15:24.91,0:15:27.51,Main,Lola,0000,0000,0000,,Luna's always like this.
+Dialogue: 0,0:15:27.51,0:15:30.34,Main,Lola,0000,0000,0000,,Don't worry, she'll be awake in no time.
+Dialogue: 0,0:15:33.92,0:15:35.35,Main,Luna,0000,0000,0000,,Mommy...
+Dialogue: 0,0:15:35.35,0:15:40.00,Main,Lola,0000,0000,0000,,Don't worry, Mommy's right here.\NCome on, now, up you go.
+Dialogue: 0,0:15:41.96,0:15:45.84,Main,Luna,0000,0000,0000,,I can't believe you saw that! \NPlease just forget it!
+Dialogue: 0,0:15:45.84,0:15:49.96,Main,Luna,0000,0000,0000,,Please! Please! I beg of you!
+Dialogue: 0,0:15:49.96,0:15:51.35,Main,Emma,0000,0000,0000,,Hey, it's okay...
+Dialogue: 0,0:15:51.35,0:15:52.30,Main,Noir,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:52.66,0:15:56.87,Main,Luna,0000,0000,0000,,Now, let us proceed! Maria needs our help!
+Dialogue: 0,0:15:56.87,0:15:57.68,Main,Luna,0000,0000,0000,,Onward!
+Dialogue: 0,0:16:00.71,0:16:02.05,Main,Noir,0000,0000,0000,,B-But...
+Dialogue: 0,0:16:02.05,0:16:05.66,Main,Luna,0000,0000,0000,,Y-You don't need to worry about me...
+Dialogue: 0,0:16:05.66,0:16:07.36,Main,Luna,0000,0000,0000,,I'm not scared of... anything...
+Dialogue: 0,0:16:07.95,0:16:10.75,Main,Noir,0000,0000,0000,,Luna, let's figure out another way.
+Dialogue: 0,0:16:10.75,0:16:11.53,Main,Luna,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:12.15,0:16:14.09,Main,Luna,0000,0000,0000,,B-But why?
+Dialogue: 0,0:16:14.09,0:16:15.14,Main,Noir,0000,0000,0000,,Your legs.
+Dialogue: 0,0:16:17.35,0:16:19.31,Main,Luna,0000,0000,0000,,I-I just can't contain my excitement!
+Dialogue: 0,0:16:19.31,0:16:21.88,Main,Noir,0000,0000,0000,,But you said you were scared of curses.
+Dialogue: 0,0:16:21.88,0:16:24.25,Main,Luna,0000,0000,0000,,What? No way. Can't recall.
+Dialogue: 0,0:16:25.57,0:16:27.08,Main,Lola,0000,0000,0000,,Bad Luna!
+Dialogue: 0,0:16:27.79,0:16:30.18,Main,Lola,0000,0000,0000,,Just tell us the truth already.
+Dialogue: 0,0:16:30.73,0:16:33.63,Main,Lola,0000,0000,0000,,You're scared, aren't you?
+Dialogue: 0,0:16:34.47,0:16:39.51,Main,Luna,0000,0000,0000,,If I save Maria, it's very likely \Nthat I'm going to...
+Dialogue: 0,0:16:40.08,0:16:41.16,Main,Luna,0000,0000,0000,,die.
+Dialogue: 0,0:16:43.81,0:16:47.87,Main,Luna,0000,0000,0000,,Just thinking about that is terrifying.
+Dialogue: 0,0:16:48.50,0:16:51.57,Main,Luna,0000,0000,0000,,I'm a failure as a cleric.
+Dialogue: 0,0:16:56.66,0:16:58.69,Main,Lola,0000,0000,0000,,You'll die if you lift a curse?
+Dialogue: 0,0:16:59.20,0:17:00.83,Main,Lola,0000,0000,0000,,You never told me that before!
+Dialogue: 0,0:17:00.83,0:17:04.48,Main,Luna,0000,0000,0000,,I'm sorry I didn't tell you. But I...
+Dialogue: 0,0:17:05.36,0:17:06.61,Main,Lola,0000,0000,0000,,Huh...
+Dialogue: 0,0:17:06.61,0:17:09.49,Main,Lola,0000,0000,0000,,So I've been hanging out \Nwith you this whole time
+Dialogue: 0,0:17:09.49,0:17:12.21,Main,Lola,0000,0000,0000,,without realizing something that important.
+Dialogue: 0,0:17:12.21,0:17:13.88,Main,Luna,0000,0000,0000,,N-No!
+Dialogue: 0,0:17:13.88,0:17:16.90,Main,Lola,0000,0000,0000,,Some best friend! It pisses me off!
+Dialogue: 0,0:17:20.01,0:17:22.58,Main,Lola,0000,0000,0000,,I'm so mad that I was so clueless.
+Dialogue: 0,0:17:22.58,0:17:23.60,Main,Luna,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:24.12,0:17:28.00,Main,Lola,0000,0000,0000,,I'm sorry I didn't realize how \Nmuch you were suffering.
+Dialogue: 0,0:17:30.05,0:17:31.91,Main,Lola,0000,0000,0000,,You're always like this, Luna!
+Dialogue: 0,0:17:31.91,0:17:35.81,Main,Lola,0000,0000,0000,,You always put others before yourself!
+Dialogue: 0,0:17:35.81,0:17:37.36,Main,Luna,0000,0000,0000,,Lola...
+Dialogue: 0,0:17:37.36,0:17:39.88,Main,Lola,0000,0000,0000,,Rely on me... Please.
+Dialogue: 0,0:17:41.00,0:17:42.32,Main,Lola,0000,0000,0000,,Stupid Luna...
+Dialogue: 0,0:17:43.98,0:17:44.87,Main,Luna,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:49.69,0:17:52.00,Italics,Noir,0000,0000,0000,,Lola... Luna...
+Dialogue: 0,0:17:53.80,0:17:56.94,Italics,Noir,0000,0000,0000,,There's something great about these two.
+Dialogue: 0,0:18:03.14,0:18:05.46,Main,Lola,0000,0000,0000,,Sorry about all this.
+Dialogue: 0,0:18:05.46,0:18:08.90,Main,Luna,0000,0000,0000,,You ended up witnessing \Nsuch an embarrassing scene.
+Dialogue: 0,0:18:08.90,0:18:12.52,Main,Noir,0000,0000,0000,,Oh, no. It was a feast for my eyes.
+Dialogue: 0,0:18:12.52,0:18:15.78,Main,Noir,0000,0000,0000,,Er, I was very moved by you two.
+Dialogue: 0,0:18:15.78,0:18:17.69,Main,Lola,0000,0000,0000,,But what should we do?
+Dialogue: 0,0:18:17.69,0:18:21.09,Main,Emma,0000,0000,0000,,If we try to save Miss Maria, \Nthen Luna will...
+Dialogue: 0,0:18:24.81,0:18:26.12,Main,Noir,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:18:27.13,0:18:29.38,Main,Noir,0000,0000,0000,,Things aren't completely hopeless yet.
+Dialogue: 0,0:18:31.06,0:18:35.13,Main,Noir,0000,0000,0000,,I'll be able to make this work \Nwithout any casualties.
+Dialogue: 0,0:18:37.01,0:18:43.13,Italics,Noir,0000,0000,0000,,Earlier, I just gave it a shot, \Nand took a look at Luna's Lift Curse skill.
+Dialogue: 0,0:18:40.01,0:18:50.52,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(180,5)}[Lift Curse]
+Dialogue: 0,0:18:41.59,0:18:47.98,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,187)\bord0\shad3\pos(95,120)}Erases curse skills.
+Dialogue: 0,0:18:41.59,0:18:47.98,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,187)\bord0\shad3\q2\pos(95,180)}However, the user's lifespan is reduced in
+Dialogue: 0,0:18:41.59,0:18:47.98,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,187)\bord0\shad3\q2\pos(95,236)}proportion to the strength of the curse.
+Dialogue: 0,0:18:43.71,0:18:47.06,Italics,Noir,0000,0000,0000,,I tried to get rid of the whole \N"lifespan is reduced" part, but...
+Dialogue: 0,0:18:48.02,0:18:50.52,Text_Box_Header,Sign,0000,0000,0000,,{\bord0\shad3\an8\pos(135,105)}Uses
+Dialogue: 0,0:18:48.02,0:18:50.52,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(490,175)}Necessary
+Dialogue: 0,0:18:50.52,0:18:53.26,Italics,Noir,0000,0000,0000,,There's no way I can do 10,000 LP.
+Dialogue: 0,0:18:50.52,0:18:54.98,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\an5\pos(542.667,225.333)\shad2\4a&H55&\fscy120}User's lifespan\Nis reduced.
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\pos(29,95)}Lifespan
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\fs20\pos(464,86)}Finances
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\pos(585,58)}rels
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord7\blur1\an4\3c&H000000&\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:18:50.52,0:18:55.02,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord5\1a&HAA&\c&HAF8264&\an4\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:18:54.95,0:18:56.66,Italics,Noir,0000,0000,0000,,Then how about this?
+Dialogue: 0,0:18:55.02,0:19:00.86,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(180,5)}[Lift Curse]
+Dialogue: 0,0:18:56.19,0:18:59.07,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,1684)\bord0\shad3\q2\pos(95,180)}However, the user's lifespan is reduced in
+Dialogue: 0,0:18:56.19,0:18:59.61,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,222)\bord0\shad3\pos(95,120)}Erases curse skills.
+Dialogue: 0,0:18:56.19,0:18:59.61,Text_Box_Header,Sign,0000,0000,0000,,{\fad(364,222)\bord0\shad3\q2\pos(95,236)}proportion to the strength of the curse.
+Dialogue: 0,0:18:56.66,0:18:59.02,Italics,Noir,0000,0000,0000,,I'll just change "lifespan" to "finances."
+Dialogue: 0,0:18:57.40,0:18:59.61,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1904,222)\bord0\shad3\q2\pos(95,180)}However, the user's finances are reduced in
+Dialogue: 0,0:18:59.40,0:19:00.86,Text_Box_Header,Sign,0000,0000,0000,,{\bord0\shad3\an8\pos(135,105)}Uses
+Dialogue: 0,0:18:59.40,0:19:00.86,Text_Box_Header,Sign,0000,0000,0000,,{\bord3\an8\pos(490,175)}Necessary
+Dialogue: 0,0:19:00.86,0:19:02.57,Italics,Noir,0000,0000,0000,,Perfect. This should work.
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\pos(29,95)}Lifespan
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Header,Sign,0000,0000,0000,,{\fad(1,847)\an7\bord3\fs20\pos(464,86)}Finances
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\pos(585,58)}rels
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord7\blur1\an4\3c&H000000&\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Body,,0000,0000,0000,,{\fad(1,847)\p1\fscx190\fscy365\bord5\1a&HAA&\c&HAF8264&\an4\pos(542,260)}m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+Dialogue: 0,0:19:00.86,0:19:03.03,Text_Box_Text,Sign,0000,0000,0000,,{\fad(1,847)\an5\pos(542.667,225.333)\shad2\4a&H55&\fscy120}User's finances\Nare reduced.
+Dialogue: 0,0:19:06.48,0:19:10.41,Main,Noir,0000,0000,0000,,There's a way to save Miss Maria \Nwithout having to sacrifice Luna.
+Dialogue: 0,0:19:12.03,0:19:13.75,Main,Emma,0000,0000,0000,,Really, Noir?
+Dialogue: 0,0:19:13.75,0:19:14.62,Main,Noir,0000,0000,0000,,Yup!
+Dialogue: 0,0:19:15.17,0:19:19.75,Main,Noir,0000,0000,0000,,But I don't have quite \Nenough LP to use this skill...
+Dialogue: 0,0:19:20.41,0:19:21.80,Main,Three,0000,0000,0000,,LP?
+Dialogue: 0,0:19:25.10,0:19:25.81,Text_Box_Text,Sign,0000,0000,0000,,{\fad(314,1)\pos(416,302)\shad2}Lacking
+Dialogue: 0,0:19:26.96,0:19:29.06,Main,Luna,0000,0000,0000,,Delicious foods...
+Dialogue: 0,0:19:29.40,0:19:31.81,Main,Lola,0000,0000,0000,,Making money and satisfying \Nworldly desires...
+Dialogue: 0,0:19:31.81,0:19:36.07,Main,Emma,0000,0000,0000,,And doing exciting things with \Nattractive members of the opposite sex...
+Dialogue: 0,0:19:36.07,0:19:37.71,Main,Noir,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:19:38.12,0:19:42.83,Main,Noir,0000,0000,0000,,I can't use my Get Creative \Nor Editor skills without LP.
+Dialogue: 0,0:19:42.83,0:19:45.58,Main,Noir,0000,0000,0000,,You know, you can't make an omelet \Nwithout breaking a few eggs...
+Dialogue: 0,0:19:48.86,0:19:54.21,Main,Noir,0000,0000,0000,,A-Anyway! Can you think of a way \Nfor me to get 2,000 more LP?
+Dialogue: 0,0:19:54.21,0:19:57.53,Main,Noir,0000,0000,0000,,And maybe something \Nthat'll increase Luna's finances.
+Dialogue: 0,0:19:58.55,0:20:00.48,Main,Emma,0000,0000,0000,,You make it sound so easy.
+Dialogue: 0,0:20:00.48,0:20:02.80,Main,Luna,0000,0000,0000,,I highly doubt there's \Nanything that convenient.
+Dialogue: 0,0:20:02.80,0:20:03.86,Main,Lola,0000,0000,0000,,But there is.
+Dialogue: 0,0:20:03.86,0:20:04.74,Main,Both,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:05.83,0:20:10.72,Main,Lola,0000,0000,0000,,A certain noble holds the perfect event \Nfor this occasion every week.
+Dialogue: 0,0:20:11.23,0:20:13.44,Main,Lola,0000,0000,0000,,The next time it will be held is this weekend,
+Dialogue: 0,0:20:13.44,0:20:16.40,Main,Lola,0000,0000,0000,,so we'll make it just in time to lift the curse.
+Dialogue: 0,0:20:16.40,0:20:19.10,Main,Noir,0000,0000,0000,,What kind of event is it?
+Dialogue: 0,0:20:19.78,0:20:21.06,Main,Lola,0000,0000,0000,,It's called...
+Dialogue: 0,0:20:21.06,0:20:22.11,Main,All,0000,0000,0000,,It's called...?
+Dialogue: 0,0:20:22.11,0:20:24.46,Main,Lola,0000,0000,0000,,The Harem Pride Event!
+Dialogue: 0,0:20:27.43,0:20:30.14,Main,Peppero,0000,0000,0000,,Sorry to keep you waiting, my dudes!
+Dialogue: 0,0:20:31.33,0:20:35.84,Main,Peppero,0000,0000,0000,,Tonight, another ten that \NI'm jealous of... I mean...
+Dialogue: 0,0:20:35.84,0:20:42.62,Main,Peppero,0000,0000,0000,,We'll be meeting some reckless scoundrels \Nwho'll be showing off their hot girlfriends
+Dialogue: 0,0:20:42.62,0:20:44.72,Main,Peppero,0000,0000,0000,,for a chance at one million rels!
+Dialogue: 0,0:20:44.72,0:20:46.24,Main,Crowd walla,0000,0000,0000,,Unforgivable!
+Dialogue: 0,0:20:46.24,0:20:47.39,Main,Crowd walla,0000,0000,0000,,Boo!
+Dialogue: 0,0:20:47.39,0:20:49.47,Main,Crowd walla,0000,0000,0000,,Those lucky bastards!
+Dialogue: 0,0:20:49.47,0:20:50.72,Main,Crowd walla,0000,0000,0000,,Piss off!
+Dialogue: 0,0:20:50.72,0:20:58.25,Main,Peppero,0000,0000,0000,,So vent all the stress you can at \Nthe sight of these shitty normies!
+Dialogue: 0,0:21:00.33,0:21:05.15,Main,Lola,0000,0000,0000,,Apparently, the host of this event has been \Nbetrayed by women countless times.
+Dialogue: 0,0:21:05.15,0:21:10.77,Main,Lola,0000,0000,0000,,And the gentlemen who have gathered \Nhere have experienced something similar.
+Dialogue: 0,0:21:10.77,0:21:13.90,Main,Lola,0000,0000,0000,,Most of them, apparently, \Ndon't have any lovers.
+Dialogue: 0,0:21:14.48,0:21:16.72,Main,Crowd A,0000,0000,0000,,Death to hot guys!
+Dialogue: 0,0:21:16.72,0:21:18.77,Main,Crowd B,0000,0000,0000,,Screw harems!
+Dialogue: 0,0:21:18.77,0:21:20.63,Main,Crowd,0000,0000,0000,,Harems are unforgivable!
+Dialogue: 0,0:21:20.63,0:21:26.63,Italics,Noir,0000,0000,0000,,Th-This isn't a pride event... \NThis is slander.
+Dialogue: 0,0:21:26.63,0:21:29.47,Main,Peppero,0000,0000,0000,,Are you ready, my dudes?
+Dialogue: 0,0:21:30.10,0:21:34.31,Main,Peppero,0000,0000,0000,,Let the Harem Pride Event commence!
+Dialogue: 0,0:21:43.78,0:21:47.36,Main,Noir,0000,0000,0000,,I-I think I want to go home now...
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H1CA0C8&\3c&H05366E&\clip(0,90,640,98)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H31ABCF&\3c&H05366E&\clip(0,98,640,100)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H46B7D6&\3c&H05366E&\clip(0,100,640,102)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H5BC2DE&\3c&H05366E&\clip(0,102,640,104)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H70CDE5&\3c&H05366E&\clip(0,104,640,106)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H85D9EC&\3c&H05366E&\clip(0,106,640,108)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H9AE4F3&\3c&H05366E&\clip(0,108,640,110)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H9AE4F3&\3c&H05366E&\clip(0,110,640,112)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H85D9EC&\3c&H05366E&\clip(0,112,640,114)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H70CDE5&\3c&H05366E&\clip(0,114,640,116)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H5BC2DE&\3c&H05366E&\clip(0,116,640,118)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H46B7D6&\3c&H05366E&\clip(0,118,640,120)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H31ABCF&\3c&H05366E&\clip(0,120,640,122)}Alice Theater
+Dialogue: 0,0:23:22.00,0:23:26.00,Main,Sign,0000,0000,0000,,{\fnTimes New Roman\b1\fs40\pos(324,90)\an8\shad0\bord1\c&H1CA0C8&\3c&H05366E&\clip(0,122,640,130)}Alice Theater
+Dialogue: 0,0:23:22.95,0:23:24.84,Main,Alice,0000,0000,0000,,Alice Theater.
+Dialogue: 0,0:23:27.69,0:23:30.16,Main,Alice,0000,0000,0000,,Big Brother...
+Dialogue: 0,0:23:31.71,0:23:34.10,Main,Alice,0000,0000,0000,,Y-You're back!
+Dialogue: 0,0:23:34.10,0:23:36.10,Main,Noir,0000,0000,0000,,What were you doing, Alice?
+Dialogue: 0,0:23:36.10,0:23:38.64,Main,Alice,0000,0000,0000,,Th-This is just... um...
+Dialogue: 0,0:23:38.91,0:23:41.39,Main,Alice,0000,0000,0000,,I was just fixing your sheets!
+Dialogue: 0,0:23:41.39,0:23:42.98,Main,Noir,0000,0000,0000,,They seem messier than before.
+Dialogue: 0,0:23:45.19,0:23:47.55,Main,Noir,0000,0000,0000,,Don't worry. I'm just going \Nto sleep in them as-is.
+Dialogue: 0,0:23:48.04,0:23:50.35,Main,Alice,0000,0000,0000,,Huh? Big Brother?
+Dialogue: 0,0:23:50.35,0:23:53.52,Main,Noir,0000,0000,0000,,I mean... we're siblings.
+Dialogue: 0,0:23:53.52,0:23:56.78,Main,Noir,0000,0000,0000,,We used to sleep together \Nlike this all the time.
+Dialogue: 0,0:23:56.78,0:23:59.50,Main,Alice,0000,0000,0000,,Y-Yes, of course!
+Dialogue: 0,0:24:04.02,0:24:06.97,Italics,Noir,0000,0000,0000,,U-Uh, hello? Alice is your little sister.
+Dialogue: 0,0:24:06.97,0:24:10.42,Italics,Noir,0000,0000,0000,,There's no way... my LP would go up...
+Dialogue: 0,0:24:12.83,0:24:13.92,Italics,Noir,0000,0000,0000,,Why?
+Dialogue: 0,0:24:17.70,0:24:20.42,Main,Luna,0000,0000,0000,,{\an8}Next time, "The Future of This Harem."
+Dialogue: 0,0:24:18.31,0:24:21.98,Next_Ep_Title,Sign,0000,0000,0000,,{\fad(647,1)\pos(605,305)\an3\blur1\fscx85}#05 "The Future of This Harem"
+Dialogue: 0,0:24:21.98,0:24:27.73,Illustration,Sign,0000,0000,0000,,{\an1\c&H633D45&\4c&H633D45&}Illustration: Fuumi
